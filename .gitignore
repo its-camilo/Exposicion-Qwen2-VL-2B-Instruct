@@ -15,7 +15,10 @@ hf_cache/
 /tmp/ollama.log
 ollama.log
 
-# ¡OJO! Los scripts SÍ se versionan: scripts/*.sh, Modelfile, README_MODELO.md
+# Modelfile.ft se genera solo en cada máquina (lleva ruta absoluta al GGUF)
+Modelfile.ft
+
+# ¡OJO! Los scripts SÍ se versionan (negaciones bajo *.gguf):
 !scripts/*.sh
 !Modelfile
 !README_MODELO.md

@@ -23,10 +23,10 @@ Repo: https://github.com/its-camilo/Exposicion-Qwen2-VL-2B-Instruct (privado)
 ## Uso rápido Mac M1
 
 ```bash
-./scripts/run_ollama.sh
-# o para imágenes:
+./scripts/run_sin_adaptador.sh   # base Q4_K_M (qwen2vl-expo)
+./scripts/run_con_adaptador.sh   # finetuneado: detecta el GGUF de la celda 6b en ~/Descargas y crea qwen2vl-expo-ft
+# o para imágenes (web UI http://localhost:8080):
 ./scripts/run_llamacpp.sh
-# abrir http://localhost:8080, arrastrar imagen
 ```
 
 Modelo base sin finetune **alucina fechas/citas** (verificado: responde 24-feb-1984 / 17-abr-1984). El SFT piloto lo corrige parcialmente.
