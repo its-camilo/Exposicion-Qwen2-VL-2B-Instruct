@@ -1,0 +1,1729 @@
+FUENTE: F03 - Violencia en la Universidad Nacional de Colombia, 1958-2018
+AUTOR: Mauricio Archila Neira; Esteban Roncancio
+URL: https://revistacontroversia.cinep.org.co/index.php/controversia/article/view/1243
+LICENCIA: CC BY-NC 4.0
+CONSULTA: 2026-10-01
+MÉTODO: Extracción automática de texto (pypdf); revisar orden y caracteres
+ESTADO: Copia de trabajo; no usar sin revisión como etiquetas de entrenamiento.
+
+
+=== PAGINA_PDF 1 ===
+Violencia en la 
+Universidad Nacional 
+de Colombia, 1958-2018
+10.
+
+=== PAGINA_PDF 2 ===
+ 
+
+=== PAGINA_PDF 3 ===
+385
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+* Este artículo es resultado de la investigación “Memorias de la Universidad Nacio-
+nal en el conflicto armado (1958-2018)”, coordinada por Mauricio Archila Neira. 
+** Ph. D. en Historia, profesor titular de la Universidad Nacional de Colombia e inves-
+tigador asociado del Cinep. Correo electrónico: marchila@cinep.org.co
+*** Estudiante de la Maestría en Historia, Universidad Nacional de Colombia. Correo 
+electrónico: geroncancioh@unal.edu.co
+Violencia en la Universidad Nacional 
+de Colombia, 1958-2018*
+Por Mauricio Archila Neira**, Esteban Roncancio***
+DOI: https://doi.org/10.54118/controver.vi217.1243 
+Resumen: El artículo hace parte de los esfuerzos que la sociedad colombiana, liderada por la Comi-
+sión para el Esclarecimiento de la Verdad, la Convivencia y la No Repetición (cev ), viene realizando 
+por conocer lo ocurrido durante el conflicto armado colombiano, como un paso para entenderlo y 
+así evitar su repetición. Busca contrastar estadísticas sobre violencia en la Universidad Nacional de 
+Colombia en todas sus sedes, entre 1958 y 2018, con las memorias elaboradas por diversos estamen-
+tos universitarios sobre lo ocurrido en ese lapso de tiempo. En consecuencia, consta de dos partes: 
+inicialmente se hace un recorrido histórico en seis periodos de las luchas y la violencia en la Univer-
+sidad en esos 60 años, para luego analizar las tendencias de las violaciones de derechos humanos a 
+la comunidad universitaria. Así se espera colaborar a la comprensión del conflicto armado en el país, 
+como también alimentar la memoria de la propia Universidad Nacional, tal vez no la más afectada, 
+pero sí muy representativa del trascurrir académico en una sociedad violenta como la colombiana.
+Palabras clave: Universidad Nacional de Colombia, movimientos universitarios, violencia, derechos 
+humanos.
+Violence in the National University 
+of Colombia 1958-2018
+Abstract: The article is part of the efforts that Colombian society, led by the Truth, Coexistence and 
+Non-Repetition Commission, has been making to learn about what happened during the Colom-
+bian armed conflict, as a step towards understanding it and avoiding repetition. It seeks to contrast 
+statistics on violence at the National University of Colombia in all its campuses, between 1958 and 
+2018, with the memories produces by students, professors and workers about what happened that 
+period. It consists of two parts: first, it presents a historical analysis of six periods of struggles and 
+violence at the University in those 60 years, second, it analyzes the trends of human rights viola-
+tions against the university community.
+
+=== PAGINA_PDF 4 ===
+386
+cinep  • iei  • confiar386
+ Mauricio Archila Neira, Esteban Roncancio
+Keywords: National University of Colombia, student movements, violence, human rights, 
+Cómo citar este artículo: Archila Neira, Mauricio y Roncancio, Esteban (2021). Violencia en la Uni-
+versidad Nacional de Colombia, 1958-2018. Revista Controversia, 217, 383-430.
+Fecha de recepción: 5 de febrero de 2021
+Fecha de aprobación: 17 de marzo de 2021
+L
+os diversos estamentos que conforman la Universidad Nacional 
+de Colombia —estudiantes, docentes y trabajadores— han sido 
+protagonistas no solo de la construcción de nación desde el cam-
+po académico y científico, sino también de la democracia. En muchas 
+ocasiones han sido víctimas, pero también, por pocos pero significati-
+vos momentos, actores de la ya larga violencia contemporánea del país. 
+De esta forma los campus universitarios, muy en contra de su vocación 
+académica (Bourdieu, 1990, 2003), por momentos terminaron siendo 
+escenarios de confrontación no solo entre los agentes directos del Es-
+tado y paramilitares de una parte, y los estamentos universitarios de 
+otra, sino entre las distintas corrientes político-militares que se movían 
+en su seno. En esta historia de los últimos 60 años el contexto local, 
+nacional y aún global marcó el devenir de la institución, pero no en 
+pocas ocasiones lo sucedido en nuestras aulas o con algunos miembros 
+de nuestra comunidad afectó, y no en poca medida, el rumbo de los 
+acontecimientos de ese periodo. 
+Es importante iniciar haciendo dos consideraciones. La primera, que 
+la apuesta de esta investigación es por la verdad histórica más que por la 
+judicial. La verdad del historiador que busca comprender lo ocurrido es 
+diferente de la verdad del juez que debe juzgar y establecer sanciones 
+(Ginzburg, 1992). La primera es imparcial, y provisional, mientras la se-
+gunda es normativa y coactiva (Traverso, 2007, p. 66). La del historiador 
+es una verdad de comprensión y explicación, no de juicio y sanción. 
+El sentido de la prueba será diferente: positiva y demostrativa para la jus-
+ticia; conjetural y explicativa para la historia. De esta forma el historiador 
+
+=== PAGINA_PDF 5 ===
+387
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430Violencia en la Universidad Nacional de Colombia, 1958-2018
+pretende entender lo ocurrido para evitar que se vuelva a repetir y así 
+invocar un radical “nunca más” (Hobsbawm, 1998). Para ello debe estar 
+abierto a escuchar todo vestigio del pasado, privilegiando la voz de las 
+víctimas. En esa dirección se apoyará en la memoria que, si bien es frágil, 
+subjetiva y moldeada desde el presente, será el insumo fundamental para 
+la reconstrucción histórica (Archila, 2017). Para tal fin el historiador debe 
+contextualizar y hacer inteligible la memoria directa de las víctimas, para 
+precisamente lograr la comprensión de lo ocurrido, por ejemplo, en la 
+Universidad Nacional de Colombia durante el conflicto armado.
+La segunda es relacionada con la metodología. El paso inicial fue la bús-
+queda de información primaria, precedida de una revisión exhaustiva de 
+la literatura secundaria. Se consultaron archivos públicos, incluidos los de 
+la Universidad Nacional. Adicionalmente se revisaron archivos personales 
+y grupales de profesores, egresados, trabajadores y estudiantes. Se miró 
+prensa del periodo y material audiovisual disponible. Para complementar 
+esta información acudimos a realizar más de 20 entrevistas a actuales 
+estudiantes, egresados, profesores y trabajadores activos o pensionados. 
+A la información cualitativa que resultó de estas fuentes consultadas se 
+le articuló el análisis cuantitativo derivado de sendas bases de datos que 
+se construyeron para esta investigación: la de luchas universitarias —es-
+tudiantiles, profesorales y de trabajadores— y la de violación de derechos 
+humanos a los miembros de la comunidad universitaria, ambas referidas 
+básicamente a la Universidad Nacional de Colombia en todas sus sedes. 
+Para la construcción de dichas bases de datos se consultaron, además de 
+los archivos señalados, diversas series históricas en entidades públicas y 
+organizaciones no gubernamentales (
+ong ), especialmente del Centro de 
+Investigación y Educación Popular (c inep ).
+En consecuencia, lo que se presenta a continuación es una apretada 
+síntesis cronológica sobre lo ocurrido en la Universidad Nacional de 
+Colombia, en todas sus sedes, durante el conflicto armado entre 1958 y 
+2018, para luego mirar en detalle las cifras sobre las afectaciones contra 
+los estamentos universitarios en esos años.
+
+=== PAGINA_PDF 6 ===
+388
+cinep  • iei  • confiar388
+1. La Universidad Nacional de Colombia 
+durante el conflicto armado1 
+La expresión de la violencia política en las universidades públicas atra-
+vesó distintas etapas o fases entre 1958 y 2018. Ello responde principal-
+mente a la interacción entre el Estado —actor fundamental para todo 
+el sistema educativo, y definitivo para el sector público que depende 
+de él para su financiación, pero también en su función de control de la 
+protesta— y los estamentos universitarios, dentro de los que se destaca 
+el estudiantil —que vivió un proceso de rápida radicalización en el pe-
+riodo contemplado—
+2.
+De acuerdo con estos criterios, hemos agrupado en seis subperiodos lo 
+ocurrido en la Universidad Nacional de Colombia durante los 60 años 
+estudiados. Partimos de antecedentes como el despertar del movimien-
+to estudiantil a comienzos del siglo XX, que llegó a un punto culmen 
+en los años 20 no solo por su capacidad de organización en una federa-
+ción nacional que tenía su órgano de publicación y que realizó cuatro 
+congresos además de participar en otros tantos continentales, sino por 
+el despliegue de luchas sociales que cobraron la primera víctima uni-
+versitaria en Bogotá, Gonzalo Bravo Pérez, el 8 de junio de 1929 (Medi-
+na, 1984, pp. 33-44). Luego vino un reflujo organizativo, posiblemente 
+debido a la cooptación del liderazgo estudiantil que hacen los liberales 
+en el poder en los años 30 y la primera mitad de los 40, y el posterior 
+endurecimiento del régimen a finales de ese decenio y gran parte de 
+1 En esta sección nos apoyamos en un texto previo (Archila y Díaz, 2020), concen-
+trándonos en la Universidad Nacional de Colombia, actualizándolo con nuevas 
+fuentes y análisis. La fuente de todas las figuras son las bases de datos que cons-
+truimos para esta investigación.
+2 Se trata de un movimiento socialmente heterogéneo, pues no responde a una identi-
+dad de “clase”, está muy marcado por el factor generacional y su campo de conflicto es 
+el cultural-académico, aunque necesariamente se toca con lo político y lo económico. 
+En los años de estudio, especialmente de los años 60 a los 80, su identidad estuvo 
+entrelazada con la de la izquierda, casi hasta confundirse (Archila, 2012, pp. 72-73).
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 7 ===
+389
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+los años 50, incluida la dictadura de Gustavo Rojas Pinilla (1953-1957). 
+Precisamente en ese marco se dio la fuerte represión a la movilización 
+del 8 y 9 de junio de 1954, que segó la vida de Uriel Gutiérrez y otros 10 
+estudiantes, e inició el enfrentamiento entre el movimiento estudiantil 
+y el régimen militar, enemistad que se aumentará con el paso de los 
+años hasta la caída de Rojas en mayo de 1957, en la que decididamente 
+fueron protagonistas los universitarios.
+1.1 Radicalización acelerada (1958-1970)
+El primer ciclo de esta reconstrucción cronológica se enmarca en el 
+régimen de coalición bipartidista, el Frente Nacional (1958-1974), que 
+gobernó al país por 16 años desde la caída de Rojas y el corto mandato 
+de la Junta Militar que lo sucedió, ligado a un lento crecimiento econó-
+mico, industrial y agrario aún guiado por la política de fortalecimiento 
+del mercado interno y la industrialización por sustitución de importa-
+ciones (
+isi ). En estas condiciones surgió la nueva izquierda que, influi-
+da por la Revolución cubana como en otras partes de América Latina, 
+en general optó por la lucha armada. Pero en el país, a diferencia del 
+resto del continente, la resistencia guerrillera se había iniciado antes y 
+se prolongaría por mucho más tiempo, pues además de la histórica dis-
+tribución inequitativa de la tierra, desde las épocas de la Violencia hubo 
+experiencias de autodefensa campesina que mantuvieron las tradicio-
+nes de resistencia, cuando no las armas (Pizarro, 1991). A ese espíritu 
+rebelde se le intentó poner freno con una tibia reforma agraria que no 
+rompió la histórica concentración de la tierra y más bien hizo eco a las 
+políticas anticomunistas de la Alianza para el Progreso, propuesta por 
+el gobierno norteamericano. En términos universitarios, en estos años 
+se dio un notorio crecimiento de la matrícula
+3, mientras paralelamente 
+aparecieron más instituciones privadas que fueron incorporando cada 
+3 Según Ivon Le Bot (1985), el número de estudiantes universitarios pasó de 20 000 
+en 1958 a 140 000 en 1974. 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 8 ===
+390
+cinep  • iei  • confiar390
+vez mayor número de jóvenes a sus aulas. En consecuencia, surgía la 
+necesidad de reformar la educación superior en el país.
+En ese contexto el movimiento estudiantil, que heredó las luchas demo-
+cráticas contra la dictadura militar, se realimentó del ideario de izquierda 
+para enfrentar no solo los asuntos académicos y la recuperación de la 
+democracia en las universidades y en la sociedad, sino problemas de 
+carestía de vida de amplios sectores populares y en general del modelo 
+económico desarrollista que aumentaba las históricas desigualdades so-
+ciales. Pero esa politización del movimiento estudiantil y parcialmente 
+del profesoral, estuvo acompañada de ciertos rasgos de dogmatismo e 
+intransigencia propios de las izquierdas, viejas y nuevas, que crearon 
+aparatos juveniles para estrechar lazos con el mundo universitario. Pero 
+además contaban con los consejos estudiantiles de carreras y facultades, 
+que elegían delegados a las instancias de gobierno universitario. Esta 
+organización tenía apoyo institucional y locativo para adelantar sus acti-
+vidades (Hernández Gamarra, 2020; entrevista con Guido Lastra, 2020).
+En un momento en que las condiciones de bienestar universitario eran 
+dignas, los jóvenes de clase media que ingresaban a las universidades 
+públicas optaron por una revolución que se veía como inminente, pero 
+sin tener mucho contacto con el pueblo de carne y hueso (entrevista 
+con María Elvira Naranjo, 2020). Así se libraron las primeras luchas es-
+tudiantiles contra el alza de transportes y por el retorno a la democracia 
+plena dentro y fuera de las universidades públicas. El nivel disruptivo 
+de la protesta fue creciendo hasta producir no solo el distanciamiento, 
+sino la enemistad entre estudiantes y el bipartidismo (Archila, 2004). 
+Las memorias suelen resaltar la marcha de junio de 1962, que termi-
+nó en pedreas contra el periódico El Tiempo y el palacio cardenalicio 
+(Jaramillo, 2016). A raíz de esos hechos fueron expulsados conocidos 
+dirigentes estudiantiles señalados como cabecillas de la protesta (Her-
+nández Gamarra, 2020; entrevista con Lastra, 2020). Esto a su vez pro-
+vocó la solidaridad de los profesores de Sociología, incluido el padre 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 9 ===
+391
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Camilo Torres, marcando el inicio de su propia radicalización, pues el 
+cardenal Concha Córdoba le ordenó retirarse de la Universidad. Con el 
+tiempo los estudiantes fueron reintegrados, pero la ruptura con el Fren-
+te Nacional estaba sellada.
+Por eso el Estado pretendía apartar a los estudiantes de la politización, 
+mientras propiciaba la modernización del sistema educativo, especial-
+mente superior, para lo cual recibió orientación desde Estados Unidos 
+con el Informe Atcon. Según José Fernando Ocampo (1980, p. 28), el in-
+forme buscaba conciliar educación y desarrollo, mientras caracterizaba 
+a nuestras universidades como instituciones medievales. En concreto 
+proponía una universidad apolítica, autofinanciada —casi privatizada 
+por la vía de crecientes matrículas— y gobernada autocráticamente al 
+servicio del Estado, en consonancia con los planes de desarrollo del 
+momento (Atcon, 1963, pp. 113, 116). La propuesta norteamericana no 
+se implementó completamente pero sí influyó en las políticas oficiales 
+de esos años (Acevedo Tarazona, 2004). 
+Paralelamente se expidió la nueva ley orgánica (65 de 1963) de la Uni-
+versidad Nacional, que reorganizó su estructura de funcionamiento 
+creando el Consejo Superior Universitario como el máximo órgano di-
+rectivo, mientras el Consejo Académico —integrado por la comunidad 
+universitaria— retomó su lugar como cuerpo consultivo. Parcialmente 
+este ímpetu modernizador va a ser recogido en la conocida reforma Pa-
+tiño de mediados de los años 60, que fue concertada con los estamentos 
+universitarios. Esta reforma integró muchas de las existentes 26 facul-
+tades en unas pocas más fuertes, y también reforzó la creación de los 
+departamentos como unidades académicas y administrativas propias de 
+cada disciplina, mientras alimentó la aparición de ciclos básicos en esas 
+nacientes facultades (Carrillo, 2006, pp. 21-24). También contribuyó a 
+la carrera docente fortaleciendo la contratación de profesores de tiempo 
+completo y dedicación exclusiva (Acevedo, 2015, p. 107).
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 10 ===
+392
+cinep  • iei  • confiar392
+Este espíritu modernizador sería retomado a finales de los años 60 por 
+el esfuerzo conjunto entre el Gobierno y las directivas universitarias, 
+conocido como Plan Básico, también asesorado por instituciones nor-
+teamericanas. De acuerdo con el mismo Ocampo (1980), este plan si-
+guió los lineamientos del Informe Atcon, pero moderándolo, al insistir 
+no tanto en la privatización de las universidades sino en un régimen 
+mixto mediante financiación externa. No era extraño entonces que 
+algunas fundaciones norteamericanas se hicieran presentes en nues-
+tros campus, apoyando la investigación, trayendo profesores visitantes 
+y hasta construyendo edificios como el de Sociología, que se estrenó 
+en 1964 (Jaramillo, 2016). Para muchos activistas estudiantiles y algu-
+nos profesores críticos, estos apoyos no eran gratuitos y despertaron 
+el sentimiento antiimperialista latente en nuestras capas medias. En 
+tal contexto de radicalismo, se dio el injusto señalamiento de Orlando 
+Fals Borda por sus vínculos con esas fundaciones y en general con la 
+academia norteamericana, pidiendo su retiro cuando en realidad él ya 
+se había alejado de la Universidad Nacional para atender compromi-
+sos internacionales (entrevistas con Hésper Pérez y con Jaime Eduardo 
+Jaramillo, 2020). Aunque tampoco se implementó como tal, el Plan 
+Básico dio pauta para la creación de un sistema de educación superior 
+controlado por el 
+i cFes  (Instituto Colombiano para el Fomento de la 
+Educación Superior4), introduciendo de paso la necesidad de pruebas 
+de admisión a las instituciones del sistema (Acevedo, 2015, p. 107).
+En términos de las tendencias de las luchas estudiantiles en la Uni-
+versidad Nacional hay unos picos altos entre 1963 y 1966 (figura 1), 
+que coinciden con el despliegue organizativo de la recién creada 
+Fun  
+(Federación Universitaria Nacional), organización de amplia cobertura, 
+pues integró prácticamente a todos los estudiantes de las universidades 
+públicas del país y unas cuantas privadas, mientras impulsó acciones 
+4 En el 2009 su nombre cambió a Instituto Colombiano para la Evaluación de la Edu-
+cación, aunque mantuvo la sigla (Decreto 5014/09).
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 11 ===
+393
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+de mucho impacto nacional como la marcha de la uis  (Universidad In-
+dustrial de Santander) a Bogotá en 1964 y la huelga de la Universidad 
+de Antioquia en 1965 (Ruiz, 2002). Era también el momento en el que 
+sobresalía Camilo Torres Restrepo, primero como capellán y profesor de 
+Sociología, y luego como dirigente político hasta su prematura muerte 
+en la guerrilla, en febrero de 1966 (Aguilera, 2002). Precisamente este 
+insuceso y la posterior ilegalización de la 
+Fun , van a marcar el inicio 
+de un ciclo represivo derivado de fuertes choques con el entonces pre-
+sidente Carlos Lleras Restrepo (1966-1970). Y es que además de haber 
+sufrido la encerrona en la Facultad de Derecho cuando era candidato en 
+1964, Lleras Restrepo fue recibido con una pedrea al inicio de su man-
+dato, mientras iba a inaugurar un edificio con el magnate norteameri-
+cano John D. Rockefeller, el 26 de octubre de 1966. La airada respuesta 
+del presidente fue detener a un centenar de estudiantes, allanar la sede 
+de la 
+Fun  que era la misma de los Consejos Estudiantiles de la Univer-
+sidad, debilitándolos de paso (Ruiz, 2002, pp. 209-210).
+Durante el resto de su mandato no solo disminuyeron las protestas 
+estudiantiles, sino que las pocas que se dieron fueron duramente 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+Figura 1
+Trayectoria de las luchas sociales en la Universidad Nacional
+1958-2018
+30
+25
+20
+15
+10
+5
+0
+1958
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018 
+
+=== PAGINA_PDF 12 ===
+394
+cinep  • iei  • confiar394
+castigadas 5. La represión vivida en esos años fue de carácter “institu-
+cional” (Archila, 2019), realizada a través de la policía y del cuerpo 
+élite del Ejército conocido como Policía Militar, aunque enmarcada 
+en un estado de sitio casi permanente. A pesar de la dura respuesta 
+estatal, por esos años el número de víctimas letales de violaciones 
+de derechos humanos en los estamentos de nuestra universidad no 
+fue muy alto (figura 2), algo que en parte se explica por la ausencia 
+de información confiable, en una época en la que la defensa de di-
+chos derechos no era un punto prioritario en los círculos intelectua-
+les y políticos de oposición. 
+Figura 2
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+1958
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+Trayectoria de las violaciones de derechos humanos en la Universidad 
+Nacional, 1958 -2018
+No obstante, se recuerdan, entre otras, las muertes de los estudiantes 
+Jorge E. Useche de la Universidad Jorge Tadeo Lozano, en el marco de 
+5  Como lo muestra el documental de Carlos Álvarez titulado Asalto, referido a dos 
+ocupaciones militares del campus de Bogotá en 1967 y 1969.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 13 ===
+395
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+luchas antiimperialistas convocadas por la Fun  en 1965, y de Rómulo 
+Carvalho, de la Facultad de Ingeniería de la Universidad Nacional, en 
+1969, quien también hacía parte de las milicias urbanas del Ejército de 
+Liberación Nacional (eln ). Estas muertes, especialmente la de Carvalho 
+—que fue una ejecución extrajudicial— causaron sorpresa en el mundo 
+estudiantil, que no pensaba que la enemistad con el bipartidismo llega-
+ra tan lejos (entrevista con María Elvira Naranjo, 2020), lo que influyó 
+en la posterior escalada de la protesta universitaria. Hasta ese momen-
+to, según lo recuerdan muchos testimonios, los enfrentamientos con la 
+policía, conocidos como “pedreas”, no eran tan violentos como serían 
+en decenios posteriores. Incluso el mismo Carlos Álvarez recordaba que 
+“las peleas en la Universidad Nacional son como un juego, en donde 
+arremete la policía, los estudiantes se echan para atrás, se repliegan” 
+(memoria en Acevedo, 2016, p. 204). 
+1.2 Hacia los sectores populares (1971-1977) 
+Un segundo ciclo del movimiento estudiantil se presentó entre 1971 y 
+1977, precisamente cuando se daba el tránsito del último gobierno del 
+Frente Nacional, el de Misael Pastrana (1970-1974), al primero de su 
+desmonte, el de Alfonso López Michelsen (1974-1978). Fueron años 
+de gran movilización social por esa transición política, pero además 
+porque se iniciaba en el país, como en general en América Latina, el 
+giro del modelo económico 
+isi  hacia la apertura exportadora, cuyos 
+primeros pasos se acompañaron de un notorio aumento en el costo 
+de vida. 
+Así, en 1971 se presentaron amagos de paro obrero junto con una oleada 
+de invasiones de tierra agenciadas por la Asociación Nacional de Usua-
+rios Campesinos (anuc ), mientras el movimiento universitario iniciado 
+en la Universidad del Valle, pero extendido a todas las universidades 
+públicas y algunas privadas, se unió en torno al Programa Mínimo, que 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 14 ===
+396
+cinep  • iei  • confiar396
+se opuso al Plan Básico 6. A pesar de los choques entre los estudiantes 
+y la fuerza pública, con los consiguientes allanamientos y cierres de las 
+universidades públicas, el gobierno terminó recogiendo parcialmente el 
+programa estudiantil por medio de la propuesta ofrecida por el joven 
+ministro de Educación Luis Carlos Galán (Cote, 2009). Esta propuesta, 
+según José Fernando Ocampo (1980), retomaba el Plan Básico con al-
+gunas diferencias: dejaba por fuera del sistema universitario la educa-
+ción intermedia vocacional y ocupacional, y sobre todo nominalmente 
+daba más participación a los estamentos estudiantiles y profesorales 
+en los cuerpos directivos de las universidades públicas. Esto último se 
+llamó “cogobierno” y fue un efímero experimento en algunas univer-
+sidades públicas como la Nacional, la 
+uis  y la de Antioquia (Acevedo, 
+2015, p. 109). En realidad, la “reforma Galán” disminuyó la autonomía 
+universitaria, favoreció la privatización —vía alza de matrículas— y la 
+financiación externa, mientras clasificó a los profesores y trabajadores 
+como empleados públicos, con lo que tenían prohibida la negociación 
+sindical y el derecho de huelga (Ocampo, 1980, p. 44). 
+Ante el fracaso de esta reforma, debido en parte a la movilización es-
+tudiantil, en 1972 el gobierno de Misael Pastrana nombró directivas  de 
+corte autoritario en las instituciones de educación superior públicas. En 
+el caso de la Nacional fue designado el arqueólogo Luis Duque Gómez. 
+Fueron tiempos difíciles de cierres y cancelaciones de semestres, así 
+como de expulsión de profesores y estudiantes en las universidades pú-
+blicas y en algunas privadas, quienes se opusieron en forma novedosa 
+por medio de la convocatoria de claustros profesorales y estudiantiles. 
+Esta experiencia, en la que participó activamente Hésper Pérez (entre-
+6 En términos generales dicho programa abogaba por formas más democráticas de 
+gobierno universitario y mayor participación en la construcción de su instituciona-
+lidad, financiación adecuada de las universidades públicas, retiro de las fundacio-
+nes norteamericanas y de la Fundación para la Educación Superior (
+Fes ) en la Uni-
+versidad del Valle, reconocimiento de las organizaciones estudiantiles autónomas y 
+reapertura de la Facultad de Sociología en la Universidad Javeriana (Varios, 1973, 
+pp. 85-88 y Cote, 2009, p. 425).
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 15 ===
+397
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+vista, 2020), fue muy renovadora, pues apeló a una participación de la 
+base profesoral; sin que hubiera una imposición, sectores estudiantiles 
+la retomaron para hablar precisamente de Comités de Base en las mo-
+vilizaciones de 1970 y 1971.
+A inicios del gobierno de López Michelsen, en medio de una generali-
+zada agitación social, en la Universidad Nacional hubo movilizaciones 
+en defensa del Hospital de la Hortúa —entidad departamental en la que 
+hacían prácticas los estudiantes de Medicina—, que terminaron con la 
+renuncia del rector Luis Carlos Pérez, dando fin a una breve apertura 
+democrática en las instituciones públicas, conocida como “experimen-
+to marxista” en la universidad. En ese contexto se dio la breve toma 
+del hospital por parte de estudiantes, profesores, personal médico, e 
+incluso del decano de la Facultad de Medicina, Guillermo Fergusson; 
+sectores todos que sufrieron dura represión en la contratoma militar 
+del hospital a los pocos días (entrevista con Francisco Reyes, 2020). 
+Contrario a su aura reformista, el gobierno de López mostró su verda-
+dero rostro represivo al perseguir a estudiantes y profesores, y levantar 
+mallas para aislar los centros docentes superiores de su entorno físico 
+(Ocampo, 1980, pp. 74-81).
+El movimiento estudiantil continuó su proceso de radicalización y el ni-
+vel de confrontación con la fuerza pública se escaló, dando la impresión 
+de que la guerrilla no solo reclutaba simpatizantes en las universidades, 
+especialmente públicas, sino que se estaba involucrando en su vida co-
+tidiana para incorporarlas a su estrategia revolucionaria (Rudas, 2019). 
+Una expresión de esa radicalización fue la decapitación simbólica de la 
+estatua del general Santander en la plaza central, que fue rebautizada 
+como plaza Che, el 8 de octubre de 1976 (García, 2002, p. 181). Para 
+este momento se hizo evidente el influjo de las nuevas izquierdas en 
+el liderazgo estudiantil, especialmente de los sectores maoístas, en sus 
+dos vertientes: el ala moderada en torno a la 
+j upa  (Juventud Patriótica) 
+y la más radical cercana al epl  (Ejército Popular de Liberación).
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 16 ===
+398
+cinep  • iei  • confiar398
+Mientras tanto López disminuyó el presupuesto de las universidades 
+públicas para concentrar recursos en la educación primaria, según los 
+dictados del Banco Mundial. Los recortes presupuestales y el incremen-
+to de matrículas sugeridos en el Plan de Desarrollo de López comenza-
+ron a ser un punto prioritario en la lucha estudiantil. Dichos recortes 
+afectaron el bienestar universitario, que dejó de ser considerado como 
+un derecho para volverse simplemente un servicio prestado en forma 
+deficiente. Aunque todavía las memorias de la época hablan de los 
+“años maravillosos” en que el campus era lugar de vida académica y 
+extracurricular, el deterioro del bienestar acabaría con esos tiempos fe-
+lices (entrevistas a Mauricio Chavarro y Juan Carlos del Castillo, 2020). 
+Estos giros políticos explican en parte el pico de protestas estudiantiles 
+de esa época, el más alto en todos los 60 años estudiados (figura 1), y 
+el acercamiento del mundo universitario a los sectores populares sub-
+alternos, que derivó, por ejemplo, en la participación en el paro cívico 
+del 14 de septiembre de 1977, pagando una alta cuota de sangre en esa 
+jornada (Medina, 1984, pp. 162-163).
+La respuesta oficial a las protestas estudiantiles, como en general a toda 
+lucha social, fue de zanahoria con garrote, pues aunque se otorgaron 
+algunas concesiones reformistas, la represión policial fue muy fuerte en 
+estos años. Pero es todavía una respuesta institucional en medio de las 
+declaratorias de estado de sitio acompañadas de los consejos verbales 
+de guerra contra líderes estudiantiles y sociales, tratados como guerri-
+lleros. En todo caso los datos de violación de derechos humanos en 
+la Universidad Nacional siguen siendo relativamente bajos para estos 
+años (figura 2), posiblemente también por los problemas de informa-
+ción ya anotados. Con todo, en este subperiodo se destacan los alevosos 
+asesinatos de José Yesid Castañeda, con la utilización de nuevo arma-
+mento represivo de parte de la policía; de José Darío Palma, en jornadas 
+antielectorales y de solidaridad con otros sectores sociales en 1974; y 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 17 ===
+399
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+de Alexis Omaña, en 1976, en medio de una encerrona militar en el 
+campus de Bogotá.
+1.3 Entre la represión y la democracia (1978-1990)
+El desborde popular del paro cívico de 1977 generó una lectura común 
+en los extremos políticos de una situación casi insurreccional, pero con 
+conclusiones opuestas: estimular el levantamiento popular para la iz-
+quierda o aniquilar esa posible insurrección para la derecha (Medina, 
+1984, pp. 123-186). En ese sentido, el presidente Julio César Turbay 
+(1978-1982) proclamó al mes de iniciado su mandato el Estatuto de 
+Seguridad, como marco institucional de represión a todo desconten-
+to ciudadano, mientras se seguían dando pasos hacia la apertura eco-
+nómica neoliberal. Esto último fue algo que parcialmente se frenó al 
+inicio del siguiente mandato de Belisario Betancur (1982-1986), pero 
+que pasados dos años se retomó por la crisis económica en la que se 
+sumió el país. Algo similar ocurrirá en materia de paz, pues en 1984 se 
+logró una tregua con algunas guerrillas como las 
+Farc , el M-19, el ado  
+(Autodefensa Obrera) y el epl , las que entre 1985 y 1987 ya estaban de 
+nuevo en armas. El resultado no esperado de este retorno a la lucha 
+guerrillera, marcado por la toma del Palacio de Justicia por el M-19 y 
+la contratoma por las Fuerzas Armadas en noviembre de 1985, fue una 
+brutal “guerra sucia” contra líderes sociales y dirigentes de izquierda 
+(Archila y otros, 2012). La tímida descentralización política plasmada 
+en la elección popular de alcaldes por esos años, se vio ahogada por 
+un nuevo baño de sangre promovido por las mafias narcotraficantes 
+y grupos paramilitares que afloraron en el país ante la incapacidad de 
+las fuerzas del orden de contener, dentro de marcos institucionales, los 
+desbordes populares (Archila, 2019).
+En ese contexto nacional, que se enmarcaba en el retorno a la demo-
+cracia por el fin de las dictaduras en el Cono Sur y Centroamérica, y en 
+la dramática caída del socialismo “realmente existente” en Europa del 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 18 ===
+400
+cinep  • iei  • confiar400
+Este, se inició la abierta violencia contra sectores de izquierda, especial-
+mente de la Unión Patriótica (up ), y contra los actores sociales, inclui-
+dos los estamentos universitarios. Ello se hizo evidente, por ejemplo, 
+con la desaparición y posterior asesinato de un grupo de estudiantes, la 
+mayoría de la sede capitalina de la Universidad Nacional, acusados del 
+secuestro y muerte de los pequeños hijos de un narcotraficante. Estos 
+hechos serán conocidos como el Colectivo 82 (Asociación de Familiares 
+de Detenidos y Desaparecidos [
+asF addes ], 2003). 
+Este caso de desaparición colectiva estuvo precedido del asesinato del 
+estudiante Patricio Silva, en un ingreso de la fuerza pública a la Univer-
+sidad en 1978, nuevamente en el contexto de jornadas antielectorales. 
+En el mismo 1982 también fue asesinado por paramilitares, cerca del 
+campus, el profesor de Derecho y defensor de presos políticos, Alberto 
+Alava (Arenas y Girón, 2014; entrevista con Vicente Zamudio, 2020). 
+Dos años después habrá un gran pico de violencia contra estamentos 
+universitarios, siendo el 16 de mayo el peor episodio (figura 2), así aún 
+no se sepa con certeza el número y las identidades de los desapareci-
+dos y asesinados de esa luctuosa jornada (Flórez, 2019). Pero allí no 
+terminó la violencia contra los estamentos universitarios, aunque en 
+los campus de la Universidad Nacional no se llegó a las dimensiones 
+de lo ocurrido en la Universidad de Antioquia por esos años y luego 
+en las universidades de la Costa Atlántica (Beltrán y otros, 2019). Con 
+todo, en 1987 varios profesores de Derecho, entre ellos Eduardo Umaña 
+Luna, Alfredo Vásquez Carrizosa y Jaime Pardo Leal, fueron amenaza-
+dos; el último sería posteriormente asesinado, siendo presidente de la 
+up . Igualmente, en ese año fue cruelmente asesinado el estudiante de 
+Derecho Luis A. Parada.
+Además de la brutal represión, en 1979 Turbay había presentado una 
+reforma que buscaba organizar el sistema de educación superior inclu-
+yendo la formación técnica, y daba los lineamientos de la organización 
+interna de los entes públicos universitarios. Para el Gobierno era ne-
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 19 ===
+401
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+cesario controlar el caótico crecimiento de instituciones tecnológicas 
+y de universidades privadas, así como, supuestamente, atender a la 
+situación presupuestal de las públicas. La Reforma Universitaria de Tur-
+bay, que se concretó en el Decreto 80 de 1980, no fue consultada con 
+la comunidad universitaria por lo que fue tachada de antidemocrática 
+(Ocampo, 1980, p. 184). Entre otras cosas ratificaba un lesivo régimen 
+laboral para profesores y trabajadores al pasarlos de trabajadores ofi-
+ciales a empleados públicos, cercenando la negociación laboral y el 
+derecho de huelga (León, 2008). En ese sentido, a mediados de los 
+80 vuelve la lucha, especialmente de los trabajadores, en contra de 
+su transformación en empleados públicos y por la nivelación salarial, 
+pugna que se radicalizó en 1986 con una recordada huelga de hambre. 
+Aunque se logró un acuerdo con las directivas, lo firmado no fue ratifi-
+cado por el Consejo Superior por lo que quedó pendiente la nivelación, 
+siendo motivo de posteriores protestas (entrevistas a María Piedad León 
+y Anónimo 2, 2020).
+Por este tiempo hubo una modificación en los reclamos estudiantiles. 
+En comparación con los tiempos del Frente Nacional, ahora aumentó 
+la exigencia de presupuesto adecuado para la dotación física de las 
+universidades públicas, así como para un desenvolvimiento académico 
+apropiado, comenzando por la democracia interna y la necesaria parti-
+cipación de los estamentos universitarios en las grandes decisiones de 
+las instituciones de educación superior. Fue el momento también de 
+recorte del bienestar estudiantil, con nuevos cierres de residencias y 
+cafeterías, en medio de la transición hacia formas de autofinanciación 
+acompañadas de un cierto asistencialismo. Esto se plasmó en la prime-
+ra rectoría de Marco Palacios, luego del prolongado cierre de 1984-1985. 
+Fue muy criticada no solo por su política de vigilancia que hacía recor-
+dar la figura del “gran hermano” de Orwell, sino por la realización de 
+una exposición de caballos con presencia de los Ochoa, en el campus 
+de Bogotá, evento que fue cancelado por la rectoría después del cho-
+que de los mafiosos con estudiantes. Desafortunadamente se dio en un 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 20 ===
+402
+cinep  • iei  • confiar402
+momento en el que el microtráfico de alucinógenos aparecía en la sede 
+capitalina (entrevista con José Vicente Zamudio, 2020).
+Para esa época, tal vez por la recurrente cancelación de semestres y los 
+recortes en bienestar, se hizo evidente la menor presencia de estudiantes 
+de otras regiones, en particular en la sede Bogotá, que comenzó a aco-
+ger sobre todo a los provenientes del centro del país. Más preocupante 
+fue la disminución de la matrícula universitaria por esos años (Flórez, 
+2019, p. 279). Esto, junto con la violencia desbordada en el país y en 
+las universidades, puede explicar el relativo descenso de las protestas 
+estudiantiles en este subperiodo (figura 1), al menos en comparación 
+con los anteriores (García, 2002). Otra cosa fue la escalada en el nivel 
+de la confrontación con la fuerza pública, pues al parecer algunas or-
+ganizaciones guerrilleras, especialmente el M-19 —cuyo origen es más 
+urbano y de capas medias (López, 2019)—, se vinculan estrechamente 
+a la dinámica universitaria (Rudas, 2019).
+Pero no todo fue negativo en esos años: los estudiantes de las univer-
+sidades públicas y algunas privadas continuaron haciendo acciones de 
+carácter lúdico, con el fin de mostrar los problemas de sus instituciones. 
+El deterioro en las condiciones de derechos humanos derivó también 
+en eventos culturales de denuncia, algunos de ellos conocidos como 
+Jornadas por la Vida, con el nombre del desaparecido poeta universita-
+rio Chucho Peña. Por último, la incesante violencia en forma cada vez 
+más degradada, llevó a grupos estudiantiles de universidades privadas 
+y públicas a presionar la convocatoria de una asamblea constituyente, 
+lo que finalmente se logró al terminar este subperiodo. 
+1.4 Nueva Constitución y apertura neoliberal (1991-2001)
+Este decenio está enmarcado en el país entre la expedición de la nueva 
+Constitución y los diálogos de paz con las 
+Farc -ep  en San Vicente del 
+Caguán, en medio de la apertura económica según los dictados del 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 21 ===
+403
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Consenso de Washington. Si en cuanto a la violencia Colombia seguía 
+siendo muy particular dentro del continente, en la apertura económica 
+estábamos conectados con el planeta, pues con la caída del socialismo 
+realmente existente ingresó en escena el “fin de la historia” y el ascenso 
+del neoliberalismo, acompañados de procesos de retorno a la democra-
+cia en Europa del Este y América Latina, pero se trató de una democra-
+cia más liberal y representativa que integral y realmente participativa 
+(Anderson, 1992). 
+La apertura neoliberal se hizo evidente desde el gobierno de César Gavi-
+ria (1990-1994) con sus efectos de desmonte y privatización del Estado, 
+desregulación del mercado laboral y pérdida de la calidad del trabajo 
+formal, abandono de las reformas agrarias y de la industrialización en-
+dógena por la apertura exportadora, entre otros aspectos estructurales 
+(Misas, 2002). Estos procesos produjeron la crisis en los movimientos 
+sociales con identidad de clase —especialmente obreros y campesi-
+nos— y sus formas “modernas” de organización como los sindicatos. 
+El mundo universitario público también sufrió el efecto del cambio del 
+subsidio estatal de la oferta a la demanda —como había ocurrido con 
+la salud—, mientras pomposamente se declaraba en la nueva Constitu-
+ción el “derecho” a la educación. 
+Desde esta perspectiva la Ley 30 de 1992 entró a regular el Sistema de 
+Educación Superior, produciendo rezagos financieros en su funciona-
+miento, pues se propuso atar el incremento de los aportes estatales 
+al índice anual de precios al consumidor para mantenerlos en pesos 
+constantes. Si bien el gobierno de Gaviria no tenía como prioridad la 
+educación superior, le urgía adecuar los entes universitarios al nuevo 
+contexto global y nacional (Lucio, 1993). Entonces dicha ley intentó 
+reorganizar el Sistema de Educación Superior, definiéndola como un 
+“servicio público” . Este sistema incluye no solo las universidades como 
+tales, sino a los institutos técnicos y escuelas tecnológicas. Además de 
+fortalecer el papel vigilante del Estado —por medio del 
+i cFes — ante la 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 22 ===
+404
+cinep  • iei  • confiar404
+proliferación indiscriminada de instituciones, se crearon instancias for-
+males de coordinación como el cesu  (Consejo Nacional de Educación 
+Superior), en el que los estamentos propiamente universitarios son la 
+minoría. Y para responder a la presión desde las bases y adecuarse a las 
+pautas de autonomía y autogobierno proclamadas por la Constitución 
+del 91, se abrió la puerta a supuestos procesos participativos en la de-
+signación de sus autoridades, pero reservándose el Gobierno de turno 
+la última palabra por medio de los Consejos Superiores de las univer-
+sidades, en los que tendrá la mayoría. Que dicha ley no solucionó los 
+problemas de la educación superior es constatado por los abundantes 
+conflictos que se dieron en esos años en torno a la designación de las 
+directivas —por lo común desconociendo la opinión de los estamentos 
+universitarios—, la autonomía universitaria o por problemas financie-
+ros, de infraestructura y de bienestar.
+En ese contexto la rectoría de Antanas Mockus propuso una reforma 
+del sistema de matrículas por medio del Acuerdo 46 de 1991, mientras 
+le apostó decididamente a la calificación del profesorado, que entró en 
+una dinámica cada vez más individualista de incrementar sus ingre-
+sos vía el aumento del “puntaje” por producción académica evaluada 
+según modelos externos, especialmente norteamericanos. A pesar del 
+individualismo que comenzó a proliferar en los campus universitarios, 
+trabajadores y profesores tomarán algún protagonismo a mediados de 
+los años 90 y encabezarán asambleas permanentes y paros en pro de un 
+reajuste salarial que, aunque pactado con el Estado, poco se cumplió. 
+Los estudiantes se solidarizaron pidiendo, además, el incremento del 
+presupuesto para bienestar universitario.
+Las limitaciones presupuestales y democráticas propiciaron una mode-
+rada movilización universitaria, menor que en periodos anteriores, pero 
+desafortunadamente acompañada de altas dosis de violencia letal. De 
+hecho, estos diez años muestran el más alto promedio de violaciones 
+de derechos humanos a estamentos de nuestra universidad (figura 2). 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 23 ===
+405
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Es también el momento de mayor despliegue del paramilitarismo en el 
+país, cuyos coletazos terminaron afectando a la Universidad Nacional, 
+especialmente a líderes estudiantiles y profesorales. Así tendremos la 
+extraña muerte de Beatriz Sandoval en un tropel en 1991, en una nue-
+va conmemoración del 16 de mayo; el también confuso homicidio de 
+Humberto Peña Taylor, el Duche, en la cafetería de Derecho a plena 
+luz del día en 1995; el asesinato del profesor Jesús Antonio Bejarano, 
+en 1999, cuando entraba a dictar clase en el edificio de Contaduría 
+—recientemente reconocido por las 
+Farc —; y un año después la desa-
+parición y posterior asesinato del presidente de Sintraunicol, Gilberto 
+Agudelo. Incluso en agosto del mismo 2000 muere, en un tropel, el 
+patrullero de la Policía, Mauricio Soto.
+A pesar de los altos indicadores de violencia y el indudable despliegue 
+paramilitar, en este subperiodo no encontramos claros patrones de vio-
+lencia como en periodos anteriores porque, entre otras cosas, la protesta 
+universitaria había bajado. Son años en los que sigue la transformación 
+ya señalada de pedreas a tropeles, por momentos muy violentos. Con la 
+ruptura de los diálogos de paz en Caracas y Tlaxcala con la Coordina-
+dora Guerrillera y el incremento del accionar paramilitar, cobijado por 
+las cooperativas Convivir, la guerra se recrudeció y tocó los espacios 
+universitarios. A ello se sumó la irrupción cada vez más visible del mi-
+crotráfico en nuestro campus, especialmente en Bogotá, haciendo muy 
+complejos los coletazos de la guerra. Nuestras sedes no fueron las más 
+afectadas, pero vivieron el momento tal vez más violento de su historia 
+reciente (entrevista con Leopoldo Múnera, 2020).
+1.5 El embrujo de Uribe Vélez (2002-2010)
+Como lo sugiere el subtítulo de la sección, estos ocho años correspon-
+den al largo mandato de Álvaro Uribe Vélez, caracterizado por ser un 
+gobierno autoritario que llegó al poder y se reeligió con una mayoría 
+electoral, alimentada seguramente por el hastío de la guerra y la pro-
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 24 ===
+406
+cinep  • iei  • confiar406
+mesa de acabarla, ya no por la vía del diálogo, como sus predecesores, 
+sino del enfrentamiento militar. Con ese objetivo el presidente descono-
+ció la existencia del conflicto armado interno, mientras abrazaba deci-
+didamente la cruzada del presidente norteamericano, George W . Bush, 
+de una guerra global contra el terrorismo, a raíz del atentado contra las 
+Torres Gemelas en Nueva York, el 11 de septiembre de 2001.
+Paralelamente Uribe propició la supuesta desmovilización de los para-
+militares, lo que, junto con el repliegue táctico de la insurgencia, redun-
+dó en un cambio de los “repertorios” de violencia política, de los más 
+letales como asesinatos y masacres, al desplazamiento forzado y las 
+amenazas (Archila y otros, 2012). Mientras tanto mantuvo, con mano 
+férrea, la agenda neoliberal insertándole algunas dosis de clientelismo 
+para asegurar su funcionamiento, mientras negociaba generosamen-
+te los Tratados de Libre Comercio (
+tlc ) con los países centrales del 
+capitalismo global, especialmente con Estados Unidos. La ayuda nor-
+teamericana negociada durante el previo gobierno de Andrés Pastrana 
+(1998-2002) en el llamado Plan Colombia, terminó reforzando la cruza-
+da contrainsurgente. Tanto en el terreno económico como en lo político 
+y militar, el país cayó de lleno en la órbita estadounidense aislándonos 
+de nuestros vecinos latinoamericanos, especialmente de los gobiernos 
+llamados “progresistas” (Calderón y Castells, 2019). 
+En la Universidad Nacional el mandato uribista se inauguró en noviem-
+bre de 2002 con un allanamiento del campus de Bogotá por parte de casi 
+3000 policías, miembros de la Fiscalía y del Departamento Administrativo 
+de Seguridad (
+das ), con la disculpa de buscar material “subversivo” para 
+un pretendido atentado contra la vecina embajada norteamericana. Al 
+poco tiempo Uribe puso en la rectoría nuevamente a Marco Palacios para 
+garantizar la “gobernabilidad” en la alma mater, lo que provocó masivas 
+protestas estudiantiles. Desde ese momento se ha vuelto casi costumbre 
+que el 
+csu  nombre al rector, sin tener en cuenta la consulta estudiantil y 
+profesoral que ha mostrado simpatías por otros nombres. 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 25 ===
+407
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Por eso y por motivos de la agenda nacional, enmarcados en las políticas 
+económicas y los recortes democráticos ya vistos, la movilización univer-
+sitaria volvió a aumentar en general, incluida la Universidad Nacional, 
+teniendo a 2008 como un nuevo pico (figura 1). En esos años se juntaron 
+varios motivos: la reforma a las “transferencias” del Ejecutivo central a 
+las regiones, que afectaba al sistema educativo general y al de salud; y 
+el nuevo Plan Nacional de Desarrollo, en lo que se refería al pasivo pen-
+sional de las universidades públicas, a las que el Estado quería obligar 
+a negociar —“concurrir”— aportando algo de sus propios recursos, lo 
+que afectaba sus ya de por sí precarios ingresos; y también la recurrente 
+violencia contra los estamentos universitarios, especialmente en la Costa 
+Atlántica (Beltrán y otros, 2019). En nuestra universidad a esos motivos 
+se le agregó la expedición de un inconsulto Estatuto Estudiantil.
+En el caso de los estamentos de la Universidad Nacional, aunque los 
+indicadores de violación de derechos humanos siguen altos, están con-
+centrados en los primeros años y muestran una tendencia a la dismi-
+nución al final del decenio (figura 2), como ocurría con otros sectores 
+sociales como el sindical (Archila y otros, 2012. Por así decirlo, ya se ha-
+bía cumplido la labor de “pacificar” la protesta y se producía el cambio 
+de “repertorio” violento hacia formas menos letales, pero igualmente 
+efectivas de amedrantar a los líderes sociales, incluidos los universi-
+tarios. Así se nota que disminuyen los asesinatos y las masacres, para 
+dar paso a las amenazas, detenciones arbitrarias y montajes judiciales 
+muy comunes en este subperiodo y en el siguiente
+7. Pero se siguen 
+7  Este procedimiento sistemático afecta especialmente a los jóvenes. Según la inves-
+tigación de Lizeth León Borja, citada en Vásquez Roa (s.f., párrs. 2-3), “más de 
+10.741 jóvenes han pasado por procesos judiciales con pocas garantías en los últi-
+mos 18 años en Colombia” . La investigación muestra que “del total de casos, 4.155 
+(39,6%) no llegaron a una investigación. Solo 853 jóvenes (8,1%) tuvieron un 
+juicio y de ellos apenas 491 fueron hallados culpables. 491 entre 10.741, esto quiere 
+decir que el Estado no ha logrado demostrar la culpabilidad del 95% de los jóvenes 
+señalados por rebelión y terrorismo entre enero de 2000 y febrero de 2018” . Agra-
+decemos a un jurado anónimo por esta referencia.
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 26 ===
+408
+cinep  • iei  • confiar408
+presentando casos letales como el asesinato de Martín Hernández, líder 
+estudiantil y activista barrial, en Medellín, en 2008 (Yepes, 2017).
+Este periodo es de reconfiguración del movimiento universitario no solo 
+por el aumento de la protesta, sino por el surgimiento y consolidación 
+de organizaciones estudiantiles que, respondiendo a distintos idearios 
+sociopolíticos, buscan convergencias o acciones unitarias como la re-
+sistencia a la rectoría de Marco Palacios. Paralelamente la modalidad de 
+los tropeles sigue con números no despreciables de participantes y con 
+rasgos visibles de coordinación logística y organizativa. Pero esa disci-
+plina militante comienza a fragmentarse para dar paso a choques más 
+aislados del movimiento, vinculando gente muy joven que, a veces, 
+sufre consecuencias letales por su imprudencia (entrevistas a Daniel 
+Yepes y Víctor Calle, y a Santiago Gómez, 2020).
+1.6 Tiempos de diálogos (2011-2018)
+El también doble mandato de Juan Manuel Santos mantuvo la misma 
+orientación económica de su predecesor, pero modificó sus políticas de 
+guerra y paz, abriendo la negociación con la mayor guerrilla, las 
+Farc -ep , 
+hasta firmar un acuerdo en 2016, que por un escaso margen no fue re-
+frendado por el voto popular, lo que debilitó su alcance y su implementa-
+ción hasta el presente. De esta forma no se ha alcanzado la anhelada paz, 
+pues además de algunas disidencias que retornaron al monte, no se avan-
+zó en las conversaciones con la otra guerrilla sobreviviente, el 
+eln , mien-
+tras se siguieron rearmando los paramilitares, bajo otras siglas. Aunque 
+parcialmente Colombia retornó al redil latinoamericano, nuestros prin-
+cipales aliados siguieron siendo los gobiernos de derecha del continente 
+que conformaron el llamado Grupo de Lima o la Alianza del Pacífico para 
+debilitar al bloque progresista, agrupado en 
+u nasur , y presionar el fin del 
+régimen chavista en Venezuela (Calderón y Castells, 2019). 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 27 ===
+409
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+En estos años el movimiento estudiantil colombiano en general, y en 
+particular el de nuestra universidad, siguió en auge teniendo al 2011 y 
+2013 como picos altos de actividad (figura 1). En el primer año se dio 
+la exitosa oposición, bajo la coordinación de la m ane  (Mesa Amplia 
+Nacional Estudiantil), al Proyecto de Ley 112 que pretendía modificar 
+la desfasada Ley 30 de 1992 (entrevistas a Santiago Gómez y Rodolfo 
+Hernández, 2020). Según el analista Edwin Cruz, entre octubre y no-
+viembre de 2011 hubo más de 31 marchas en 23 departamentos, en las 
+que participaron prácticamente todas las universidades públicas y 17 
+privadas (Cruz, 2017, p. 82). Hubo también una notoria innovación en 
+los repertorios de protesta, incluyendo formas pacíficas y lúdicas que 
+atrajeron el apoyo ciudadano, además, por la justeza de los reclamos. 
+El mencionado proyecto gubernamental reforzaba la lógica mercantil 
+en la educación superior para permitir la existencia de instituciones 
+universitarias con “ánimo de lucro”, mientras exigía mayor calidad a las 
+universidades estatales sin darles el presupuesto adecuado. Si bien fue 
+derrotado, no se logró un consenso para presentar un nuevo articulado 
+y la 
+m ane  fue decayendo en su capacidad de movilización, además por-
+que no pudo manejar las tensiones internas que fueron creciendo casi a 
+la par con el éxito obtenido en las calles (Cruz, 2017). 
+En 2011 hubo también una importante lucha por parte de los estudian-
+tes de Medicina de la Universidad Nacional de Bogotá, por la falta de 
+un lugar donde poder realizar sus prácticas, pues tras el cierre del San 
+Juan de Dios 12 años antes, estaban rotando por todos los hospitales 
+de la ciudad sin respuesta positiva. Después de mes y medio en cese 
+de actividades, el 7 de octubre, ante la negativa de los estudiantes de 
+retomar las clases, las directivas de la Universidad cancelaron el se-
+mestre en esa carrera afectando a 1300 estudiantes. Años después la 
+Universidad abrió un nuevo hospital universitario en las cercanías de 
+su campus en Bogotá.
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 28 ===
+410
+cinep  • iei  • confiar410
+En 2013 los estudiantes de varias instituciones de educación superior, 
+incluidos los de nuestra universidad, se lanzaron solidarios en apoyo 
+del paro nacional agrario, que fue negado por Santos (Archila y otros, 
+2014). En ese mismo año se vivió en nuestro campus un conflicto laboral 
+por más de un mes, en torno a la nivelación salarial a los trabajadores, 
+prometida desde los años 80, pero nunca cumplida. Mientras tanto se 
+agudizó en la sede de Bogotá el deterioro de la planta física, con varios 
+edificios históricos a punto de caerse, a lo que se unió la amenaza de 
+perder parte de su campus por el proyecto de expansión del Centro Admi-
+nistrativo Nacional (
+can ). Paralelamente el gobierno de Santos continuó 
+con el plan de desmontar los subsidios a la oferta para trasladarlos a la 
+demanda, acelerando el proceso de privatización de la educación supe-
+rior pública. Hacia allá se orientó el Programa Ser Pilo Paga, lanzado en 
+2015
+8. En esas condiciones la comunidad universitaria nuevamente salió 
+a las calles a finales de 2018, denunciando la precaria financiación de las 
+instituciones públicas de educación superior, pero ya bajo el mandato 
+del novato presidente uribista Iván Duque. Aunque se logró un acuerdo 
+—como suele ocurrir—, el nuevo gobierno lo ha incumplido, por lo que 
+se reprodujo la movilización, pero con mayor magnitud, a fines de no-
+viembre de 2019, tiempo que desborda los marcos de esta investigación.
+Mientras tanto, las tendencias a la violencia contra los estamentos uni-
+versitarios continuaron disminuyendo (figura 2), y sobre todo evitando 
+las más letales como el asesinato, para concentrarse en lesiones persona-
+les y detenciones arbitrarias, en medio del uso amañado de la ley contra 
+líderes sociales. Así se presentaron casos protuberantes de violación de 
+derechos humanos como la doble detención del profesor Miguel Ángel 
+Beltrán, de Sociología —la primera al final del mandato de Uribe y la 
+segunda a mediados de este decenio— con el agravante de que las direc-
+tivas de la Universidad Nacional lo excluyeron de la planta profesoral por 
+una orden de la Procuraduría. Al recuperar su libertad lo tuvieron que 
+8  Hoy designado Generación E, por el presidente Iván Duque.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 29 ===
+411
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+reintegrar. En 2015, además, fue asesinado el profesor pensionado de la 
+sede de Medellín y exdirectivo sindical, Luis Fernando Wolf Isaza. Desde 
+2017 se ha incrementado la persecución contra estudiantes de Sociología 
+acusados de pertenecer a un grupo armado supuestamente afiliado al 
+eln . Algunos han recobrado la libertad por vencimiento de términos o 
+por falta de pruebas, pero el estigma sobre ellos persiste. Y, en estos ca-
+sos, salen a flote formas jurídicas “legales” de represión de estamentos 
+universitarios que hacen eco de procesos que se creían ya superados, 
+como los consejos verbales de guerra de los años 70 y 80 contra líderes 
+sociales acusados de guerrilleros (Beltrán y otros, 2019). 
+2. Tendencias de la violación de derechos humanos
+Una vez culminado al recuento cronológico de lo ocurrido en la Uni-
+versidad Nacional de Colombia entre 1958 y 2018, conviene mirar en 
+detalle las tendencias en la violación de derechos humanos (
+dd . hh .) en 
+todas sus sedes, para lo que construimos una base de datos que cuenta 
+con un total de 501 casos registrados en los 60 años estudiados
+9.
+La ya considerada figura 2 ilustra la tendencia anual de la violencia 
+contra integrantes de nuestra comunidad universitaria. Se destaca en 
+primera instancia el pico de 1984 que registra 93 casos, entre ellos los 
+derivados de los eventos del 16 de mayo. Ese año fue testigo también de 
+la mayor cantidad de detenciones arbitrarias registradas en el periodo 
+de estudio. El 2000 es otro pico con 40 registros.
+9 Sin embargo, hubo 14 años en los que no encontramos registros de violaciones de dd . 
+hh . en la Universidad Nacional de Colombia. La principal fuente de esta base de datos 
+fue el Banco de Datos de Derechos Humanos y Violencia Política del c inep . También 
+fueron utilizados los registros aportados por Bienestar de la Universidad, en el segui-
+miento que hace de los casos de violencia en el campus desde 2000; los archivos de 
+los grupos estudiantiles de El Búho de la sede de Bogotá, la revista Kabai y la Ofi-
+cina Estudiantil, de la sede de Medellín; los proporcionados por Wilson Gómez en su 
+investigación doctoral titulada “Estudiantes caídos” y los del portal Vidas silenciadas. 
+En todas estas pesquisas contamos con la ayuda de estudiantes de Ciencias Humanas, 
+especialmente de Historia, a quienes les expresamos nuestro reconocimiento.
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 30 ===
+412
+cinep  • iei  • confiar412
+Los niveles de violaciones de derechos humanos a estamentos de la 
+Universidad Nacional siguen altos hasta el segundo mandato de Uribe 
+Vélez. Es un periodo con alto índice de amenazas individuales, espe-
+cialmente contra estudiantes. Después de este inicio de siglo, las cifras 
+decaen con pequeños saltos hasta el 2015. Esto puede reflejar, según 
+ya lo indicábamos, bien que como ya estaba hecha la tarea de debilitar 
+los movimientos sociales, en este caso universitarios, las violaciones 
+de derechos humanos disminuyen, o bien que hubo una modificación 
+en el “repertorio de violencia”, hacia formas menos letales pero muy 
+efectivas como las amenazas y las detenciones arbitrarias.
+Ahora bien, si hacemos el ejercicio de agrupar por décadas (figura 3) 
+las violaciones de derechos humanos contra los diferentes estamen-
+tos que componen la Universidad Nacional, encontramos que existie-
+ron tres decenios consecutivos muy violentos. En efecto, entre 1978 y 
+2007 hay índices muy altos de represión, aunque el penúltimo decenio 
+(1998-2007) muestra las cifras más elevadas: 193. Las tres décadas re-
+únen 424 casos de los 501 que contempla esta investigación, que en 
+términos porcentuales representan un 85% del total. Es llamativo que 
+Mauricio Archila Neira, Esteban Roncancio
+Figura 3
+0
+50
+100
+150
+200
+1958-1967 1968-1977 1978-1987 1988-1997 1998-2007 2008-2018
+Violaciones de derechos humanos en la Universidad Nacional, 
+ por décadas, 1958-2018
+
+=== PAGINA_PDF 31 ===
+413
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+tanto los primeros decenios como el final de este estudio coincidan con 
+una baja intensidad del conflicto armado en el país.
+En cambio, no es de extrañar el comportamiento presentado en la fi-
+gura 4: casos de violaciones de derechos humanos por sedes. Bogotá, 
+con 377 registros, tiene mucha distancia sobre las demás sedes, por ser 
+donde se aloja el nivel central de la Universidad Nacional —y a su vez 
+por estar en la capital del país—, y, además, es el campus que cuenta 
+con mayor número de estudiantes, profesores y administrativos. No 
+sobra señalar que esta supremacía, representada en la figura 4, también 
+responde a la mejor posibilidad metodológica para acceder a los datos 
+disponibles en archivos y centros de documentación. Aunque parezca 
+paradójico, la dispersión de la información puede ser mayor en las otras 
+sedes, y la recolección más difícil y complicada de organizar. De hecho, 
+que la segunda barra más pronunciada de la figura 3 corresponda a los 
+49 casos marcados dentro de la categoría “sin información” va en ese 
+sentido. Y también es sintomático que sea Palmira la segunda sede en 
+violaciones de derechos humanos, con 35 registros, cuando tiene me-
+nos estudiantes que las de Medellín y Manizales. Medellín se ubica muy 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+Figura 4
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Arauca Bogotá Manizales Medellín Palmira Sin 
+información
+Casos de violaciones de derechos humanos, por sedes de la 
+Universidad Nacional, 1958-2018
+
+=== PAGINA_PDF 32 ===
+414
+cinep  • iei  • confiar414
+cerca, con 34 casos, mientras Manizales registra 3 y Arauca 2. De las 
+otras sedes “de presencia nacional” no tenemos registros.
+En términos de violaciones de derechos humanos por facultades (figu-
+ra 5) se hace más evidente la falta de identificación en las fuentes con-
+sultadas, pues un poco menos de la mitad del total no tienen informa-
+ción. En todo caso, aunque no siempre hay coincidencia de facultades 
+entre las distintas sedes, resaltan en su orden las de Ciencias Humanas 
+con 82 registros, Ingenierías con 42 y Derecho con 41. De alguna forma 
+han sido facultades numerosas y, sobre todo para el caso de Ciencias 
+Humanas y Derecho, las más militantes en los movimientos univer-
+sitarios. Hicimos también el estudio por carreras, pero no incluimos 
+la figura acá por la falta abundante de información precisa y su gran 
+dispersión. Pero resalta Sociología como la disciplina más victimizada
+10.
+La figura 6: víctimas por estamentos, ofrece una información que no 
+sorprende, pero es importante constatarla: el sector más afectado por la 
+violencia política en nuestra universidad es el estudiantil, con el 85% de 
+los casos, seguido de los docentes con 11% y los trabajadores con 4%. 
+La información disponible por género (figura 7) muestra un abrumador 
+peso de los hombres como víctimas de violaciones de derechos huma-
+nos, aunque en los últimos tiempos las mujeres tienden a ser más visi-
+bles, en consonancia con su mayor protagonismo en los movimientos 
+estudiantiles
+11.
+10 Algo que sigue ocurriendo hoy en día. Ver, por ejemplo, el sesgado reporte de la Fis-
+calía, de julio de 2020, que asimila ingresar a la Universidad Nacional de Colombia 
+con militar en el 
+e ln , y que generó distintos reclamos. Véase, por ejemplo: El Especta-
+dor, 14 de julio de 2020, “Reclamos a la Fiscalía por comentario estigmatizante contra 
+la Universidad Nacional”, en https://www.elespectador.com/judicial/reclamos-a-la-
+fiscalia-por-comentario-estigmatizante-contra-la-universidad-nacional-article/.
+11 No sobra señalar que aquí cuantificamos solo la violencia política y social; otros 
+guarismos resultarían si incluyéramos toda violencia de género.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 33 ===
+415
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430Violencia en la Universidad Nacional de Colombia, 1958-2018
+Figura 5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Víctimas por Facultad
+1958-2018
+Figura 6
+Docente
+11%Estudiante
+85%
+Trabajador
+4%
+Víctimas por estamento
+1958-2018
+
+=== PAGINA_PDF 34 ===
+416
+cinep  • iei  • confiar416
+Figura 7
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+1958
+1960
+1962
+1964
+1966
+1968
+1970
+1972
+1974
+1976
+1978
+1980
+1982
+1984
+1986
+1988
+1990
+1992
+1994
+1996
+1998
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+2014
+2016
+2018
+Víctimas por género
+1958-2018
+Mujeres Hombres
+En cuanto a los hechos victimizantes (figura 8), hay cierta preponde-
+rancia de las detenciones arbitrarias, lo que en principio parecería “nor-
+mal” por las situaciones confusas que pueden generar algunas acciones 
+de protesta y la consiguiente respuesta policial. Sin embargo, la sistema-
+ticidad que presenta este tipo de hecho violento, junto con la creciente 
+criminalización del movimiento estudiantil y en general de la protesta 
+social como política de Estado, hace que esta estrategia haya revivido 
+en los últimos tiempos alrededor del montaje de procesos judiciales en 
+contra de los integrantes de la comunidad universitaria, especialmente 
+estudiantes. Decimos revivir, pues en los años 70 y 80 fue común el uso 
+de consejos verbales de guerra contra líderes estudiantiles acusados de 
+guerrilleros, en el marco del estado de sitio casi permanente (Gallón, 
+1979). Como si fuera poco, la detención arbitraria es la entrada a los 
+demás hechos victimizantes. 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 35 ===
+417
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Figura 8
+Amenaza colectiva
+7%
+Amenaza 
+individual
+15%
+Asesinato
+12%Atentado
+1%
+Desaparición 
+forzada e 
+involuntaria
+16%
+Detención 
+arbitraria
+37%
+Lesiones físicas
+6%
+Secuestro
+4%
+Tortura
+2%
+Hechos victimizantes, 1958-2018
+Las amenazas, ya sean de carácter individual o colectivo, ocupan una 
+proporción importante de la figura que venimos analizando: 22% entre 
+las dos. Una invitación interesante para investigaciones futuras puede 
+ser la profundización de la relación entre las amenazas y los hechos 
+que efectivamente se consumaron, no para restarle importancia a este 
+mecanismo victimizante, sino, por el contrario, para poder afirmar con 
+seguridad la eficacia de este método, menos letal pero aparentemente 
+muy efectivo. Lo que sí podemos asegurar, sin temor a equivocarnos, 
+es que la propagación del miedo ha jugado un papel central en la re-
+producción del sistema político colombiano y en la prolongación del 
+conflicto armado tanto en la Universidad Nacional como en el país en 
+general. Y esta es precisamente una modalidad que ilustra el cambio de 
+“repertorios de violencia” de los que ya hablábamos, hacia los menos 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 36 ===
+418
+cinep  • iei  • confiar418
+letales, pero igualmente efectivos en términos de represión de los movi-
+mientos sociales, incluido el estudiantil.
+La misma figura 8 nos muestra que en tercer lugar aparece la desapa-
+rición forzada. Esta, a diferencia de la detención arbitraria, pero igual 
+que las demás formas de violación de derechos humanos, puede ser 
+practicada por cualquiera de los victimarios que acechan a las univer-
+sidades. Es uno de los procedimientos que genera más incertidumbre 
+para la familia y la comunidad cercana al desaparecido, y podríamos 
+decir que tiene mayor probabilidad de impunidad, por tratarse precisa-
+mente de una desaparición. En este sentido, la posibilidad de esclareci-
+miento de esta forma de violencia es muy baja y, por lo tanto, su índice 
+de afectación al derecho a la verdad, a la reconciliación y a los procesos 
+de memoria suele ser muy alto.
+No podemos dejar de mencionar al asesinato, pues es extraño que en 
+un país como Colombia, con altas tasas de criminalidad y homicidios 
+intencionales, y en donde ser líder social o defensor de derechos hu-
+manos es considerado uno de los oficios más peligrosos del mundo, no 
+haya un mayor registro de víctimas de esta modalidad entre los esta-
+mentos de la Universidad Nacional. Una posibilidad que contemplan 
+Miguel Ángel Beltrán y otros colegas en su estudio sobre la violencia, 
+especialmente en las universidades de la Costa Atlántica (2019), es que 
+nuestras grandes sedes no han estado ubicadas en territorios de disputa 
+entre los distintos actores armados, aunque algo de esa dinámica se 
+advierte en las sedes de Tumaco y Arauca. 
+Por último, afortunadamente el secuestro y la tortura tampoco han sido 
+herramientas muy utilizadas contra los miembros de nuestra comuni-
+dad universitaria, mientras las lesiones físicas también presentan un 
+índice bajo. Claro que estas últimas muchas veces se encuentran subsu-
+midas en los demás hechos victimizantes, que suelen ser más visibles.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 37 ===
+419
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Figura 9
+Agentes del 
+Estado
+49%
+Encapuchados
+1%
+Guerrilla
+4%
+Paramilitares
+16%
+Sicarios
+2%
+Sin información
+28%
+Presuntos responsables 
+1958-2018
+La siguiente sección corresponde a los presuntos responsables de las 
+acciones de violación de derechos humanos contra integrantes de la 
+Universidad Nacional. En la figura 9 se puede observar que hay tres 
+grandes proporciones. La más grande corresponde a los agentes del 
+Estado, quienes ocupan la deshonrosa posición de máximos perpetra-
+dores de acciones en contra de los derechos humanos de los diferentes 
+estamentos de nuestra comunidad universitaria. La proporción siguien-
+te está ocupada, con un porcentaje menor pero significativo, por los 
+casos que en nuestra base de datos no registran información alguna 
+respecto a los autores de la violencia. Esto, hay que decirlo, es muy 
+explicable por el temor de las víctimas a señalar a sus victimarios, pero 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 38 ===
+420
+cinep  • iei  • confiar420
+genera cierta distorsión en el cuadro general de los responsables y en 
+la proporción que corresponde a cada uno de ellos en la atribución 
+de actos violentos. La tercera proporción está reservada para los para-
+militares, especialmente las Autodefensas Unidas de Colombia ( auc ), 
+quienes quisieron acallar, a sangre y fuego, las voces críticas de las uni-
+versidades públicas del país en general, de las cuales la Nacional no es 
+una excepción, aunque no fue la más afectada. En la figura 10 se ven, 
+por sus siglas, cuáles son los principales grupos de este actor violador 
+de derechos humanos por excelencia.
+Figura 10
+MAS
+1%
+Aguilas Negras
+22%AUC
+37%
+ACCU
+1%
+Sin identiﬁcar
+39%
+Grupos paramilitares responsables
+1958-2018
+Finalmente, volviendo a la figura 9, encontramos también una pequeña 
+proporción que simboliza las acciones violentas contra la comunidad 
+universitaria emprendidas por guerrilleros (4%), sicarios (2%) y enca-
+puchados (1%). 
+Con el fin de complementar el análisis de los victimarios, y así como se 
+hizo con los grupos paramilitares, también mostramos los agentes del 
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 39 ===
+421
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Estado más involucrados en el atropello a los derechos humanos de es-
+tudiantes, trabajadores, administrativos y profesores de la Universidad 
+Nacional de Colombia. La figura 11 nos da una idea de esto. 
+Figura 11
+B2
+1%
+Brigada de 
+Institutos 
+Militares
+1%
+F2
+7%
+Organismos de 
+inteligencia - DAS
+4%
+Ejército Nacional
+2%
+Fuerza Pública
+15%
+Policía Nacional
+66%
+Sin identiﬁcar
+4%
+Agentes estatales responsables
+1958-2018
+Resalta abrumadoramente la Policía, el cuerpo que más atiende directa-
+mente las protestas, y en los últimos tiempos en especial su cuerpo de 
+choque: los Escuadrones Móviles Antidisturbios ( e smad ). Tampoco se 
+puede olvidar que el organismo de inteligencia F-2 fue también una de-
+pendencia de la Policía. Le sigue en porcentaje de atropellos la “fuerza 
+pública”, que es la forma como mucha prensa consultada designa ge-
+néricamente a las fuerzas armadas —incluida la Policía— en el caso co-
+lombiano. Los otros agentes estatales tienen menor registro en los actos 
+de violación de derechos humanos en nuestros campus universitarios. 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 40 ===
+422
+cinep  • iei  • confiar422
+Conclusiones
+Culminamos así el recorrido cronológico y estadístico por las afectacio-
+nes a los miembros de la Universidad Nacional de Colombia durante el 
+conflicto armado entre 1958 y 2018. Para cerrar es necesario formular 
+algunas reflexiones que ayuden a comprender los patrones de victimiza-
+ción y de violencia en nuestra institución dentro del contexto de la educa-
+ción superior en el país. Las vamos a agrupar en cuatro líneas de análisis.
+Por representar la mayoría de las violaciones a los derechos humanos 
+en la Universidad Nacional, la primera línea de reflexión es referente a 
+la violencia desde el exterior de ella, proveniente de agentes estatales y 
+paraestatales. A lo largo de los 60 años estudiados, se apuntó a la estig-
+matización creciente de la institución como “subversiva” y aliada de la 
+insurgencia. No siempre habían sido así de antagónicas las relaciones 
+entre el Estado y nuestra universidad, pero con el advenimiento del 
+Frente Nacional se radicalizó el movimiento estudiantil desprendiéndo-
+se de la tutela de los partidos tradicionales y se acercó a las izquierdas 
+legales y armadas. Y esto no solo fue en términos discursivos, sino 
+también prácticos. De hecho, la confrontación con la fuerza pública fue 
+escalando hacia choques más violentos. Desde comienzos del nuevo 
+siglo surgió una nueva etapa en la represión de los movimientos uni-
+versitarios, especialmente por el uso de sofisticados mecanismos de 
+inteligencia militar, para hacer seguimientos de líderes estudiantiles y 
+de algunos profesores críticos que, supuestamente, estaban conectados 
+con la dirigencia guerrillera. A eso se articulará el uso de mecanismos 
+jurídicos contra miembros de nuestra comunidad, que no son del todo 
+nuevos, pero que refuerzan lo que hemos llamado el cambio de “reper-
+torios” de represión contra los movimientos universitarios.
+Otro tipo de violencia alimentada desde el exterior de la Universidad 
+Nacional provino de la insurgencia, poca en términos cuantitativos, pero 
+igualmente preocupante. Violentar su ethos académico y tratar de in-
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 41 ===
+423
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+miscuirla en la guerra directa fue un error fatal, independientemente de 
+quien haya querido hacerlo. La presencia insurgente en nuestros campus 
+no se limitó a unas pocas acciones visibles —entre ellas el injustificable 
+asesinato del profesor Chucho Bejarano—, también hubo una cierta vio-
+lencia simbólica más constante, especialmente entre los años 70 y los 
+comienzos de este siglo, traducidas en paradas militares, grafitis, ame-
+nazas y violentas confrontaciones. Claro que no fue una violencia del 
+todo externa, pues hubo cercanía entre los proyectos de la izquierda, 
+incluida la insurgente, y los movimientos estudiantiles. Esas alianzas han 
+ido disminuyendo con el paso del tiempo, a favor de la mayor autonomía 
+del movimiento universitario. Ahora bien, aunque algunos de sus líderes 
+militaran o simpatizaran con organizaciones insurgentes, no hay ninguna 
+justificación para las violaciones de derechos humanos sobre ellos. 
+Esto nos lleva a la tercera reflexión sobre la violencia en la Universidad 
+Nacional de Colombia, que proviene más desde adentro de sus campus. 
+Como en muchas otras universidades públicas y algunas privadas del 
+país, esto de volver la universidad un escenario de guerra, descuidando 
+las tareas de reforma universitaria, significó concomitantemente radica-
+lizar la confrontación con la fuerza pública. El escalamiento en los tro-
+peles no solo dificultó el debate democrático en nuestros campus y en 
+algunas ocasiones invisibilizó otras formas de protesta más numerosas 
+e incluyentes, sino que en algunos casos derivó en sacrificios inútiles de 
+jóvenes inexpertos. Ahora bien, abogamos por una mirada distinta de 
+los tropeles desde una perspectiva plural y crítica, sin estigmatizarlos 
+por principio, pero tampoco sin idealizarlos.
+Una cuarta forma de violencia, que se expresa en los registros de viola-
+ciones de derechos humanos, es resultado también de esa militarización 
+parcial de nuestros campus, de parte de todos los actores armados. Fru-
+to de esa militarización, por momentos se desarrolló una forma intran-
+sigente para dirimir las contradicciones entre organizaciones políticas 
+o reivindicativas que se movían en nuestros campus. La construcción 
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 42 ===
+424
+cinep  • iei  • confiar424
+del enemigo al que se le ve como inferior y por tanto se debe destruir, 
+aunque principalmente se aplicó por parte del Estado y los paramilita-
+res, también se produjo en el seno de las organizaciones insurgentes y 
+aun sociopolíticas de izquierda, que solían influir en el movimiento es-
+tudiantil. Todo ello pudo enrarecer el debate democrático y académico 
+en nuestra comunidad, pero por fortuna no fue la cultura universitaria 
+predominante en estos 60 años de historia, que contó con numerosas 
+formas de resistencia a la violencia y de aportes a la construcción de 
+una sociedad en paz, con libertad y mayor equidad social.
+Las memorias a las que les apostamos son plurales y buscan reflejar 
+los distintos estamentos universitarios, así como las diversas clases so-
+ciales, géneros, orientaciones sexuales, generaciones y etnias de quie-
+nes hacen parte de nuestra universidad. No son memorias épicas que 
+solo buscan resaltar las virtudes y las afrentas recibidas desde fuera de 
+la Universidad. Por el contrario, son memorias críticas que nos deben 
+confrontar con los errores y vacíos para modificar hacia adelante lo que 
+sea necesario. Esperamos así colaborar al entendimiento del conflicto 
+armado en el país para lograr su cierre definitivo, así como también ali-
+mentar la memoria de la propia Universidad Nacional, tal vez no la más 
+afectada del país, pero sí representativa del trascurrir de la educación 
+superior en una sociedad violenta como la colombiana. 
+Fuentes y referencias
+Archivos y bases de datos
+Archivo Central Histórico de la Universidad Nacional de Colombia, Bogotá. 
+Archivos de Bienestar de la Universidad Nacional de Colombia, Bogotá.
+Archivo Oficina Estudiantil, Universidad Nacional de Colombia, Medellín.
+Archivo de la familia Cárdenas Paulsen, Bogotá.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 43 ===
+425
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Archivos El Búho de violación de derechos humanos a estudiantes universita-
+rios, Bogotá.
+Banco de Datos de Derechos Humanos y Violencia Política de Cinep, Bogotá.
+Base de Datos de Luchas Sociales de Cinep, Bogotá.
+Entrevistas
+Anónimo 1. (2020). Estudiante en los años 80 y luego docente de la Universi-
+dad. Bogotá. 
+Anónimo 2. (2020). Trabajador desde los años 80. Bogotá.
+Chavarro, Mauricio. (2020). Estudiante en los años 80. Bogotá.
+Del Castillo, Juan Carlos. (2020). Estudiante de los años 70 y luego docente de 
+la Universidad. Bogotá.
+Gómez, Santiago. (2020). Estudiante de los años 00. Bogotá.
+Hernández, Rodolfo. (2020). Estudiante de la Universidad en los años 90 y 
+luego en los años 10 de este siglo. Bogotá.
+Jaramillo, Jaime Eduardo. (2020). Estudiante de los años 60 y luego docente 
+de la Universidad. Bogotá.
+Jaramillo, Carlos Eduardo. (2020). Estudiante de los años 60 y luego colega de 
+Jesús Antonio Bejarano. Bogotá.
+Lastra, Guido. (2020). Estudiante de los años 60. Bogotá.
+León, María Piedad. (2020). Trabajadora desde los años 80. Bogotá/Medellín.
+Múnera, Leopoldo. (2020). Profesor y directivo de la Universidad desde los 
+años 80. Bogotá.
+Naranjo, María Elvira. (2020). Estudiante de los años 60 y luego docente de la 
+Universidad. Bogotá.
+Ojeda, Alonso. (2020). Estudiante de los años 60. Bogotá.
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 44 ===
+426
+cinep  • iei  • confiar426
+Pérez, Hésper. Estudiante de los años 60 y luego docente de la Universidad. 
+Bogotá.
+Reyes, Francisco. (2020). Estudiante de los años 70. Bogotá.
+Torrado, María Cristina. (2020). Estudiante de los años 70 y luego docente de 
+la Universidad. Bogotá.
+Trujillo, Mauricio. (2019). Estudiante de los años 70. Bogotá.
+Villada, Jorge Luis y Daza, Víctor. (2019). Trabajadores desde los años 70, ac-
+tualmente pensionados. Bogotá.
+Vergara, Humberto. (2020). Estudiante de los años 60 y luego funcionario de 
+la Universidad. Bogotá.
+Yepes, Daniel y Calle, Víctor. (2020). Estudiantes de la Universidad de Antio-
+quia años 10 de este siglo. Bogotá/Medellín. 
+Zamudio, Vicente. (2020). Estudiante en los años 80. Bogotá.
+Referencias
+Acevedo Tarazona, Álvaro. (2004). Modernización, conflicto y violencia en la 
+universidad en Colombia, a udesa  (1953-1984). Bucaramanga: Universidad 
+Industrial de Santander.
+Acevedo Tarazona, Álvaro. (2015). Educación, reformas y movimientos univer-
+sitarios en Colombia: apuestas y frustraciones por un proyecto moderniza-
+dor en el siglo XX. Revista de Estudios Sociales, (53), 102-111. Recuperado 
+de: http://dx.doi.org/10.7440/res53.2015.08
+Acevedo Tarazona, Álvaro. (2016). Memorias de una época. El movimiento 
+estudiantil en Colombia en los años sesenta y setenta del siglo XX. Bucara-
+manga: Universidad Industrial de Santander.
+Aguilera, Mario. (2002). Camilo Torres y la Universidad Nacional de Colombia. 
+Bogotá: Universidad Nacional de Colombia.
+Anderson, Perry. (1992). Los fines de la historia. Bogotá: Tercer Mundo Editores.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 45 ===
+427
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Archila, Mauricio. (2004). Idas y venidas, vueltas y revueltas. Protestas sociales 
+en Colombia, 1958-1990. Bogotá: Centro de Investigación y Educación Po-
+pular/Instituto Colombiano de Antropología e Historia.
+Archila, Mauricio. (2012). El movimiento estudiantil en Colombia. Una mirada 
+histórica. OSAL. Observatorio Social de América Latina, 13(31), 72-102.
+Archila, Mauricio. (2017). Memoria, verdad e historia oral. Controversia, (209), 
+21-39. Recuperado de: https://doi.org/10.54118/controver.vi209.1094
+Archila, Mauricio. (2019). Control de las protestas: una cara de la relación 
+Estado y movimientos sociales (1975-2015). En Mauricio Archila, Martha 
+Cecilia García, Leonardo Parra y Ana María Restrepo, Cuando la copa se re-
+bosa, luchas sociales en Colombia, 1975-2015 (pp. 95-156). Bogotá: Centro 
+de Investigación y Educación Popular. 
+Archila, Mauricio; Angulo, Alejandro y Delgado, Álvaro. (2012). Violencia con-
+tra el sindicalismo, 1984-2010. Bogotá: Centro de Investigación y Educa-
+ción Popular.
+Archila, Mauricio y Díaz, José Abelardo. (2020). Protestas estudiantiles en Co-
+lombia: una mirada histórica, 1908-2015. En Andrés Felipe Mora (Ed.), La 
+MANE y el movimiento estudiantil en Colombia. Agendas, luchas y desafíos 
+(pp. 21-82). Bogotá: Universidad Javeriana.
+Archila, Mauricio; García, Martha Cecilia; Restrepo, Ana María y Parra, Leo-
+nardo. (2014). Informe Especial. Luchas Sociales en Colombia, 2013. Bogo-
+tá: Centro de Investigación y Educación Popular/Programa por la Paz.
+Arenas, Héctor y Girón, Antonio. (2014). Gotas que agrietan la roca. Bogotá: 
+Siglo del Hombre Editores.
+Asociación de Familiares de Detenidos y Desaparecidos [
+a sF addes ]. (2003). 20 
+años de historia y lucha. Bogotá: Talleres Rodríguez Quito Editores.
+Atcon, Rudolph. (1963). La universidad latinoamericana: clave para un en-
+foque conjunto del desarrollo coordinado social, económico y educativo en 
+América Latina. Bogotá: Buchholz.
+Beltrán, Miguel Ángel; Ruiz, María y Freytter-Florián, Jorge Enrique. (2019). 
+Universidades públicas bajo S.O.S.pecha. Represión estatal a estudiantes, 
+profesorado y sindicalistas en Colombia (2000-2019). Bogotá: Universidad 
+Nacional de Colombia.
+Violencia en la Universidad Nacional de Colombia, 1958-2018
+
+=== PAGINA_PDF 46 ===
+428
+cinep  • iei  • confiar428
+Bourdieu, Pierre. (1990). Sociología y cultura. México, D.F.: Grijalbo.
+Bourdieu, Pierre. (2003). El oficio del científico. Ciencia de la ciencia y reflexi-
+vidad. Barcelona: Anagrama.
+Calderón, Fernando y Castells, Manuel. (2019). La nueva América. México: 
+Fondo de Cultura Económica.
+Carrillo, Daniel. (2006). A manera de introducción. En Mauricio Archila, Fran-
+cois Correa, Ovidio Delgado y Jaime Eduardo Jaramillo (Eds.), Cuatro dé-
+cadas de compromiso académico en la construcción de la nación. Bogotá: 
+Universidad Nacional de Colombia.
+Cote, Jorge. (2009). El movimiento estudiantil de 1971: entre la homogenei-
+dad y la heterogeneidad. En Mauricio Archila, Jorge Cote, Álvaro Delgado, 
+Martha Cecilia García, Patricia Madarriaga y Óscar Pedraza, Una historia 
+inconclusa. Izquierdas políticas y sociales en Colombia. Bogotá: Centro de 
+Investigación y Educación Popular.
+Cruz, Edwin. (2017). Caminando la palabra, movilizaciones sociales en Colom-
+bia (2010-2016). Bogotá: Desde Abajo.
+Flórez, Juan Sebastián. (2019). 16 de mayo de 1984: pasado y presente en 
+disputa. Algunas reflexiones a propósito del aniversario 35 de los acon-
+tecimientos. Controversia, (213), 265-295. Recuperado de: https://doi.
+org/10.54118/controver.vi213.1182
+Gallón, Gustavo. (1979). Quince años de estado de sitio en Colombia: 1958-
+1978. Bogotá: América Latina.
+García, Martha Cecilia. (2002). Luchas estudiantiles. En Mauricio Archila, Ál-
+varo Delgado, Martha Cecilia García y Esmeralda Prada, 25 años de luchas 
+sociales en Colombia, 1975-2000. Bogotá: Centro de Investigación y Edu-
+cación Popular.
+Ginzburg, Carlo. (1992). El juez y el historiador. Madrid: Editorial Anaya.
+Gómez, Jorge Wilson. (2019). Ambos venimos a morir: susurros acechantes del 
+estudiante caído (Tesis doctoral). Universidad de Manizales/Cinde, Mani-
+zales, Colombia.
+Hernández Gamarra, Antonio. (2020). Relatos de los oficios y los días. Bogotá: 
+Universidad Nacional de Colombia.
+Mauricio Archila Neira, Esteban Roncancio
+
+=== PAGINA_PDF 47 ===
+429
+revista  controversia  • n .º 217, jul -dic  2021 • issn  0120-4165 (impreso ) - 2539-1623 (en  línea ) • colombia  • pp. 383-430
+Hobsbawm, Eric. (1998). Sobre la historia. Barcelona: Crítica.
+Jaramillo, Jaime Eduardo. (2016). Estudiar y hacer sociología en Colombia en 
+los años 60. Bogotá: Universidad Central.
+Le Bot, Ivon. (1979). Educación e ideología en Colombia. Medellín: La Carreta.
+León, María Piedad. (2008). Servidores del saber: memoria histórica de los tra-
+bajadores de la Universidad Nacional de Colombia, 1940-1980. Medellín: 
+Universidad Nacional de Colombia.
+López, Ricardo A. (2019). Makers of Democracy. A Transnational History of the 
+Middle Classes in Colombia. Durham: Duke University Press.
+Lucio, Ricardo. (1993). Universidad y Estado ¿Qué tanto reformó la Ley 30? 
+Análisis Político, (20), 71-81.
+Medina, Medófilo. (1984). La protesta urbana en Colombia en el siglo XX. 
+Bogotá: Aurora.
+Misas Arango, Gabriel. (2002). La ruptura de los 90, del gradualismo al colap-
+so. Bogotá: Universidad Nacional de Colombia. 
+Molano, Frank y Forero, Jymy. (2020). El caso del colectivo 82. Una historia 
+entre la memoria y el olvido, la rebelión y la represión.  Anuario Colombia-
+no de Historia Social y de la Cultura, 47(2), 85-111. Recuperado de: https://
+doi.org/10.15446/achsc.v47n2.86141
+Ocampo, José Fernando. (1980). Reforma universitaria, 1960-1980. Bogotá: 
+Centro de Investigación y Educación Popular.
+Pizarro, Eduardo. (1991). Las FARC, de la autodefensa a la combinación de 
+todas las formas de lucha. Bogotá: Tercer Mundo Editores.
+Quiroz Vélez, Maritza. (2015). Martín-Memoria, Martín-Esperanza de un ma-
+ñana mejor. Kabái, (21), 110-114.
+Rudas, Nicolás. (2019). La violencia y sus resistencias en la Universidad Nacio-
+nal. Seis décadas de revolución y democracia en el campus (Tesis de maes-
+tría). Universidad Nacional de Colombia, Bogotá, Colombia.
+Ruiz, Manuel. (2002). Sueños y realidades. Procesos de organización estudiantil 
+1954 – 1966. Bogotá: Universidad Nacional de Colombia.
+Violencia en la Universidad Nacional de Colombia, 1958-2018

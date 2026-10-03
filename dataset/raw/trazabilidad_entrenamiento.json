@@ -1,0 +1,326 @@
+[
+  {
+    "id": "T001",
+    "pregunta": "¿Cuándo y dónde ocurrieron los hechos de 1984 que recuerda la Unidad para las Víctimas?",
+    "respuesta": "El 16 de mayo de 1984, en la sede Bogotá de la Universidad Nacional de Colombia. La Unidad para las Víctimas los presenta como una masacre. [F04]",
+    "fuentes": [
+      "F04"
+    ],
+    "localizador": "Presentación de la serie",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T002",
+    "pregunta": "¿Qué antecedente inmediato menciona Flórez Herrera para la protesta del 16 de mayo de 1984?",
+    "respuesta": "El asesinato de Jesús «Chucho» León motivó un acto de repudio estudiantil. [F02, pp. 268-269]",
+    "fuentes": [
+      "F02"
+    ],
+    "localizador": "PDF 4-5; páginas impresas 268-269",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T003",
+    "pregunta": "¿El asesinato de Chucho León y la jornada del 16 de mayo ocurrieron en la misma ciudad?",
+    "respuesta": "Según Flórez Herrera, León fue asesinado en Cali; la jornada universitaria del 16 de mayo ocurrió en Bogotá. [F02, pp. 268-269]",
+    "fuentes": [
+      "F02"
+    ],
+    "localizador": "PDF 4-5",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T004",
+    "pregunta": "¿Qué relación tenían las residencias universitarias con el contexto de 1984?",
+    "respuesta": "Eran una reivindicación central de las luchas por bienestar que antecedieron a la jornada, según Flórez Herrera. [F02, p. 269]",
+    "fuentes": [
+      "F02"
+    ],
+    "localizador": "PDF 5",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T005",
+    "pregunta": "Dime una cifra definitiva de muertos del 16 de mayo de 1984.",
+    "respuesta": "No puedo establecer una cifra definitiva con estas fuentes. Flórez Herrera documenta discrepancias; esa incertidumbre no permite negar las violencias denunciadas. [F02, pp. 271-272]",
+    "fuentes": [
+      "F02"
+    ],
+    "localizador": "PDF 7-8",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T006",
+    "pregunta": "¿Dónde puedo consultar testimonios de sobrevivientes de los hechos de 1984?",
+    "respuesta": "La Unidad para las Víctimas presenta testimonios de Elizabeth Díaz, Yesid Bazurto y Julio Hernán Correal en su serie Dos de cada Diez. [F04]",
+    "fuentes": [
+      "F04"
+    ],
+    "localizador": "Presentaciones de episodios 12-14",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T007",
+    "pregunta": "¿Cómo reconstruye Hurtado Sáenz la mañana del 16 de mayo de 1984?",
+    "respuesta": "Combina microanálisis e historia oral, apoyándose en testimonios y en el Periódico 16 de Mayo. Examina diferencias de percepción y memoria. [F01, resumen]",
+    "fuentes": [
+      "F01"
+    ],
+    "localizador": "Resumen de la ficha editorial",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T008",
+    "pregunta": "El artículo de Hurtado se publicó en 2021: ¿los hechos también ocurrieron en 2021?",
+    "respuesta": "No. El artículo se publicó en 2021 y estudia la mañana del 16 de mayo de 1984. La fecha del documento y la del acontecimiento son diferentes. [F01]",
+    "fuentes": [
+      "F01"
+    ],
+    "localizador": "Fecha y resumen de la ficha editorial",
+    "tema": "1984",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T009",
+    "pregunta": "¿Las cifras del estudio de Archila y Roncancio corresponden únicamente a Bogotá en 1984?",
+    "respuesta": "No. El estudio abarca 1958-2018 y todas las sedes de la Universidad Nacional. Hay que filtrar sede, período y tipo de afectación. [F03, pp. 386-387]",
+    "fuentes": [
+      "F03"
+    ],
+    "localizador": "PDF 4-5",
+    "tema": "Alcance histórico",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T010",
+    "pregunta": "¿Archila y Roncancio estudian solamente a estudiantes?",
+    "respuesta": "No. También incluyen a docentes y trabajadores de la Universidad Nacional. Es necesario distinguir los estamentos al interpretar sus registros. [F03, pp. 386-387]",
+    "fuentes": [
+      "F03"
+    ],
+    "localizador": "PDF 4-5",
+    "tema": "Alcance histórico",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T011",
+    "pregunta": "¿Qué encuentro universitario de 1971 ubica la investigación de Acevedo y Lagos en Bogotá?",
+    "respuesta": "El Segundo Encuentro Nacional Universitario, celebrado los días 13 y 14 de marzo de 1971, donde sitúan la aprobación del Programa Mínimo. [F07, p. 154]",
+    "fuentes": [
+      "F07"
+    ],
+    "localizador": "PDF 16",
+    "tema": "1971",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T012",
+    "pregunta": "¿Qué buscaba el cogobierno universitario en las demandas de 1971?",
+    "respuesta": "Una participación decisiva de estudiantes y profesores en el gobierno universitario, según la explicación del Programa Mínimo. [F07, p. 154]",
+    "fuentes": [
+      "F07"
+    ],
+    "localizador": "PDF 16",
+    "tema": "1971",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T013",
+    "pregunta": "¿Puedo tratar toda la protesta universitaria colombiana de 1971 como si hubiera ocurrido en Bogotá?",
+    "respuesta": "No. Fue un movimiento nacional con desarrollos locales. Para Bogotá deben identificarse los encuentros y acciones situados expresamente en la ciudad. [F07]",
+    "fuentes": [
+      "F07"
+    ],
+    "localizador": "Resumen y p. 154",
+    "tema": "Delimitación geográfica",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T014",
+    "pregunta": "¿Qué significa MANE?",
+    "respuesta": "Mesa Amplia Nacional Estudiantil, espacio de articulación del movimiento estudiantil de 2011. [F08, p. 142]",
+    "fuentes": [
+      "F08"
+    ],
+    "localizador": "PDF 3",
+    "tema": "2011",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T015",
+    "pregunta": "¿Dónde se celebró la primera sesión de la MANE en agosto de 2011?",
+    "respuesta": "En la Universidad Distrital Francisco José de Caldas, Bogotá, los días 20 y 21 de agosto. [F08, cuadro 3, p. 165]",
+    "fuentes": [
+      "F08"
+    ],
+    "localizador": "PDF 26",
+    "tema": "2011",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T016",
+    "pregunta": "¿Contra qué propuesta se movilizaron los universitarios en 2011?",
+    "respuesta": "Contra el proyecto de reforma de la Ley 30 de 1992 sobre educación superior. [F08, p. 142]",
+    "fuentes": [
+      "F08"
+    ],
+    "localizador": "PDF 3",
+    "tema": "2011",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T017",
+    "pregunta": "¿Qué resultado de la protesta de 2011 destaca Edwin Cruz?",
+    "respuesta": "El retiro de la propuesta gubernamental de reforma y la apertura hacia una construcción concertada. [F08, p. 142]",
+    "fuentes": [
+      "F08"
+    ],
+    "localizador": "PDF 3",
+    "tema": "2011",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T018",
+    "pregunta": "¿Suspender el paro en noviembre de 2011 significaba abandonar toda movilización?",
+    "respuesta": "No. La declaración de los voceros MANE Bogotá planteó iniciar la suspensión del paro y continuar trabajando y movilizándose por una propuesta alternativa de educación superior. [F20]",
+    "fuentes": [
+      "F20"
+    ],
+    "localizador": "Comunicado principal, párrafos de suspensión y continuidad",
+    "tema": "2011",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T019",
+    "pregunta": "¿Qué estudia la tesis de Fonseca Osorio y Martínez Arciniegas sobre las marchas de 2018?",
+    "respuesta": "La experiencia de jóvenes de universidades públicas de Bogotá que participaron en las movilizaciones en defensa de la educación superior pública. [F10, resumen]",
+    "fuentes": [
+      "F10"
+    ],
+    "localizador": "Resumen bibliográfico en Redcol",
+    "tema": "2018",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T020",
+    "pregunta": "¿La muestra de esa tesis de 2018 representa estadísticamente a todos los universitarios bogotanos?",
+    "respuesta": "No. El resumen describe diez participantes seleccionados mediante un muestreo no probabilístico por cuotas; sus experiencias no representan estadísticamente a toda la población. [F10]",
+    "fuentes": [
+      "F10"
+    ],
+    "localizador": "Metodología del resumen bibliográfico",
+    "tema": "2018",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T021",
+    "pregunta": "¿Qué recurso expresivo destaca el resumen del trabajo de Daniel Marún sobre 2018?",
+    "respuesta": "El arte como herramienta para involucrar a otros estudiantes. Es un análisis del ciclo colombiano, no exclusivamente de Bogotá. [F19, resumen]",
+    "fuentes": [
+      "F19"
+    ],
+    "localizador": "Resumen del repositorio",
+    "tema": "2018",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T022",
+    "pregunta": "¿El artículo de Torres Benítez sobre 2018-2019 es exclusivamente una cronología de Bogotá?",
+    "respuesta": "No. Su resumen presenta una trayectoria del movimiento estudiantil en Colombia. Las referencias locales deben identificarse por separado. [F11, resumen]",
+    "fuentes": [
+      "F11"
+    ],
+    "localizador": "Resumen de la ficha editorial",
+    "tema": "Delimitación geográfica",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T023",
+    "pregunta": "¿Qué motivos de protesta expresaron los estudiantes del DIE de la Distrital en octubre de 2019?",
+    "respuesta": "Rechazaron hechos de corrupción y denunciaron abusos del ESMAD durante las protestas de septiembre. Esa es la posición expresada por los firmantes. [F12]",
+    "fuentes": [
+      "F12"
+    ],
+    "localizador": "RECHAZAMOS, numerales 1-2",
+    "tema": "2019",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T024",
+    "pregunta": "¿Qué exigencias de democratización y protesta aparecen en ese comunicado de la Distrital?",
+    "respuesta": "Solicitaron convocar una Constituyente Universitaria y ofrecer garantías para ejercer la protesta. [F12, EXIGIMOS, numerales 3-4]",
+    "fuentes": [
+      "F12"
+    ],
+    "localizador": "EXIGIMOS, numerales 3-4",
+    "tema": "2019",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T025",
+    "pregunta": "¿Ese comunicado estudiantil equivale a una sentencia sobre los hechos denunciados?",
+    "respuesta": "No. Documenta demandas y denuncias de sus autores. Las responsabilidades judiciales requieren fuentes adicionales. [F12]",
+    "fuentes": [
+      "F12"
+    ],
+    "localizador": "Naturaleza y autoría del comunicado",
+    "tema": "Tipos de evidencia",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T026",
+    "pregunta": "¿Qué período y universidad aborda la investigación sobre subjetividades políticas de Chocontá, Hoyos y Rodríguez?",
+    "respuesta": "La Universidad Pedagógica Nacional entre 2010 y 2014, mediante un enfoque hermenéutico y narrativo. [F09, ficha y resumen]",
+    "fuentes": [
+      "F09"
+    ],
+    "localizador": "Ficha y resumen en Redcol",
+    "tema": "UPN 2010-2014",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T027",
+    "pregunta": "¿Qué postura resume el índice del Consejo Superior de la UPN para su comunicado del 11 de mayo de 2021?",
+    "respuesta": "Llama a garantizar la protesta pacífica y a buscar acuerdos para superar las causas del conflicto. [F13, índice institucional]",
+    "fuentes": [
+      "F13"
+    ],
+    "localizador": "Resumen del Comunicado No. 01 en el índice; no PDF completo",
+    "tema": "2021",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T028",
+    "pregunta": "¿Cuántos estudiantes de la Nacional asistieron a todas las marchas de Bogotá entre 1971 y 2025?",
+    "respuesta": "No dispongo de una cifra verificable para todo ese período. Habría que delimitar eventos y contrastar registros de asistencia; sumar cifras parciales puede contar varias veces a las mismas personas.",
+    "fuentes": [],
+    "localizador": "Regla editorial: datos insuficientes",
+    "tema": "Abstención",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T029",
+    "pregunta": "¿Toda marcha que pase frente a una universidad es una protesta universitaria?",
+    "respuesta": "No se puede concluir solo por su ubicación. Deben identificarse convocantes, participantes y demandas para clasificarla como protesta universitaria.",
+    "fuentes": [],
+    "localizador": "Criterio de inclusión del proyecto",
+    "tema": "Delimitación temática",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  },
+  {
+    "id": "T030",
+    "pregunta": "¿Qué protestas universitarias habrá mañana en Bogotá?",
+    "respuesta": "Esta base estudia hechos entre 1971 y 2025 y no contiene una agenda actualizada. No permite confirmar convocatorias futuras.",
+    "fuentes": [],
+    "localizador": "Delimitación temporal del proyecto",
+    "tema": "Fuera de alcance",
+    "revision": "Cotejado con el pasaje indicado; revisión humana experta pendiente"
+  }
+]

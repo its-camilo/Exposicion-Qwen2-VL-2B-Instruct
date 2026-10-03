@@ -1,0 +1,21 @@
+# GGUF muy pesado para GitHub (~2.2 GB): no versionar pesos ni caché HF
+models/*.gguf
+models/.cache/
+*.gguf
+
+# Ollama blobs locales (si alguien corre ollama dentro del repo)
+.ollama/
+
+# Python / HF caché
+__pycache__/
+.venv/
+hf_cache/
+
+# Logs locales
+/tmp/ollama.log
+ollama.log
+
+# ¡OJO! Los scripts SÍ se versionan: scripts/*.sh, Modelfile, README_MODELO.md
+!scripts/*.sh
+!Modelfile
+!README_MODELO.md

@@ -1,0 +1,1343 @@
+FUENTE: F07 - Protesta estudiantil en la crisis universitaria de 1971 en Colombia: la Juventud Patriótica (JUPA) y la Nueva Izquierda
+AUTOR: Álvaro Acevedo Tarazona; Emilio Lagos Cortés
+URL: https://revistas.unal.edu.co/index.php/cienciapol/article/view/99116
+LICENCIA: CC BY-NC-ND 2.5 Colombia
+CONSULTA: 2026-10-01
+MÉTODO: Extracción automática de texto (pypdf); revisar orden y caracteres
+ESTADO: Copia de trabajo; no usar sin revisión como etiquetas de entrenamiento.
+
+
+=== PAGINA_PDF 1 ===
+139
+|
+Este artículo está publicado en acceso abierto bajo los términos de la licencia Creative Commons 
+Reconocimiento-NoComercial-SinObraDerivada 2.5 Colombia.
+VOL. 17, N.º 33 ENE-JUN 2022 · ISSN IMPRESO 1909-230X · EN LÍNEA 2389-7481 /PP . 139-169
+UNIVERSIDAD NACIONAL DE COLOMBIA • FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES •  
+DEPARTAMENTO DE CIENCIA POLÍTICA
+Protesta estudiantil en la crisis 
+universitaria de 1971 en Colombia:  
+la Juventud Patriótica (JUPA)  
+y la Nueva Izquierda
+Student Protest in the University Crisis of 1971 in Colombia:  
+the Juventud Patriótica (JUPA) and the New Left
+Álvaro Acevedo Tarazona
+Universidad Industrial de Santander, Bucaramanga, Colombia
+acetara@uis.edu.co
+https://orcid.org/0000-0002-3563-9213
+Emilio Lagos Cortés
+Universidad Industrial de Santander, Bucaramanga, Colombia
+emiliolagos79@hotmail.com 
+https://orcid.org/0000-0001-6568-9388
+ARTÍCULO DE REFLEXIÓN
+Fecha de recepción: 10 de diciembre de 2021. Fecha de aprobación: 15 de junio de 2022. 
+DOI: https://doi.org/10.15446/cp.v17n33.99116 
+Cómo citar este artículo:
+APA: Acevedo Tarazona, Á. y Lagos Cortés E. (2022). Protesta estudiantil en la crisis universitaria de 
+1971 en Colombia: la Juventud Patriótica (JUPA) y la Nueva Izquierda. Ciencia Política, 17(33), 139-169. 
+https://doi.org/10.15446/cp.v17n33.99116
+MLA: Acevedo Tarazona, Á. y Lagos Cortés E. “Protesta estudiantil en la crisis universitaria de 1971 en 
+Colombia: la Juventud Patriótica (JUPA) y la Nueva Izquierda”. Ciencia Política, 17.33 (2022): 139-169.  
+https://doi.org/10.15446/cp.v17n33.99116
+
+=== PAGINA_PDF 2 ===
+140
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+Resumen
+Durante el año 1971, en Colombia se vivió un intenso movimiento de protesta estudiantil 
+que paralizó casi la totalidad del sistema universitario, aunque se desarrolló de acuerdo con 
+las lógicas locales de cada institución de educación superior. El propósito de este artículo es 
+analizar los espacios de acción y discusión ideológica de la organización política Juventud 
+Patriótica (JUPA), la cual cuenta con estrategias de difusión y programas políticos que llevarán 
+a legitimar decisiones en favor de la movilización estudiantil y a asumir posiciones ideológicas 
+irreconciliables entre los actores de la izquierda de tendencia socialista. Este periodo de la 
+historia del movimiento estudiantil ha sido analizado, con cierta profundidad, en instituciones 
+como la Universidad Nacional de Colombia, la Universidad Libre, la Universidad Industrial de 
+Santander (UIS), la Universidad del Valle y la Universidad Pedagógica y Tecnológica de Colombia 
+(UPTC). Para alcanzar el objetivo propuesto se realiza el análisis de folletos y periódicos 
+universitarios como Nueva Democracia y documentos que se encuentran en el Archivo de la 
+Asociación Universitaria de Estudiantes Santandereanos (Audesa). Estos documentos dan 
+cuenta de que fuerzas políticas como la JUPA influyen en estudiantes, profesores y trabajadores 
+para desarrollar su programa político al interior de las universidades colombianas.
+Palabras clave: Colombia; movimiento de protesta; movimiento estudiantil; organización 
+política; socialismo; universidad.
+Abstract
+In Colombia during the year 1971, the strongest student protest movement was experienced, 
+which paralyzed almost the entire university system, although it would develop according to 
+the local logics of each higher education institution. The purpose of this article is to analyze 
+the spaces for action and ideological discussion of the Juventud Patriótica (JUPA) political 
+organization, which has dissemination strategies and political programs, which will lead to 
+legitimize decisions in favor of student mobilization and to assume positions irreconcilable 
+ideological differences between the actors of the left with a socialist tendency. This period in 
+the history of the student movement has been analyzed, in some depth, in institutions such as 
+the National University of Colombia, the Free University, the Industrial University of Santander 
+(UIS), the Universidad del Valle and the Pedagogical and Technological University of Colombia 
+(UPTC). To achieve the proposed objective, the analysis of university brochures and newspapers 
+such as Nueva Democracia, documents that are in the Archive of the University Association of 
+Santanderean Students (AUDESA), is carried out. These documents show that political forces 
+such as JUPA influence students, professors, and workers to develop their political program 
+within Colombian universities.
+Keywords: Colombia; protest movement; student movement; political organization; 
+socialism; university.
+
+=== PAGINA_PDF 3 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 141
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+Introducción
+La historia de Colombia refleja la historia de una sociedad convulsa 
+que ha sufrido el impacto de diversas tensiones sociales heredadas, ten -
+siones que, aunque siempre parecen estar en su punto crítico, se prolon-
+gan en el tiempo y algunas terminan por no estallar (Santos, 2018, p. 12). 
+Tal situación fue evidente durante el desenvolvimiento de la protesta 
+estudiantil universitaria colombiana de los años sesenta y setenta del 
+siglo XX, la cual se caracterizó por su radicalización política, en sintonía 
+con las influencias revolucionarias que llegaban desde Cuba y otras par -
+tes del mundo.
+Durante los años setenta del siglo XX el movimiento estudiantil uni -
+versitario de Colombia alcanza el más alto grado de desarrollo en sus 
+movilizaciones y en su radicalización política. Este desarrollo será para -
+lelo a uno que experimenta la izquierda desde los años sesenta, algo que 
+solo puede compararse con su etapa de auge vivida en los años veinte 
+(Múnera, 1988, p. 72). El periodo será de gran intensidad en la moviliza -
+ción en diversas universidades públicas como la Universidad Industrial de 
+Santander (UIS), la Universidad Nacional de Colombia, la Universidad del 
+Valle y la Universidad de Antioquia, entre otras; y en algunas de carácter 
+privado, como la Universidad Externado de Colombia y la Universidad 
+Libre. En estas luchas se mezclan aspiraciones políticas de las distintas 
+organizaciones participantes y de los estudiantes, quienes solicitan rei -
+vindicaciones económicas —más que académicas— a su favor.
+El movimiento estudiantil universitario colombiano de los años seten-
+ta experimenta una fuerte influencia de fuerzas políticas de izquierda que 
+establecen fortines de sus organizaciones juveniles en la casi totalidad 
+de las universidades públicas y en algunas instituciones privadas. Estas 
+organizaciones establecen sus estructuras al interior de las universidades 
+y crean células políticas y periódicos estudiantiles para que actúen como 
+medios de distribución de propaganda relativa a sus proyectos políticos. 
+Entre las organizaciones políticas de izquierda presentes en las universida-
+des colombianas en esa época se destacan la Juventud Comunista (JUCO), 
+vinculada al Partido Comunista Colombiano (PCC); la Juventud Patriótica 
+(JUPA), vinculada al Movimiento Obrero Independiente y Revoluciona -
+rio (MOIR); y el Bloque Socialista, organización de simpatías trotskistas.
+Junto a las organizaciones estudiantiles de izquierda también exis -
+ten algunas de derecha, principalmente de orientación conservadora y 
+religiosa, a las cuales la izquierda acusa de saboteadoras de la lucha estu-
+diantil y de llevar a cabo negociaciones para el beneficio personal de 
+
+=== PAGINA_PDF 4 ===
+142
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+quienes fungen como dirigentes estudiantiles. Lo anterior llama la aten -
+ción por su similitud con la situación descrita al interior del movimiento 
+estudiantil cubano en la lucha contra la dictadura de Fulgencio Batista y 
+durante la cual el estudiantado se divide entre organizaciones radicales 
+que defienden la lucha armada y otras más moderadas que buscan pactar 
+con el gobierno, siguiendo una vieja práctica que asegura posiciones en 
+el Estado para los dirigentes estudiantiles moderados, tal como señala 
+Solar Cabrales (2014, p. 132).
+La presencia de los estudiantes en la vida política de la sociedad es de 
+vieja data. Germán Arciniegas señala sus orígenes en Europa, entre los 
+siglos XII y XIV, cuando el argumento racional se convierte en elemento 
+para defender la religión, que hasta entonces solo se propaga con el apo-
+yo de las milicias y del milagro (Arciniegas, 1992, pp. 15-16).
+El impulso de los estudiantes colombianos a participar en la polí -
+tica del país alcanza un punto de gran efervescencia durante la lucha 
+contra la dictadura del general Gustavo Rojas Pinilla, quien gobierna el 
+país entre 1953 y 1957. En muchos colegios del país se estimula a los estu-
+diantes a participar de las marchas que la alianza de los partidos Libe -
+ral y Conservador, junto a la burguesía y la prensa, impulsan contra la 
+permanencia del dictador en el gobierno. En la ciudad de Santa Marta se 
+recuerda cómo en 1957 un joven de 17 años, de nombre Jaime Bateman, 
+participa de las manifestaciones contra la dictadura de Rojas Pinilla des -
+de el Liceo Celedón; años después será fundador del Movimiento 19 de 
+Abril (M-19) (Villamizar, 2002, p. 88). En el mismo sentido se expresaría 
+Horacio Serpa Uribe, quien señala que siendo estudiante de tercer año 
+de bachillerato participa de estas manifestaciones en el Colegio de San -
+tander en la ciudad de Bucaramanga; en esas manifestaciones contra la 
+dictadura, señala Serpa, ya destaca como organizador y dirigente estu -
+diantil Jaime Arenas Reyes, futuro miembro de la guerrilla del Ejército de  
+Liberación Nacional (ELN) (Acevedo Tarazona, 2016a, p. 155).
+Como indica Darío Villamizar (2002), los estudiantes de colegios y 
+universidades colombianos tendrán gran protagonismo en la lucha con -
+tra Rojas Pinilla, y por ello son ensalzados por la prensa de la época:
+Había que ver los titulares y artículos —posteriores a la salida de 
+Rojas— […] en los que todo era “loor a los estudiantes”, “jóvenes: héroes 
+de las jornadas de mayo”, “juventud: orgullo máximo de la patria”. Los 
+honores iban desde saludos a su valor, gallardía, pundonor y coraje, hasta 
+propuestas de homenajes y monumentos. (p. 89)
+
+=== PAGINA_PDF 5 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 143
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+De esta manera, se puede afirmar que a partir de la lucha contra la dic-
+tadura de Rojas Pinilla se da una mayor participación de los estudiantes 
+en los asuntos políticos del país, estimulados por los partidos políticos 
+tradicionales y por el establecimiento en general, los cuales, posterior -
+mente, les reclamarán el no dedicarse al estudio por empeñarse en dis -
+cusiones políticas, cuestionando el orden establecido.
+Algunos de estos aspectos serán analizados en el presente artículo, 
+que se enfoca en estudiar los espacios de acción y discusión ideológica de 
+la organización política JUPA a través de sus estrategias de difusión tales 
+como periódicos y folletos, documentos que se encuentran en el Archivo 
+de la Asociación Universitaria de Estudiantes Santandereanos (Audesa), el 
+cual se halla resguardado en el Centro de Documentación e Investigación 
+Histórica Regional (CDHIR) de la UIS. La principal inquietud para rea -
+lizar esta investigación es comprender la influencia de organizaciones 
+políticas como la JUPA en el movimiento de protesta estudiantil, y cómo 
+su ideología y formas de lucha se incorporarán en la cotidianidad de ins-
+tituciones universitarias como la Universidad Nacional de Colombia, la 
+Universidad Libre, la UIS y la UPTC. En un primer apartado se registra el 
+contexto mundial para entender la efervescencia maoísta de la época, su 
+repercusión en el movimiento estudiantil colombiano y cómo conflic -
+tos vividos en países como Cuba y México serán replicados por los uni -
+versitarios colombianos. Los apartados segundo y tercero hacen énfasis 
+en la situación del movimiento estudiantil colombiano en el siglo XX, 
+especialmente en 1971, año de crisis para la universidad y antesala del 
+divisionismo ideológico estudiantil izquierdista, tema del apartado final 
+de este artículo y que deja planteado el debilitamiento del movimien -
+to estudiantil al perder su norte en la búsqueda de un proyecto político 
+sólido o de una reforma universitaria válida ante las demandas especí -
+ficas de este sector de la sociedad colombiana, lo cual finalmente propi -
+ciará, en algunos casos, la opción por la lucha armada.
+1. Un contexto mundial conflictivo
+Vera Grabe señala que en los años sesenta —y esto puede extenderse a 
+la década siguiente— los jóvenes, a nivel mundial, cuestionan una serie 
+de situaciones como la guerra, la autoridad, el conformismo, el orden 
+establecido y el consumismo. Simultáneamente se desarrolla una “revo -
+lución cultural” expresada en nuevas modas que exaltan la rebeldía, la 
+igualdad de sexos, la revolución, el cambio social y la lucha armada, a 
+
+=== PAGINA_PDF 6 ===
+144
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+la que incluso no se le cuestiona ni su legitimidad ni su validez (Grabe,  
+2015, p. 169). Durante las décadas de los años sesenta y setenta, en el 
+mundo irradian simultáneamente movimientos de no violencia y con -
+tra la guerra y movimientos que reivindican la violencia revolucionaria. 
+A la vez, se dan las luchas por los derechos civiles y contra la Guerra de 
+Vietnam —en las que el reverendo Martin Luther King y el pacifismo 
+serán protagonistas de primer orden—, y en las protestas en las calles de 
+París y otras capitales del mundo se exhiben las imágenes de los líderes 
+que desarrollan las luchas revolucionarias en el tercer mundo: Ho Chi 
+Min o el Che Guevara. Al mismo tiempo se reactivan o se fundan orga -
+nizaciones armadas como el Irish Republican Army (IRA) en Irlanda del 
+Norte, la Euskadi Ta Askatasuna (ETA) en el País Vasco o la Facción del 
+Ejército Rojo en Alemania, además de diversas expresiones minúsculas 
+de guerrilla urbana en Estados Unidos (Grabe, 2015, p. 170), de manera 
+que en el mundo soplan vientos de transformación de la sociedad tanto 
+por la vía violenta como por la vía pacífica.
+Este contexto mundial es estudiado por especialistas en el tema que 
+enfatizan en la imbricación entre los sucesos locales, nacionales e inter -
+nacionales y las esferas política, económica, cultural y social, quienes 
+observan que eventos como las movilizaciones universitarias están rela -
+cionados con un proceso global como fue la revolución cultural planetaria 
+del año 1968 (Acevedo Tarazona, 2017). Tal imbricación se observa en fenó-
+menos como el de la Nueva Izquierda, que en el plano global se expresa en 
+nuevas corrientes marxistas que se sobreponen y entran en oposición al 
+marxismo soviético con experiencias como la china, el rechazo de marxis-
+tas europeos a las invasiones soviéticas a Hungría y a Checoslovaquia  
+y la Revolución cubana.
+Este periodo de radicalización política orientada hacia la revolución 
+socialista está marcado por la irrupción en todo el mundo de la juventud 
+como actor social y político de primer orden, aspecto puesto de presente 
+principalmente por los sucesos de Mayo del 68 y sus efectos en todo el 
+mundo en años posteriores. Hobsbawm (1998, pp. 308-330) señala cómo, 
+después de la segunda posguerra, comienza a crecer la población estu -
+diantil universitaria en prácticamente todo el mundo y cómo, a partir de 
+ese momento, la juventud comienza a desempeñar un rol destacado en 
+los ámbitos político, cultural y social. En el aspecto político y cultural, 
+las universidades resultan ser el lugar en donde los jóvenes interactúan 
+con ideas y proyectos de muchos lugares del mundo que ahora vienen a 
+impactar en sus países. Un aspecto crucial es el conflicto que surge entre 
+
+=== PAGINA_PDF 7 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 145
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+los jóvenes y sus mayores en torno a que el poder y la riqueza siguen en 
+manos de estos últimos, mientras que los primeros luchan por lograr su 
+autonomía y defender una nueva actitud ante la vida. Estas tensiones  
+se manifiestan en aspectos como la reducción de la edad para votar y el 
+surgimiento de la llamada cultura juvenil, expresada en nuevas creacio -
+nes musicales y en otros productos de consumo para jóvenes. En suma, 
+afirma Hobsbawm, durante la posguerra, con mayor intensidad en los 
+sesenta y setenta, la juventud deja de considerarse una etapa de prepara-
+ción para la vida adulta y pasa a verse como la etapa crucial de la existen-
+cia, llegándose a considerar que después de los treinta años solo queda 
+lugar para la decadencia.
+En esta misma línea de análisis, Juan Carlos Portantiero (1978, p. 116) 
+argumenta que el triunfo de la Revolución cubana, con sus jóvenes diri -
+gentes y la participación de estudiantes en la lucha guerrillera contra la 
+dictadura, permite a intelectuales como Sartre y otros citarla como ejem-
+plo de una revolución que se relaciona estrechamente con una serie de 
+movimientos juveniles que influyen en la vida política cubana desde sus 
+luchas por la independencia. Así pues, en la segunda mitad del siglo XX la  
+juventud se presenta como un actor de primer orden en la lucha revolu -
+cionaria y la vida política en Latinoamérica.
+Para inicios de los años sesenta, una efervescencia de revolución reco-
+rre el continente (Villamizar, 2002, p. 159). De alguna manera, esta euforia 
+de revolución tiene que ver con lo que ocurre en Cuba, que, bajo ame -
+naza de invasión por parte de Estados Unidos y resintiendo la colabora -
+ción de los regímenes latinoamericanos con su enemigo norteamericano, 
+ve la necesidad de conseguir aliados entre la juventud, quienes buscan la 
+revolución en los países latinoamericanos; así es como muchos de estos 
+jóvenes terminan fundando organizaciones guerrilleras, jóvenes latinoa -
+mericanos entrenados en lucha guerrillera por parte de cubanos bajo la 
+dirección del mítico “Barbarroja”, Manuel Piñeiro Losada, jefe de la inte-
+ligencia cubana.
+En el plano universitario es de gran incidencia el legado del Manifies-
+to de Córdoba, movimiento estudiantil argentino que sentará la pauta 
+para las futuras demandas de reforma universitaria en América Latina, 
+reivindicando la autonomía universitaria, la libertad de cátedra y la par -
+ticipación de los estamentos de la universidad en su dirección. En 1918 
+surge el Movimiento de Córdoba, el cual apoyará la reforma universi -
+taria que busca derrumbar las viejas estructuras académicas de las uni -
+versidades existentes. Este movimiento es la suma de críticas realizadas 
+
+=== PAGINA_PDF 8 ===
+146
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+desde la Biblioteca Córdoba, el Colegio Novecentista de Buenos Aires y 
+el Ateneo Universitario de Buenos Aires tras varios años de inconfor -
+mismo por parte del estudiantado argentino, quienes buscaban cambios 
+de fondo en los programas de estudio, la renuncia de algunos docen -
+tes, la modernización del sistema universitario y un gobierno tripartito 
+compuesto por profesores, estudiantes y egresados, más conocido como 
+cogobierno universitario (Acevedo Tarazona, 2016a, p. 116). Algunas de las 
+reivindicaciones solicitadas por los estudiantes de Córdoba que se con -
+solidan tras la reforma universitaria son la asistencia libre a clases, la 
+docencia libre, el reemplazo de la enseñanza escolástica por la inves -
+tigación viva en los laboratorios y seminarios, la participación de los 
+estudiantes en el gobierno universitario, la extensión universitaria para 
+vincular la institución al pueblo y la autonomía universitaria. De igual 
+manera, Javier Ocampo López (2018) considera que:
+El Grito de Córdoba hizo reflexionar a los universitarios latinoameri -
+canos sobre la dependencia cultural de estos países en relación con Euro -
+pa y Estados Unidos y la necesidad de buscar la autonomía y la esencia de 
+la propia identidad. Asimismo, en luchar por la búsqueda de soluciones a 
+los grandes problemas nacionales. (p. 23)
+Como testimonio para la posteridad, el Grito de Córdoba dejará plas -
+mada su propuesta en el texto titulado La juventud argentina de Córdo -
+ba a los hombres libres de Sud América , más conocido como “Manifiesto 
+Liminar”, el cual se proyectará a países como Perú, México y Chile, y 
+cuyos ecos retumbarán con fuerza en 1971 en Colombia.
+2. Colombia y la gestación de grupos revolucionarios
+Colombia no sería ajena a este proceso revolucionario. El PCC sigue 
+la orientación de la lucha parlamentaria, la mayor parte de la corriente 
+maoísta defiende la vía de la guerra popular prolongada para cercar las 
+ciudades desde el campo, tal como sucede en China, en tanto que los sec-
+tores trotskistas se inclinan mayoritariamente por el trabajo sindical y 
+de base y el rechazo a la lucha armada. Grupos afines a organizaciones 
+guerrilleras tales como los Comandos Camilistas (CM), cercanos al ELN, 
+y núcleos cercanos al Ejército Popular de Liberación (EPL) son una mues-
+tra de la división del movimiento comunista mundial debido a discusio -
+nes sobre las distintas vías a la revolución, en las que se utilizan otros 
+
+=== PAGINA_PDF 9 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 147
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+modelos de guerra revolucionaria como son el foquismo, la guerra urba -
+na y la insurrección popular (Narváez, 2012, pp. 35-51):
+Como modelo de guerra se comprende una representación conceptual, 
+en donde tienen lugar los métodos utilizados, el tiempo, el terreno y la 
+población, estos son los factores que determinan las condiciones en las 
+que se desarrolla la guerra insurreccional y de acuerdo con sus caracte -
+rísticas, se posibilita o se impide la victoria. Se diferencia de los métodos 
+revolucionarios, ya que estos se comprenden como las tácticas con las que 
+se ha desarrollado la guerra en experiencias particulares. Estas experien -
+cias son retomadas por las organizaciones insurgentes y a partir de ellas 
+se construyen las propuestas procedimentales que contemplarán las for -
+mas y las fases en las que se debe desarrollar la guerra revolucionaria para 
+lograr la victoria. El método basa su formulación tanto en los presupues -
+tos ideológicos como en la técnica militar que posea la organización gue -
+rrillera. (Narváez, 2012, p. 34)
+Dentro del modelo insurreccional se adoptan métodos de guerra 
+como la guerra urbana y el foquismo, y en el modelo de guerra popular y 
+prolongada está el método de la guerra de guerrillas, aunque estos méto-
+dos tienen cabida en ambos modelos de guerra. La principal diferencia 
+en estos modelos de guerra es la consecución de la victoria, en el caso de 
+la guerra insurreccional se hace a través de un levantamiento popular 
+armado masivo que se manifiesta contra el régimen y busca derrocarlo 
+a través de la revolución, mientras que en el modelo de guerra popular y 
+prolongada se asegura la victoria de la revolución en una guerra de lar -
+go plazo con la guía del partido y respaldada por las masas ideologiza -
+das (Narváez, 2012, p. 57). Es decir, que los modelos son los que marcan 
+la ruta para alcanzar la victoria —o el poder—, en tanto que los métodos 
+son las estrategias para lograr ese objetivo.
+Esta fiebre de revolución lleva a que jóvenes de países del tercer mun-
+do vayan a Cuba a recibir entrenamiento militar. Dariel Alarcón, uno de 
+los cubanos que combate junto al Che Guevara en Cuba, Congo y Bolivia, 
+participa en el entrenamiento de varios de los colombianos vinculados 
+al ELN, entre los que menciona a Fabio Vásquez y al sacerdote español 
+Domingo Laín, quien dice haber entrenado en 1966. Alarcón (1997) refiere 
+detalles del entrenamiento brindado por los cubanos:
+Una escuela de entrenamiento muy importante era el Punto Cero […], 
+donde se recibía todo tipo de extranjeros […]. Les enseñábamos a preparar 
+explosivos, a abrir cualquier tipo de caja fuerte, a poner minas cazabobos, 
+
+=== PAGINA_PDF 10 ===
+148
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+les dábamos clases de espionaje y contraespionaje, así como de tiro anti -
+personal, de defensa personal, de primeros auxilios y demás. (p. 89)
+Entre las influencias externas que contribuyen a la politización y 
+radicalización de los estudiantes universitarios colombianos se cuentan 
+las Revoluciones cubana y china, y aun la Revolución rusa, que a ini -
+cios del siglo XX le da un impulso mundial a la lucha por el socialismo. 
+Algunos latinoamericanos buscan entrenamiento guerrillero en la Chi -
+na comunista, entre estos destacan los hermanos Sergio y Marianella 
+Cabrera, vinculados al sector maoísta que fundará el EPL (Cabrera, 1993, 
+p. 78). Con este propósito, Marco Palacios (2012, p. 82) señala que un sec -
+tor de las Juventudes del Movimiento Revolucionario Liberal (JMRL) 1 se 
+vincula al maoísmo, y entre 1963 y 1964 envía a China a quince de sus 
+miembros para recibir entrenamiento político y militar.
+Aunado a esto, la nueva izquierda emerge como una ruptura con los 
+tradicionales partidos comunistas leales a las directrices de Moscú y a su 
+orientación de coexistencia pacífica con el mundo capitalista; se manifies-
+ta en organizaciones políticas de corte maoísta, trotskista o procubanas 
+que se deciden mayoritariamente por la lucha armada como recurso para 
+tomar el poder y hacer la revolución en sus países. Dentro de esas fuerzas 
+políticas de la nueva izquierda destaca el MOIR como organización maoís-
+ta que no pregona propiamente la lucha armada en las primeras fases de la 
+revolución sino el trabajo de masas como vía revolucionaria.
+La sociedad colombiana de la década de los setenta se encuentra ago-
+biada por diversos conflictos de orden político, económico y social. Su régi-
+men político ha sido determinado en el marco del Frente Nacional, acuerdo 
+político suscrito entre las dos formaciones políticas tradicionales de  
+Colombia, los partidos Liberal y Conservador, para detener los procesos 
+de violencia partidaria que se intensifican y alcanzan su máxima expre -
+sión luego del asesinato del caudillo liberal Jorge Eliécer Gaitán en 1948. 
+Si bien este objetivo se logra, tal régimen político se convierte en acicate  
+de nuevas violencias, ya que establece una realidad política en la que el 
+poder y los cargos públicos serán monopolizados por los dos partidos  
+tradicionales, excluyendo del ejercicio de la política a otras fuerzas, 
+1 El Movimiento Revolucionario Liberal (MRL) es una disidencia del Partido Liberal 
+dirigida por Alfonso López Michelsen en oposición al Frente Nacional; terminado el 
+Frente Nacional, el MRL se disuelve y López Michelsen y la mayoría de sus seguido -
+res regresarán al Partido Liberal.
+
+=== PAGINA_PDF 11 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 149
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+particularmente las de la izquierda (Santos, 2018, p. 39). Si bien la esencia 
+del Frente Nacional es la alternación de los dos partidos en la presiden -
+cia y la repartición milimétrica de los cargos públicos durante un perio -
+do de dieciséis años —y aunque será exitoso en su objetivo de acabar con 
+la violencia bipartidista—, por su carácter excluyente se convierte en 
+estímulo de nuevas violencias políticas que se encarnan en las guerrillas 
+de tipo socialista. La existencia de guerrillas de índole socialista es otro 
+aspecto característico del periodo en la historia colombiana; guerrillas 
+que en sintonía con lo que ocurre en otros países del continente, experi-
+mentan un auge con posterioridad al triunfo de la Revolución cubana y 
+tras el influjo de la Revolución china.
+Para los años setenta se presentan conflictos y protestas en varias uni-
+versidades públicas, en las que se reclama por distintas problemáticas, 
+desde orientación política de la educación y la sociedad hasta la situa -
+ción crítica de hospitales, financiación y cuestiones académicas (Acevedo 
+Tarazona, 2016a, p. 51). Asimismo, en Colombia existe un amplio espectro 
+de organizaciones de izquierda que se dividen en diversas tendencias y  
+grupos enfrentados entre sí y que expresan la división de la izquierda  
+y el socialismo en el ámbito mundial.
+Entre 1968 y 1971 se registra uno de los mayores picos de protestas uni-
+versitarias en Colombia, manifestaciones que serían un reflejo de lo que 
+se vive en Estados Unidos, Francia y el mundo en general, pues Mayo del 
+68 permite romper con los esquemas tradicionales de la sociedad colom-
+biana, además de rechazar los autoritarismos de cualquier índole. Este 
+rechazo a la institucionalidad llevará a la creación de grupos que lucharán 
+“contra el imperialismo norteamericano encarnado en el Plan Básico, la 
+Fundación Ford en la Universidad Nacional, los Cuerpos de Paz y la Fun-
+dación Rockefeller en ciudades como Cali y Pereira” (Acevedo Tarazona, 
+2016a, p. 47). 1971, en especial, será un año de protestas, manifestaciones, 
+mítines y otras movilizaciones estudiantiles a nivel nacional, las cuales 
+están atravesadas por acciones y expresiones políticas que terminarán en 
+enfrentamientos entre grupos de izquierda. 
+3. El movimiento estudiantil en la universidad 
+colombiana de la segunda mitad del siglo XX
+Para efectos de su estudio, el movimiento estudiantil en Colombia ha 
+sido periodizado de diferentes maneras. Mauricio Archila propone una 
+periodización con base en el nivel de desenvolvimiento que alcanzan sus 
+
+=== PAGINA_PDF 12 ===
+150
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+luchas. De esa manera, establece seis periodos que se extienden desde el 
+año 1909, en que da sus primeros pasos, hasta el año 2011, fecha en que 
+se lleva a cabo un gran movimiento de protesta contra la propuesta de 
+una nueva ley general de educación superior presentada por el Gobierno  
+Nacional (Archila, 2012, pp. 71-104).
+En cuanto a la cronología de la historia del movimiento estudiantil, 
+Álvaro Acevedo propone una periodización alternativa a la tradicional 
+división en épocas de grandes luchas, victorias, derrotas y momentos 
+de apaciguamiento. Plantea una división más comprensiva, teniendo en 
+cuenta el contexto histórico y los intereses particulares de dicho movi -
+miento. De esa manera, señala dos grandes periodos: el primero, que va 
+desde 1910 hasta 1957, tiene por rasgo característico la cooperación de las 
+organizaciones estudiantiles y sus dirigentes con los partidos tradicio -
+nales, considerando la lucha estudiantil como una plataforma de prepa -
+ración para una posterior participación en la vida política al interior del 
+Estado de la mano de los partidos Liberal y Conservador. En este perio -
+do, la bandera política del movimiento estudiantil será la modernización 
+de la universidad, buscando romper el esquema tradicional heredado del 
+régimen del Estado español. En esta lucha, influenciada por el movimien-
+to modernizador de la universidad en Córdoba (Argentina), se busca crear 
+una universidad productiva académicamente, científica y de corte liberal.
+El segundo periodo va desde 1958 hasta los años ochenta del siglo XX,  
+y se caracteriza por un giro hacia la izquierda ideológica y política, influen-
+ciado en gran medida por la Revolución cubana, los ecos de la Revolución 
+china y el auge de las luchas antiimperialistas en el tercer mundo. En este 
+periodo se evidencia un compromiso con la revolución socialista y sim -
+patías con la lucha armada; la meta es la revolución social, y el decurso 
+de la universidad, en sí mismo, será secundario hasta que no se libere a la 
+sociedad del yugo estatal capitalista (Acevedo Tarazona, 2016b, pp. 49-84).
+Al inicio de la segunda mitad del siglo XX Colombia vive una expan -
+sión de la cobertura universitaria; así, entre 1950 y 1967 se crean veinti -
+cuatro nuevas universidades (Acevedo Tarazona, 2016a, p. 71), y, aunque 
+no se presenta el fenómeno de la universidad de masas, la universidad se 
+convierte en un vehículo de ascenso social para sectores de clase media 
+que pueden brindar este tipo de educación a sus hijos. Desde los años 
+sesenta, y durante los setenta, la política universitaria del Estado colom -
+biano se enfoca en copiar el modelo de universidad existente en Estados 
+Unidos. Esto como resultado de las sugerencias de Rudolph Atcon, con -
+sultor norteamericano de la Organización de las Naciones Unidas para la 
+
+=== PAGINA_PDF 13 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 151
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+Educación, la Ciencia y la Cultura (Unesco), quien realiza un diagnósti -
+co del estado de la universidad latinoamericana y propone una serie de 
+transformaciones para los centros de educación superior del continen -
+te. Aunque inicialmente se trata de establecer la reforma de la universi -
+dad mediante una ley de alcance nacional, ello no será posible, y ciertos 
+visos de reforma se implementarán en las universidades en sus planes de 
+desarrollo con base en las sugerencias del informe de Atcon y a través de 
+préstamos del Banco Interamericano de Desarrollo (Acevedo Tarazona,  
+2016a, pp. 62-63). La propuesta de reforma está contenida en el llamado 
+Plan Básico para la Educación Superior en Colombia, elaborado por la Aso-
+ciación Colombiana de Universidades. Para la JUPA, el Plan Básico es la 
+forma de aplicación de las tesis de Rudolph Atcon, que asigna a los países 
+subdesarrollados la formación de técnicos y profesionales para invadir el 
+organismo social de científicos y creadores de ciencia, condenándolos a 
+seguir sujetos a la dependencia de los países desarrollados. La propues -
+ta de Atcon para invadir el “organismo social” con profesionales y ayudas 
+asistencialistas es para evitar a toda costa una segunda Cuba en Latino -
+américa. Los estudiantes también atacan al Plan Básico por contener otros 
+puntos centrales de la propuesta de Atcon, como son la privatización de 
+la educación y la departamentalización de las carreras y los programas 
+de estudios generales (Editorial, 1971). Una característica de las protestas 
+estudiantiles entre 1968 y 1972 tiene que ver con su oposición al modelo de 
+universidad norteamericano que se propone implementar en Colombia.
+Para Atcon, la sociedad latinoamericana es de tipo tradicional, con 
+rasgos feudales, en oposición a la sociedad moderna. La universidad evi -
+dencia tal anquilosamiento por su elitismo y solo se le ve como un medio 
+para obtener un título profesional que confiere estatus social, aunque 
+incluso no se ejerza, y sin descontar que los centros universitarios se 
+consideran feudos de poder de fuerzas políticas clientelistas que los con-
+trolan. Partiendo de que la universidad es de gran importancia para la 
+sociedad por el papel que debe desempeñar en su desarrollo a través del 
+impulso de la ciencia y la técnica, Atcon (1963) defiende la necesidad de 
+una reforma con base en la masificación de la universidad y su moderni-
+zación mediante la cualificación del factor humano consagrado a la bús -
+queda del conocimiento y alejado de la política. Como se puede ver, en 
+principio, el diagnóstico de Atcon sobre la universidad latinoamericana 
+no es del todo desatinado, pero lo que no aceptan los estudiantes es que 
+dicho diagnóstico provenga de Estados Unidos y su política de injerencia 
+sobre los estados latinoamericanos (Acevedo Tarazona, 2008, pp. 61-82).
+
+=== PAGINA_PDF 14 ===
+152
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+Como ya se ha expresado, el MOIR actúa al interior de las universida -
+des mediante su rama juvenil, denominada Juventud Patriótica y mejor 
+conocida como JUPA. Esta organización establece sus filiales en distin -
+tas universidades y publica periódicos en varias de ellas. Su principal 
+publicación se denominó Nueva Democracia, y contó con ediciones para 
+cada universidad. No se trataba de grandes periódicos, sino de folletos 
+mecano grafiados que se copiaban y distribuían en hojas tamaño oficio 
+con texto por ambas caras. Los periódicos presentaban una extensión 
+variable, que en ocasiones alcanzaba hasta las seis páginas. Uno en par -
+ticular, que ha llamado la atención en la pesquisa sobre el movimiento 
+estudiantil colombiano, es el que se publicó en la UPTC, el ya menciona-
+do Nueva Democracia, que se difundía en esta universidad como el órga -
+no político de la JUPA. El periódico Nueva Democracia, órgano de la JUPA, 
+deriva su nombre de la etapa en que, según su análisis, se encuentra la 
+revolución colombiana, esto es, una etapa de revolución democrática de 
+nuevo tipo que debía sentar las bases del socialismo. Sus objetivos inme-
+diatos debían ser expulsar al imperialismo norteamericano y destruir la 
+base económica de poder de las clases nacionales proimperialistas (terra-
+tenientes y gran burguesía intermedia), dar la tierra a los campesinos e 
+imponer la dictadura de las clases revolucionarias bajo la dirección del 
+proletariado (Editorial, 1971).
+4. 1971: año de crisis
+Si bien detrás de la crisis universitaria de los años setenta en Colom -
+bia se encuentran elementos de orden estructural como los mencionados 
+con anterioridad, la coyuntura de 1971 tiene su origen en la Universi -
+dad del Valle, en un movimiento de huelga estudiantil contra la política 
+universitaria estatal a la que el estudiantado, en su mayoría inclinado 
+políticamente hacia la izquierda, califica de neocolonial, puesto que 
+las decisiones administrativas en la universidad se toman atendiendo 
+directrices provenientes de los centros del capitalismo mundial que con-
+trolan la universidad a partir de su financiación, la injerencia en la desig-
+nación de directivos y el diseño de los programas educativos (Federación 
+de Estudiantes de la Universidad del Valle, 1972). Medina (2002) retrata al 
+estudiante típico de estas protestas:
+[…] dueños de la verdad absoluta de su militancia política, parados 
+sobre su pedestal cargando a sus espaldas pesadas camándulas de sectaris-
+mo, predicando con dogmático oscurantismo una verdad que la mayoría 
+
+=== PAGINA_PDF 15 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 153
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+de veces no alcanza[n] a entender: con una respuesta para cada pregunta, 
+con una cita en cada página, con una solución teórica para cada problema 
+y un problema para cada solución. (p. 8)
+El movimiento estudiantil logra articular su protesta con las de secto-
+res obreros, del Magisterio, del Servicio Nacional de Aprendizaje (SENA), 
+de educación media y campesinos. Este movimiento propicia la reunión 
+del Primer Encuentro Nacional de Estudiantes, realizado en la ciudad de 
+Cali en el mes de febrero de 1971, y logra congregar a representantes estu-
+diantiles de la mayoría de universidades públicas del país y de varias ins-
+tituciones privadas (Ordóñez, 2011). El evento traza los lineamientos de un 
+Programa Mínimo que reúne las principales exigencias de los universita-
+rios al Gobierno Nacional. Cabe señalar que las demandas de los estudian-
+tes no son solo exclusivas de aquellos provenientes de la Universidad del 
+Valle, sino que allí el conflicto se expresa de manera más abierta. Si bien 
+la crisis universitaria de 1971 y los años siguientes tiene por centro ini -
+cial esta institución, rápidamente se extenderá a las demás universidades 
+públicas y a algunas privadas, que sienten sobre ellas las mismas tensio -
+nes (Puig y Zuluaga, 1974, p. 101). Las protestas en Cali van en alza, chocan-
+do con la policía y el ejército hasta terminar en la masacre de estudiantes 
+el día 26 de febrero de 1971 (Ordoñez, 2011), en la que serán asesinados entre 
+quince y treinta estudiantes (Federación de Estudiantes de la Universidad 
+del Valle, 1972, p. 74). La masacre del 26 de febrero es un evento que estimula  
+la radicalización del estudiantado colombiano como consecuencia de las 
+medidas represivas de que son víctima (Ordóñez, 2011, p. 121).
+En el marco de las protestas estudiantiles que se extenderán a otras 
+universidades, durante 1971 se desarrollan seis encuentros nacionales 
+universitarios. Entre los encuentros nacionales de estudiantes que se rea-
+lizan este año se destaca el primero, al que asisten representaciones de 
+veinticuatro universidades públicas y privadas. Las universidades que par-
+ticipan en este primer encuentro son las universidades de Antioquia, San-
+tiago de Cali, Tecnológica de Pereira, Externado de Colombia, Jorge Tadeo 
+Lozano, Javeriana, del Cauca, Libre, Pedagógica Nacional, del Atlántico, 
+de Cartagena, del Quindío, de los Andes, del Valle, del Tolima, Distrital, 
+San Buenaventura, de Caldas, del Rosario, Industrial de Santander, Tecno-
+lógica y Pedagógica de Tunja, Libre de Barranquilla, Nacional de Colom -
+bia, el Instituto Colombiano de Ciencias Administrativas (Universidad 
+INCCA) y la Escuela Superior de Administración Pública (ESAP); proba -
+blemente la mayor cantidad de instituciones colombianas de educación 
+
+=== PAGINA_PDF 16 ===
+154
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+superior se unen con un mismo propósito: establecer el Programa Mínimo  
+de los Estudiantes Colombianos (Acevedo Tarazona y González, 2011, p. 230).  
+Este primer encuentro se lleva a cabo en la ciudad de Cali entre el 20 
+y el 21 de febrero, y de él sale el preámbulo del Programa Mínimo de 
+los Estudiantes Colombianos, documento programático del movimiento 
+estudiantil que propone la supresión de los órganos de gobierno univer -
+sitario existentes en el momento, los consejos superiores universitarios, 
+y su reemplazo por organismos de gobierno provisional en los que la 
+representación estudiantil y profesoral tendrá primacía. Otras líneas 
+principales del Programa Mínimo serán el aumento del presupuesto 
+público para la universidad pública, el establecimiento de una comisión 
+para el estudio de la Ley Orgánica de Educación, la ruptura de los víncu -
+los de la Universidad del Valle con entidades extranjeras de financiación 
+y la legalización del derecho de los estudiantes para constituir agremia -
+ciones autónomas en las distintas universidades del país (AA.VV., 1971, 
+pp. 85-88). En síntesis, se reivindica el cogobierno universitario, enten -
+dido como una administración de la universidad en la cual la represen -
+tación de estudiantes y profesores, en razón de su mayoría numérica, 
+pueda determinar el curso de la universidad. Este programa es redactado 
+y aprobado durante el Segundo Encuentro Nacional Universitario reali -
+zado los días 13 y 14 de marzo de 1971 en Bogotá.
+El Manifiesto de Córdoba de 1918 repica con fuerza en 1971, las bande -
+ras del cogobierno universitario se izan en Colombia y las instituciones 
+de educación superior se unen para que el gobierno las escuche y sus soli-
+citudes sean aceptadas. La izquierda universitaria lleva la vocería de un 
+creciente número de jóvenes que solicitan financiación estatal para pro -
+mover un mayor ingreso de estudiantes, una autonomía que permita al 
+país liberarse del intervencionismo estadounidense y propugnar por la 
+libertad de toma de decisiones desde consejos superiores ajenos a la repre-
+sentación estatal o empresarial de las regiones. Para sustituir los conse -
+jos superiores se propone crear “organismos provisionales de gobierno 
+compuestos por el rector (sin voto), un representante del Ministerio de 
+Educación, tres estudiantes y tres profesores como representantes de sus 
+respectivos estamentos” (Acevedo Tarazona, 2016a, p. 118). Por consiguien-
+te, figuras como los representantes de la Iglesia católica, del empresariado 
+y algunos alcaldes y gobernadores dejarán de estar en los consejos supe -
+riores para dar paso a profesores y estudiantes como partícipes activos 
+de la vida universitaria, los cuales tendrán voz y voto en las reuniones.  
+
+=== PAGINA_PDF 17 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 155
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+A la par, estos consejos superiores llevarán la vocería en propuestas de 
+reformas a la ley orgánica de las universidades.
+En los años setenta, la JUPA se convierte en una de las fuerzas diri -
+gentes en las universidades, pero más que una fuerza eminentemen -
+te estudiantil es el corpus juvenil de una organización política que se 
+propone hacer la revolución en Colombia: el MOIR. El MOIR surge entre 
+fines de 1969 e inicios de 1970 mediante la unificación de distintos grupos 
+de influencia maoísta que se encuentran aislados. Según sus militantes, 
+nace de una alianza de organizaciones obreras y sectores que se oponen a 
+las políticas entreguistas de las centrales obreras existentes a finales de la 
+década de los sesenta. En 1971, dicha organización reclama tener influen-
+cia en distintos sectores de la sociedad colombiana, tales como el obrero, 
+el campesino y el estudiantil. En el estudiantado tal influencia la ejerce 
+mediante la JUPA, “[…] siendo esta, por lo tanto, la única organización 
+estudiantil dirigida por la ideología proletaria, la de la clase obrera” (¿Qué 
+es la Juventud Patriótica?, 1971, p. 3). Para el MOIR y la misma JUPA sus 
+propósitos son que el estudiantado cuente con “[…] una organización que 
+cobije los intereses de la masa estudiantil y que dé verdadera participa -
+ción a todo el estudiantado en el proceso revolucionario colombiano que 
+atravesamos actualmente[…]” (¿Qué es la Juventud Patriótica?, 1971, p. 3).
+El periódico Tribuna Roja es el órgano del MOIR desde 1971, año en que 
+comienza a circular. Para el MOIR la guía ideológica para dirigir la revolu-
+ción es el marxismo-leninismo-maoísmo, y el apego militante a esta ideo-
+logía le llevará a chocar violentamente con quienes no la comparten. En 
+el estudio realizado con base en los periódicos y volantes elaborados por 
+los estudiantes vinculados a la JUPA, resulta notorio el protagonismo del 
+maoísmo como su principal elemento ideológico. El maoísmo es ensalza-
+do reiteradamente como la guía ideológica para los estudiantes en sus 
+luchas, además de que le señalan como guía para el resto de la sociedad 
+en su lucha contra el capitalismo y la dominación imperialista. Como 
+indicador de lo anterior, vale la pena señalar que los artículos de perió -
+dicos, volantes y comunicados casi siempre terminan con la expresión 
+“Viva el marxismo leninismo-pensamiento Mao Tse-Tung”, en ocasiones 
+repetida varias veces. Esto evidencia a un sector estudiantil ideologiza -
+do; por demás, un matiz radical de lucha revolucionaria presente en el 
+contexto. Para esta época, gran parte del estudiantado colombiano está 
+ligado a algún grupo de estudio, en los cuales se discuten las ideas de 
+Lenin, Marx y Mao; como consecuencia, los estudiantes se inclinan por 
+el marxismo o el maoísmo (Acevedo Tarazona y González, 2011, p. 236).
+
+=== PAGINA_PDF 18 ===
+156
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+Para el MOIR y sus juventudes la causa de los problemas en los países 
+de América Latina y, por tanto, de Colombia, tienen su raíz en la domi -
+nación imperialista del capitalismo mundial. El MOIR argumenta que el 
+imperialismo mantiene relaciones económicas y sociales de tipo feudal 
+en el campo y que estrangula al capital nacional, sin descontar que los 
+monopolios explotan los recursos naturales de los países latinoameri -
+canos y luego les venden los productos industriales. Además, el control 
+financiero, el pago de regalías y derechos de patentes y marcas, la asis -
+tencia técnica y la facturación fraudulenta sirven al imperialismo para 
+exprimir la industria nacional. Al mismo tiempo, el imperialismo impo -
+ne los gobernantes nacionales que administran en favor de sus patronos 
+extranjeros y en contra de los intereses nacionales. Las reformas agraria, 
+urbana, estudiantil, que en ocasiones promueven los gobiernos nacio -
+nales, serán impuestas desde Washington y estarán orientadas a crear 
+mejores condiciones para el desarrollo de la economía capitalista y a dis-
+traer a las masas de la lucha revolucionaria. Simultáneamente, el impe -
+rialismo ejerce una opresión cultural sobre los países latinoamericanos 
+mediante el control de los medios de difusión, la investigación y el arte, 
+impidiendo así que se configure una verdadera cultura y ciencia nacio -
+nales (Editorial, 1971, pp. 1-5).
+En este análisis estructural de la economía de los países latinoameri -
+canos, el MOIR coincide con otros sectores de la izquierda del continente. 
+Para ilustrar tal direccionamiento ideológico es pertinente señalar que 
+el filósofo mexicano Carlos Illades, al estudiar a la intelectualidad de la 
+izquierda mexicana de los años sesenta y setenta, destaca que diversos 
+autores hacen énfasis en que la dependencia de las economías latinoame-
+ricanas frente al capital extranjero limita, en gran medida, la iniciativa de 
+los proyectos nacionales. Illades afirma que Ruy Mauro Marini, brasileño 
+exilado en México, formula una teoría radical de la dependencia, en la 
+que afirma que esta solo puede superarse mediante la revolución socialis-
+ta violenta (Illades, 2012, p. 104). Tal discurso frente al imperialismo no es 
+exclusivo del MOIR. Un elemento característico de las luchas estudianti -
+les universitarias serán las consignas antiimperialistas. En esto coinciden 
+con el movimiento estudiantil colombiano y con las luchas estudiantiles 
+en otros países del continente en esa época (Acevedo Tarazona, 2017). En 
+Cuba se observa desde las guerras de independencia hasta la amplia par -
+ticipación de sectores estudiantiles en la lucha contra la dictadura de Ful-
+gencio Batista, la cual desemboca en el triunfo de la Revolución cubana 
+(Lagos, 2017, pp. 90-91). Comparando las luchas estudiantiles en Colombia 
+
+=== PAGINA_PDF 19 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 157
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+y Cuba, se puede señalar que el sentimiento imperialista en la isla es una 
+continuidad que se remonta a sus luchas independentistas, en tanto que 
+en Colombia es un elemento nuevo asociado a las influencias revolucio -
+narias de tipo socialista que impactan al país durante la segunda mitad 
+del siglo, y que tienen gran importancia en la politización del movimien-
+to estudiantil (Acevedo Tarazona y Lagos, 2019, pp. 89-101).
+Lo específico en el MOIR es su lectura de la revolución colombiana, lo 
+cual determina su estrategia. Afirma la necesidad de una revolución de 
+nuevo tipo. Para aumentar sus fuerzas, el proletariado debe aliarse con 
+las masas campesinas y demás sectores del pueblo tales como la pequeña 
+burguesía, los pequeños propietarios de tierras, los estudiantes y los inte-
+lectuales. Solo así será posible una revolución de nueva democracia que 
+culminará en una segunda etapa, que es la revolución socialista. De mane-
+ra que la realidad les impone a los revolucionarios el desarrollo de una  
+política revolucionaria de liberación nacional que debe unir a los dis -
+tintos sectores de la sociedad que defienden intereses nacionales para 
+enfrentarse al capital imperialista y a sus cómplices nacionales (Edito -
+rial, 1971, pp. 1-5). Según el MOIR, a la revolución de nuevo tipo la justifica 
+el fracaso de la revolución de viejo tipo, como acontece durante los años 
+treinta del siglo XX en Colombia, cuando el presidente liberal Alfonso 
+López Pumarejo y un sector de su partido intentan hacer una revolución 
+democrática de viejo tipo. Esto es, una revolución democrática burgue -
+sa, dirigida por la burguesía, que busca implementar ciertas reformas de 
+tipo liberal y que reconoce ciertas libertades a la clase obrera, como la 
+de organizarse políticamente. Sin embargo, la revolución democrática 
+burguesa, sin fuerzas para imponerse en la sociedad colombiana de los 
+años treinta, claudica ante los terratenientes y la burguesía; además, esta 
+revolución burguesa se alía con el imperialismo, alejándose de los inte -
+reses nacionales y fundiéndose en la defensa de los intereses del capital 
+foráneo imperialista. Por su parte, los terratenientes crean ejércitos pri -
+vados para quitarle a los campesinos las tierras que la incipiente refor -
+ma agraria les ha entregado, y de esta manera aparece la violencia que 
+reina en los campos colombianos (Sánchez y Meertens, 1983). Por tanto, 
+la burguesía se torna en una clase reaccionaria, opuesta al progreso de la 
+sociedad e incapaz de dirigir la revolución. Ante ello, el liderazgo revolu-
+cionario lo tendrá que asumir el proletariado, pero ahora se trata de una 
+revolución de nueva democracia, de nuevo tipo, con camino al socialis -
+mo (¿Qué es la Juventud Patriótica?, 1971, pp. 2-3).
+
+=== PAGINA_PDF 20 ===
+158
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+5. El divisionismo ideológico estudiantil 
+dentro de la misma izquierda
+Así como en la UIS durante los años setenta es notoria la lucha entre 
+la JUCO y la JUPA por obtener el control del movimiento estudiantil 
+organizado en torno a la Audesa, en otras universidades como la UPTC se 
+vive una lucha frontal entre la JUPA y sectores trotskistas. Para la JUPA, 
+la división entre los distintos sectores de la izquierda y el estudiantado  
+se debe a que los oponentes no comprenden la realidad del país ni la polí-
+tica revolucionaria que debía seguirse. Acotan que a tal política revolucio-
+naria se oponen, en primer lugar, el imperialismo y sus agentes locales, 
+pero también los oportunistas de derecha y de izquierda que rechazan 
+la lucha contra el imperialismo, así como los renegados revisionistas del 
+PCC, o los grupos que, predicando como tarea inmediata la construcción 
+del socialismo, niegan la unidad nacional y se enfrentan a las fuerzas que 
+sufren la opresión imperialista. Insisten en la liberación de la domina -
+ción extranjera y en realizar transformaciones democráticas como paso 
+previo al socialismo: “[…] quienes se oponen a la lucha contra el imperia-
+lismo y las trasformaciones democráticas de la actual etapa revoluciona-
+ria son enemigos de la revolución, del socialismo, del proletariado y del 
+pueblo colombiano, así se disfracen de comunistas, socialistas o marxis -
+tas” (Editorial, 1971, pp. 1-5). Esta posición de la JUPA —y en esto se limita 
+a reproducir la posición del MOIR— la lleva a tener una actitud de exclu -
+sión frente a otros grupos de izquierda en las universidades, al punto de 
+calificarlos de traidores, alimañas y cómplices de la contrarrevolución. 
+Lo anterior contribuye a entender la virulencia de los enfrentamientos 
+entre los distintos grupos de izquierda que actúan en las universidades 
+colombianas en la época en estudio. Debe tenerse presente que la actitud 
+de los otros grupos es similar a la de la JUPA en su relación y valoración de  
+los grupos rivales dentro de la izquierda. García (2019, pp. 114-115) describe  
+la conducta de la JUPA en la lucha estudiantil como cambiante; al ini -
+cio se opone a la participación estudiantil en el cogobierno universitario, 
+pero después modifica su posición, pasando del abstencionismo a la par-
+ticipación electoral y a la lucha por la creación de una nueva instituciona-
+lidad universitaria que reemplace los consejos superiores universitarios 
+por nuevos mecanismos de gobierno provisional.
+La división evidente del movimiento estudiantil colombiano es refle-
+jo de la división al interior del movimiento obrero y socialista colombia-
+no, que, a su vez, es expresión de la división del movimiento obrero y del 
+marxismo en el mundo. Para la JUPA, tal división se explica debido a que 
+
+=== PAGINA_PDF 21 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 159
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+diversas tendencias del movimiento obrero han abandonado la defen -
+sa de los intereses de la clase obrera y se entregan a la burguesía. En su 
+visión, en la historia del movimiento obrero hay diversas entregas de 
+este movimiento por parte de las centrales obreras tradicionales y par -
+tidos y movimientos de izquierda. Su crítica es particularmente ácida 
+hacia el Partido Comunista, del que afirma que “[…] ha engañado y trai -
+cionado al pueblo colombiano, aliándose y poniéndose a la cola de los 
+explotadores, la gran burguesía y los grandes terratenientes[…]” (¿Qué es 
+la Juventud Patriótica?, 1971, p. 3). En 1971 para la JUPA el principal proble-
+ma en la universidad colombiana es la falta de organización de base que 
+aglutine a estudiantes y profesores en las luchas en defensa de la univer-
+sidad. A ello se suma la falta de profesores y la calidad deficiente de los 
+mismos, las expulsiones de estudiantes y profesores críticos, el despilfa -
+rro presupuestal, la insuficiencia de presupuesto para cubrir los gastos 
+necesarios de la universidad y la deficiencia en la cobertura de los servi -
+cios de bienestar estudiantil (Organicémonos, 1971, p. 5).
+Con respecto a la división del movimiento estudiantil colombiano, 
+Mauricio Archila argumenta que las protestas de 1971 llevan a los líde -
+res estudiantiles a vincularse a organizaciones juveniles de izquierda: 
+reformistas o revolucionarios. Las falencias del sistema universitario 
+colombiano permiten la unificación en la lucha estudiantil, pero no con-
+llevan a su continuidad organizativa; las disputas internas y los debates 
+irreconciliables entre los diferentes grupos de la izquierda hacen que la 
+división del movimiento estudiantil sea inminente. Para hacer frente al 
+problema de deficiencia organizativa que se observa en la universidad, 
+la JUPA se empeña en convencer al estudiantado de la necesidad de esta-
+blecer una organización estudiantil para la lucha de masas. Su propues -
+ta de organización es defendida en asambleas estudiantiles y se divulga 
+en su periódico Nueva Democracia, así como en volantes y comunicados. 
+Tal propuesta organizativa es expresión de la influencia de las luchas 
+estudiantiles en la mayoría de universidades públicas de Colombia, ya 
+que se replican experiencias de organización que han dado resultados 
+positivos en universidades como la Nacional, la de Antioquia, la del  
+Quindío, la UPTC. En el esquema que se propone para el caso de la UPTC, 
+el máximo organismo estudiantil es el Comité de Base de facultades, 
+integrado por representantes de las facultades existentes en la univer -
+sidad. Estos representantes debían ser elegidos en cada facultad por los 
+comités de base de las distintas unidades académicas, uno por semes -
+tre (Organicémonos, 1971, p. 5). Así, la base organizativa propuesta tendrá 
+
+=== PAGINA_PDF 22 ===
+160
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+su núcleo central en los llamados comités de base, como sucede en uni -
+versidades públicas del país. En medio de la división estudiantil en la 
+UPTC, los trotskistas se oponen a la propuesta organizativa presentada 
+por la JUPA, argumentando que por ese medio la derecha se tomará la 
+universidad; también la acusan de burocrática y antidemocrática. El sec -
+tor trotskista plantea su propia propuesta organizativa en un documento 
+titulado “Programa de reivindicaciones inmediatas”, escrito e integrado 
+por catorce puntos en los que se condensa la política trotskista. En asam-
+blea, los estudiantes aprueban la propuesta impulsada por el sector trots-
+kista y le dan vida por encima de la presentada por la JUPA. Los escritos 
+de la JUPA acusan a los trotskistas de querer controlar las asambleas y no 
+dejar hablar a la JUPA en ellas por acusarla de fascista y de derecha (El 
+movimiento estudiantil en la UPTC en 1971, 1971, p. 5).
+En la UPTC, como en otras universidades públicas de Colombia, entre 
+ellas las universidades Nacional, de Antioquia y la UIS, el objetivo inme -
+diato del movimiento estudiantil será la abolición del antiguo consejo 
+superior universitario, para reemplazarlo por un organismo de poder pro-
+visional con participación democrática de los estamentos vivos de la uni-
+versidad, como profesores y estudiantes (Acevedo Tarazona, 2016a). Esto 
+en desarrollo del primer punto del Programa Mínimo que orienta la lucha 
+de los estudiantes colombianos a nivel nacional. En Tunja, como en el res-
+to del país, el gobierno responde a la protesta estudiantil usando el estado  
+de sitio y con decretos autoritarios contra las universidades, como el 
+Decreto 1259 que, en opinión de los estudiantes, convierte a los rectores en 
+verdaderos dictadores en las instituciones que implementan la abolición 
+de la democracia. Usando sus nuevos poderes, el rector Armando Suescún 
+Monroy expulsa a treinta y cinco estudiantes de la UPTC, militariza la 
+universidad y generaliza la represión académica (El movimiento estudian-
+til en la UPTC en 1971, 1971, p. 5). Durante el primer semestre de 1971, des -
+tacan como hechos lamentables la muerte de Carlos Monguín, estudiante 
+normalista, y la toma de la cafetería de la UPTC por el ejército y la policía, 
+el 21 de abril, hecho que termina con varios estudiantes detenidos.
+Durante el segundo semestre se lucha por el reintegro de los estu -
+diantes expulsados y por la salida del rector Suescún. En la Facultad de 
+Educación, un reducido grupo de estudiantes vuelve a clases en medio 
+del paro indefinido, aspecto que indica la diferencia de opiniones al inte-
+rior del estudiantado en relación con la suspensión de clases. La JUPA 
+propone orientar la lucha en torno a derogar el Decreto 1259 y aliarse 
+con el estamento de los profesores para la conformación de un gobierno 
+
+=== PAGINA_PDF 23 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 161
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+provisional con base en el Decreto 2070, previo reintegro de los expulsa-
+dos y previa salida de Suescún de la rectoría. Llegado a un punto de estan-
+camiento, los estudiantes eligen una comisión negociadora para tratar 
+con el ministro de Educación, Luis Carlos Galán Sarmiento. La integra -
+ción de esta comisión origina otro escenario de lucha entre la JUPA y los 
+trotskistas, en la que estos últimos se imponen; en consecuencia, la JUPA 
+se dedica a atacar el trabajo de la comisión. Las sanciones de suspensión 
+y expulsión se rebajan a penas de tres y cinco meses. Estas condiciones 
+son aceptadas por la comisión de los estudiantes, considerando la relati-
+va debilidad del movimiento estudiantil en relación con el gobierno. Tal 
+resultado es calificado por la JUPA como claudicación y complicidad del 
+trotskismo con el gobierno: “pero es que el trotskismo tiene que cumplir 
+su misión: aplacar el ánimo de los estudiantes, desmoralizarlos, y elogiar 
+las ‘virtudes todopoderosas’ del enemigo” (El movimiento estudiantil en 
+la UPTC en 1971, 1971, p. 5). En esas condiciones, el movimiento estudiantil  
+comienza a perder impulso en la UPTC, golpeado por las medidas repre -
+sivas del Estado y minado por la división entre los estudiantes.
+La represión gubernamental hace presencia junto al descontento de 
+los estudiantes y la ciudadanía en general. Las posiciones encontradas 
+y defendidas por diferentes organizaciones juveniles políticas como 
+la JUPA y la JUCO son una muestra de la división del socialismo en el 
+mundo; estas organizaciones siguen las orientaciones, discursos, ideas 
+y representaciones emitidas desde capitales como Moscú o Pekín, y des -
+de los centros de dirección del trotskismo en el mundo, corrientes que 
+reproducen en sus países los debates que han originado los diversos cis -
+mas sufridos por el movimiento socialista a nivel global.
+Isaac Deutscher, historiador marxista polaco, señala que en los años 
+cuarenta y cincuenta del siglo XX el movimiento comunista internacio -
+nal es usado como instrumento al servicio de la diplomacia soviética, de 
+manera que la vida de los partidos comunistas en el mundo no puede 
+explicarse atendiendo solo a sus contextos nacionales; su línea política 
+y sus cambios están condicionados en buena medida por las orientacio -
+nes emanadas desde el centro del comunismo internacional, Moscú, en 
+atención a sus intereses. Así, en los años treinta, los partidos comunis -
+tas del mundo en un momento llaman a la destrucción del capitalismo 
+y en otro a la colaboración con las democracias burguesas en los llama -
+dos frentes populares contra el fascismo (Deutscher, 1949, p. 398). Estos 
+cambios en la línea política obedecen más a instrucción desde el exte -
+rior que a decisiones locales de los comunistas. Algo similar sucede con 
+
+=== PAGINA_PDF 24 ===
+162
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+los enfrentamientos de los comunistas contra adversarios de izquierda 
+en sus países, que obedecen más a líneas trazadas desde el exterior que 
+a cuestiones de la realidad política vivida en cada uno de sus países, en 
+donde se llega al absurdo de enfrentarse de manera más virulenta contra 
+otros sectores revolucionarios que contra el sistema capitalista al que se 
+propone destruir.
+Si bien el MOIR y su rama juvenil, la JUPA, están vinculados con el 
+maoísmo, es decir, con el comunismo chino, más que con el comunis -
+mo soviético, el pensamiento maoísta comparte con el estalinismo la 
+denuncia implacable del trotskismo, al que declara como el peor ene -
+migo de las fuerzas revolucionarias. El antitrotskismo de la JUPA, en 
+sintonía con la tesis de Deutscher, obedece más a orientaciones prove -
+nientes del exterior que a necesidades de la realidad colombiana. Para 
+ilustrar lo expuesto, resulta diciente que periódicos como el de la JUPA 
+sustenten sus ataques contra el trotskismo mediante la reproducción de 
+artículos de publicaciones del Partido del Trabajo de Albania, de simpa -
+tías declaradas hacia el estalinismo. Tal es el caso del documento titula -
+do “El movimiento revolucionario actual y el trotskismo”, publicado en 
+la revista Albania Hoy y reproducido como folleto por la JUPA en 1973.
+La magnitud que alcanza el enfrentamiento entre la JUPA y el sector 
+trotskista amerita detenerse en tal debate. Según León Trotsky, el trots -
+kismo entendido como un sistema de ideas específico dentro del marxis-
+mo no existe, solo se trata de un mote que Stalin y sus seguidores usan 
+para atacarlo durante la lucha por el poder en la Unión Soviética tras la 
+muerte de Lenin en 1924, pues las posiciones políticas trotskistas serán 
+las mismas que defiende Lenin (Trotsky, 1977, pp. 399-409). Desde el esta-
+linismo se argumenta que las ideas de Trotsky siempre han sido contra -
+rias a las de Lenin, que se suponen expresión genuina del marxismo. Tras 
+la muerte de Trotsky, en 1940, se denomina como trotskistas a los segui -
+dores organizados en torno a la IV Internacional, que mantienen críticas 
+y oposición a la política de Stalin en la Unión Soviética y en el mundo.
+Álvaro Acevedo y Franklin Patiño (2018, pp. 123-149) ubican el origen 
+del trotskismo en Colombia en el año 1971, cuando en las universidades 
+colombianas surge una serie de colectivos que, declarándose seguidores 
+del maoísmo o de la Revolución cubana, rompen la supremacía que en el  
+momento tienen la JUPA y el Partido Liberal dentro del movimiento 
+estudiantil colombiano. Entre estos colectivos se destacan los denomi -
+nados como Tendencia Socialista, Diario Latino, Gaceta Obrera, Esparta -
+co, Comandos Camilistas y la Liga Obrera Comunista. En relación con el 
+
+=== PAGINA_PDF 25 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 163
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+trotskismo en Colombia, no se puede hablar de una tendencia homogé -
+nea, sino más bien de una serie de colectivos que muchas veces tienen 
+posiciones diferentes, lo que finalmente impedirá que se consolide un 
+proyecto de unidad entre ellos. Sin embargo, se puede afirmar que, en su 
+mayoría, los sectores trotskistas rechazan la lucha armada, y se opta por 
+la táctica de la insurrección popular para tomar el poder. Lo anterior sin 
+olvidar que dentro del trotskismo en Colombia hay fuertes debates inter-
+nos que, a su vez, reflejan el debate internacional que lo divide en rela -
+ción con el apoyo o rechazo a la lucha armada, por entonces en boga en 
+varios países de América Latina; por demás, estas tensiones varias veces 
+terminarán en rupturas (Patiño, 2017, pp. 29-30).
+Una característica esencial del trotskismo colombiano consiste en la 
+crítica a los modelos de revolución chino y soviético; también a la tác -
+tica guerrillera en Colombia, a la que consideran aislada de las masas y 
+pretexto para el terrorismo de Estado. El origen y desenvolvimiento del 
+trotskismo es casi exclusivo de las universidades, razón por la cual reci -
+be una mayor influencia de eventos como Mayo del 68, las Revoluciones 
+china y cubana y la Guerra de Vietnam. El trotskismo también impulsa 
+la idea de los programas obreros como ejes de los procesos revoluciona -
+rios, en oposición al énfasis campesino notorio en otras organizaciones 
+revolucionarias colombianas de la época. Desde el punto de vista organi-
+zativo, diversos colectivos afines al trotskismo logran conformar el Blo -
+que Socialista en el año 1971, siendo esta la principal corriente trotskista 
+en las universidades colombianas (Patiño, 2017, pp. 31-33).
+Un aspecto interesante de la confrontación ideológica de la propia 
+izquierda colombiana es la asimilación que la JUPA hace de los Círcu -
+los Socialistas, como se denomina el sector trotskista en la UPTC, al que 
+la JUPA señala de cambiar su nombre a Comandos Camilistas. Si bien la  
+relación entre los sectores trotskista y camilista es posible (Patiño, 2017, 
+pp. 28-41), puede ser exagerado afirmar que estos son exactamente lo mis-
+mo, como argumentan los escritos de la JUPA. Para la JUPA los trotskis -
+tas son extremoizquierdistas que piden todo o nada, sin descontar que 
+estos califican peyorativamente las alianzas con los profesores y con los 
+gobiernos provisionales universitarios por considerarlas reaccionarias. 
+La JUPA, además, señala a los trotskistas de “vivir gritando a los cuatro 
+vientos que se van para la guerrilla”, despreciando el trabajo de masas. 
+En la base de las diferencias entre la JUPA y los trotskistas está la for -
+ma en la que entienden la revolución. Según la JUPA, la idea de la revo -
+lución permanente, defendida por los trotskistas, es la negación de la 
+
+=== PAGINA_PDF 26 ===
+164
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+revolución por fases que defiende el maoísmo. Acusa a los trotskistas de 
+pretender que la revolución debe ser proletaria (asociada al obrero indus-
+trial urbano) desde sus inicios, sin fase intermedia alguna, sin atender 
+las distintas realidades de los países, olvidando que existen factores 
+objetivos que determinan el carácter de la revolución, reduciendo así la 
+base social de apoyo a la revolución y dividiendo a las fuerzas sociales. 
+Por lo anterior, la JUPA considera que el trotskismo sabotea la revolución 
+(El movimiento revolucionario actual y el trotskismo, 1971, p. 4).
+Un elemento importante para el análisis de la crisis universitaria de 
+1971 es el juicio que sobre las protestas estudiantiles se hace desde dife -
+rentes orillas de la izquierda. Por otra parte, de vieja data es un recurso 
+del gobierno y del establecimiento en general de descalificar a quien pro-
+testa mediante el señalamiento de ser un agente de intereses de fuerzas 
+políticas nacionales o extranjeras que buscan destruir la nación. Darío 
+Villamizar (2002) muestra cómo en 1957 el régimen de Gustavo Rojas Pini-
+lla señala que los estudiantes que protestan en su contra son partícipes 
+de una conspiración “laureano-comunista” (p. 75). En el movimiento estu-
+diantil de 1971, las directivas universitarias ven la movilización estudian -
+til como actividad de minorías subversivas; así lo expresan los rectores de 
+varias universidades colombianas en el documento titulado La educación 
+superior en un plan nacional educativo para Colombia , presentado en la 
+Universidad de California en 1966 (Acevedo Tarazona, 2016a, pp. 88-89). 
+En tanto, para los estudiantes la situación es diferente:
+Las masas luchan y combaten porque existen condiciones objetivas de 
+opresión y explotación, porque tienen intereses reales por los cuales lan -
+zarse a la pelea, y es esta la única interpretación marxista del origen de 
+la lucha de las masas. Es por el contrario metafísico creer que las revolu -
+ciones, los movimientos populares se dan por la influencia de agitadores 
+o por pretendidas “maquinarias” del enemigo de clase. (Consejo Superior 
+Estudiantil de la Universidad de Antioquia, 1971)
+Durante 1971 y 1972 las demandas de los estudiantes universitarios 
+serán tanto de tipo gremial, relacionadas con su condición de estudiantes  
+de una universidad pública, como de tipo político, más por su condición de  
+militantes de organizaciones revolucionarias que están empeñadas en 
+cambiar el tipo de sociedad existente en Colombia y reemplazarla por un 
+tipo de sociedad nueva con miras puestas en la construcción del socialis-
+mo. De esta manera, los reclamos de las protestas universitarias se orien-
+tan en contra de los créditos extranjeros que socavan el control nacional  
+
+=== PAGINA_PDF 27 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 165
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+de la universidad; también en contra de los funcionarios partidarios de 
+estos créditos, a quienes llaman “lacayos” del imperialismo y las corpo -
+raciones financieras; igualmente las protestas van contra la penetración 
+del imperialismo en la universidad y contra la implementación del Plan 
+Básico de Educación Superior de orientación profesional agenciado por las 
+políticas de Estados Unidos para América Latina (Acevedo Tarazona, 2015, 
+pp. 102-111). Políticas que, en últimas, crearán una caricatura en Colombia 
+del modelo universitario norteamericano (Acevedo Tarazona, 2004).
+Conclusiones
+El desenvolvimiento del movimiento estudiantil en la denominada 
+crisis universitaria de 1971 en Colombia tiene como bandera la reivindica-
+ción del cogobierno universitario y las permanentes denuncias respecto 
+a la injerencia de Estados Unidos en las políticas de la educación supe -
+rior colombiana. Los estudiantes también denuncian frecuentemente la 
+represión del Estado y el asesinato de estudiantes y líderes universita -
+rios, especialmente en universidades como la Nacional, la de Antioquia, 
+la UIS o la UPTC, donde la lucha por el cogobierno y el control de la uni-
+versidad por profesores y estudiantes pone en jaque a las propias institu-
+ciones educativas y al Estado. El hecho de mayor represión es la masacre 
+del 26 de febrero de 1971, fecha en la que, en hechos aún no aclarados, 
+mueren entre quince y treinta estudiantes de la Universidad del Valle. Si 
+bien para ese momento en Colombia no se puede hablar de una amplia 
+cobertura de la educación superior o de una universidad de masas, estu -
+diantes tanto de universidades públicas como privadas ponen en vilo al 
+gobierno. Influenciados por las corrientes ideológicas de la denominada 
+Nueva Izquierda, sus actuaciones están dirigidas a cambiar la sociedad y 
+a combatir las fuerzas represivas del Estado en la búsqueda de políticas 
+por una mayor justicia e igualdad.
+Un rasgo general del movimiento estudiantil colombiano de la segunda  
+mitad del siglo XX es su viraje político hacia la izquierda y hacia la defen-
+sa de posiciones y aspiraciones revolucionarias, en buena medida relacio-
+nadas con tendencias de la izquierda mundial tales como las Revoluciones 
+rusa, china o cubana, y, por ello, vinculadas a las corrientes maoísta, 
+castrista, guevarista o al Partido Comunista de la Unión Soviética, rasgos 
+que llevan a dar prioridad a aspiraciones políticas en pos de la transfor -
+mación de la sociedad por encima de reivindicaciones gremiales dirigi -
+das a defender y a fortalecer, en sí misma, a la universidad colombiana. 
+
+=== PAGINA_PDF 28 ===
+166
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+Aunque no hay un pleno consenso sobre la estrategia que deben seguir 
+los estudiantes de izquierda, en general el principio de acción es que 
+está primero la revolución antes que los cambios institucionales propia -
+mente, los cuales pueden caer en un reformismo estéril, en alianzas con 
+sectores conservadores y retardatarios en materia de política social o en 
+proyectos educativos de calidad cuestionable. Empero, la JUPA nunca ha 
+estado de acuerdo con rechazar este tipo de alianzas como fases previas 
+a la revolución.
+Las universidades han sido un espacio en el que fuerzas políticas 
+externas a ellas intentan ejercer su influencia sobre sectores estudian -
+tiles, profesorales y de trabajadores para desarrollar sus programas 
+políticos. Ello resulta evidente de la conexión y dirección de las organi -
+zaciones estudiantiles por parte de organizaciones políticas de izquierda 
+y de derecha, así como de sectores empresariales, de la Iglesia y del Esta -
+do para desarrollar políticas funcionales a sus intereses y visión de la 
+sociedad; a fin de cuentas, la universidad es parte de una sociedad deter-
+minada y no una isla separada de ella.
+En 1971, el liderazgo del movimiento estudiantil será disputado de 
+manera acérrima entre la JUPA y sectores trotskistas en varias universi -
+dades públicas colombianas. La virulencia de esta lucha llega al punto 
+en el que mutuamente se señalan de ser saboteadores de la lucha revo -
+lucionaria y cómplices del enemigo capitalista e imperialista, incluso 
+llegando a calificar a la retirada ajena del debate ideológico y la acción 
+revolucionaria como un acto de traición, en tanto que la propia es una 
+retirada táctica.
+Los periódicos y las asambleas son espacios de discusión y toma de 
+decisiones de los estudiantes. Diarios de distintas organizaciones polí -
+ticas de izquierda son la principal estrategia de difusión de sus plata -
+formas y programas políticos; las asambleas son el principal espacio de 
+toma de decisiones del estudiantado, aunque en ocasiones son espacios 
+legitimadores de decisiones tomadas por las organizaciones controladas 
+por un reducido número de estudiantes altamente ideologizados y fuer -
+temente radicalizados sobre la “actuación correcta” que se ha de seguir 
+para cambiar el estado de cosas existentes e instaurar una revolución de 
+corte socialista. No obstante, las estrategias dentro de la propia izquier -
+da para llegar a esta nueva sociedad no son las mismas, al igual que 
+los soportes teóricos e ideológicos en boga en ese momento. Estas dife -
+rencias propugnan por divisiones ideológicas irreconciliables entre el 
+
+=== PAGINA_PDF 29 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 167
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+estudiantado, que a la postre incluso conducen a dejar en manos del pro-
+pio Estado las políticas modernizadoras para la educación colombiana.
+La división del estudiantado en múltiples agrupaciones enfrentadas 
+entre sí implica un debilitamiento de todo el movimiento estudiantil 
+por emplear gran parte de sus energías en luchas intestinas antes que 
+destinarlas a sus proyectos políticos o de reforma universitaria. Asimis -
+mo, la represión estatal al movimiento estudiantil implica la destruc -
+ción de gran parte de un movimiento social que tiene la capacidad para 
+tramitar demandas específicas de un sector de la sociedad colombiana, 
+al tiempo que incentiva a algunos sectores de la juventud a abandonar la 
+lucha social y optar por la lucha armada en Colombia. Así, en conjunto, 
+se debilita el espacio para la lucha política, al tiempo que se propicia la 
+opción por la lucha armada.
+Ã 
+Álvaro Acevedo Tarazona
+Doctor en Historia de la Universidad de Huelva. Historiador de la Universidad In -
+dustrial de Santander y Magíster en Historia con especializaciones en docencia y 
+filosofía.
+Ã 
+Emilio Lagos Cortés
+Abogado, Magíster y estudiante del doctorado en Historia de la Universidad Indus -
+trial de Santander.
+Referencias 
+Acevedo Tarazona, Á. (2004). Modernización, conflicto y violencia en la universidad en 
+Colombia: Audesa, 1953-1984. Bucaramanga: Universidad Industrial de Santander.
+Acevedo Tarazona, Á. (2008). Reforma y reformismo universitario en la universidad de 
+América Latina. De la propuesta de reforma de Andrés Bello al instrumentalismo 
+reformista de los años sesentas y setentas del siglo XX. Revista Historia y Espacio, 
+4(30), 61-82. https://doi.org/10.25100/hye.v4i30.1673 
+Acevedo Tarazona, Á. y González, D. (2011). Movilización y protesta estudiantil en 
+Colombia (1971): una lectura desde la organización gremial por el cogobierno 
+universitario y la memoria de protagonistas y testigos. Anuario de Historia 
+
+=== PAGINA_PDF 30 ===
+168
+FACULTAD DE DERECHO, CIENCIAS POLÍTICAS Y SOCIALES • DEPARTAMENTO DE CIENCIA POLÍTICA
+ISSN IMPRESO 1909-230X • EN LÍNEA 2389-7481 • UNIVERSIDAD NACIONAL DE COLOMBIA • 
+|
+ÁLVARO ACEVEDO TARAZONA • EMILIO LAGOS CORTÉS
+Regional y de las Fronteras , 16, 221-242. https://revistas.uis.edu.co/index.php/
+anuariohistoria/article/view/2492
+Acevedo Tarazona, Á. (2015). Educación, reformas y movimientos universitarios en 
+Colombia: apuestas y frustraciones por un proyecto modernizador en el siglo XX.  
+Revista de Estudios Sociales, 53 , 102-111. https://doi.org/10.7440/res53.2015.08 
+Acevedo Tarazona, Á. (2016a). La experiencia histórica del cogobierno en la Universidad 
+Industrial de Santander. Bucaramanga: Universidad Industrial de Santander.
+Acevedo Tarazona, Á. (2016b). Memorias de una época. El movimiento estudiantil en 
+Colombia en los años sesenta y setenta del siglo XX . Bucaramanga: Universidad 
+Industrial de Santander.
+Acevedo Tarazona, Á. (2017). 1968: historia de un acontecimiento. Utopía y revolución en 
+la universidad colombiana. Bucaramanga: Universidad Industrial de Santander. 
+Acevedo Tarazona, Á. y Patiño, F. (2018). Orígenes del trotskismo: de los colectivos 
+socialistas revolucionarios al bloque socialista (1971-1977). Revista Historia Caribe, 
+14(34), 123-149. https://doi.org/10.15648/hc.34.2019.4
+Acevedo Tarazona, Á. y Lagos, E. (2019). Los estudiantes universitarios en la Revolución 
+cubana de 1959. Revista Latinoamericana de Ciencias Sociales, Niñez y Juventud , 
+17(1), 89-101. https://doi.org/http://dx.doi.org/10.11600/1692715x.17105 
+Alarcón, D. (1997). Memorias de un soldado cubano . Barcelona: Tusquets.
+Archila, M. (2012). El movimiento estudiantil en Colombia, una mirada histórica. Revista 
+del Observatorio Social de América Latina, 31 , 71-104.
+Arciniegas, G. (1992). El estudiante de la mesa redonda . Bogotá: Planeta.
+Atcon, R. (1963). La universidad latinoamericana: clave para un enfoque conjunto del 
+desarrollo coordinado social, económico y educativo en América Latina . Bogotá: 
+Buchholz.
+AA.VV. 1971. Crisis universitaria colombiana. Itinerario y documento . Medellín: El Tigre
+de Papel.
+Cabrera, F. (1993). Una vida dos exilios: memorias de Fausto Cabrera. Bogotá: Fotograma.
+Consejo Superior Estudiantil de la Universidad de Antioquia. (1971). Ponencia sobre 
+reforma universitaria presentada en el IV Encuentro Nacional Universitario. Medellín.
+Deutscher, I. (1949). Stalin: a political biography . New York: Oxford University.
+Editorial. (1971, octubre). Nueva Democracia .
+El movimiento estudiantil en la UPTC en 1971. (1971, diciembre). Nueva Democracia .
+El movimiento revolucionario actual y el trotskismo. (1971). Albania Hoy .
+Federación de Estudiantes de la Universidad del Valle. (1972). Desarrollo político del 
+movimiento estudiantil. Universidad del Valle . Cali: Federación de Estudiantes 
+Universidad del Valle.
+García, A. (2019). Historia de las ideas y experiencias maoístas en Colombia, 1970-2000 
+[Tesis de Maestría]. Universidad Nacional de Colombia, Bogotá, Colombia.
+
+=== PAGINA_PDF 31 ===
+ 17 (33) 2022 ENERO-JUNIO • PP . 139-169 169
+PROTESTA ESTUDIANTIL EN LA CRISIS UNIVERSITARIA DE 1971 EN COLOMBIA...
+Grabe, V. (2015). La paz es más revolucionaria que la guerra: M-19 propuestas de paz y de 
+país [Tesis de Doctorado]. Universidad de Granada, Granada, España.
+Hobsbawm, E. (1998). Historia del siglo XX . Buenos Aires: Crítica.
+Illades, C. (2012). La inteligencia rebelde: la izquierda en el debate público en México 1968-
+1989. México: Océano.
+Lagos, E. (2017). La radicalización política del movimiento estudiantil cubano: una 
+continuidad histórica . Documento de trabajo presentado en el XVIII Congreso 
+Colombiano de Historia. Medellín, Colombia.
+Medina, C. (2002). Al calor del tropel. Bogotá: Alquimia Ediciones.
+Múnera, L. (1988). Rupturas y continuidades (poder y movimiento popular en Colombia 
+1968-1988).  Bogotá: Universidad Nacional de Colombia.
+Narváez, G. (2012). La guerra revolucionaria del M-19 (1974-1989) [Tesis de Maestría]. 
+Universidad Nacional de Colombia, Bogotá, Colombia.
+Ocampo López, J. (2008). Maestro Germán Arciniegas, el educador, ensayista, culturólogo 
+e ideólogo de los movimientos estudiantiles en Colombia. Revista Historia de la 
+Educación Latinoamericana , 11, 13-58. https://doi.org/10.19053/01227238.1497
+Ordóñez, L.A. (2011). Mataron a Jalisco. 26 de febrero, el día que todo estuvo a punto de 
+estallar. Cali: Universidad del Valle.
+Organicémonos. (octubre, 1971). Nueva Democracia .
+Palacios, M. (2012). Violencia pública en Colombia, 1958-2010 . Bogotá: Fondo de Cultura 
+Económica.
+Patiño, F. (2017). El Bloque Socialista y la lucha armada en Colombia (1971-1977). Documento 
+de trabajo presentado en el XVIII Congreso Colombiano de Historia. Medellín, 
+Colombia.
+Portantiero, J. (1978). Estudiantes y política en América Latina: el proceso de la reforma 
+universitaria (1918-1938). México: Siglo XXI.
+Puig, J. y Zuluaga, O. (1974). Documentos teóricos internos al movimiento estudiantil. 1971. 
+Medellín: Universidad de Antioquia.
+¿Qué es la Juventud Patriótica? (1971, octubre). Nueva Democracia .
+Sánchez, G. y Meertens, D. (1983). Bandoleros, gamonales y campesinos: el caso de la 
+violencia en Colombia. Bogotá: El Áncora.
+Santos, E. (2018). El país que me tocó . Bogotá: Debate.
+Solar Cabrales, F. (2014). Entre el golpe y el asalto: la Universidad de La Habana antes 
+del 26 de julio de 1953. Santiago , 133, 129-139. https://santiago.uo.edu.cu/index.
+php/stgo/article/view 
+Trotsky, L. (1977). Mi vida . Bogotá: Pluma.
+Villamizar, D. (2002). Jaime Bateman: biografía de un revolucionario. Bogotá: Intermedio.

@@ -1,0 +1,18 @@
+⛔ NO ENTRENAR — TEST RESERVADO
+================================
+Esta carpeta (test_reservado/) contiene la evaluación final con evidencia:
+- evaluacion_con_evidencia_10.jsonl (E001–E010)
+- contextos_evaluacion.json (C2024, C2025)
+
+REGLAS:
+1. NO incluir estos archivos (ni sus preguntas, respuestas, contextos o paráfrasis)
+   en train/, val/ ni en ningún archivo de ajuste (SFT/DPO/LoRA).
+2. NO usarlos para elegir hiperparámetros, plantillas ni early-stopping.
+3. Uso único: medición final comparando modelo base vs. ajustado, con el
+   contexto adjuntado a la pregunta y puntuación 0–2 en exactitud, respaldo,
+   pertinencia y manejo de incertidumbre (ver LEEME.md en raw/).
+4. Las fuentes F14–F15 y los hechos 2024–2025 de estos ejercicios NO están en
+   los 30 ejemplos de entrenamiento: esa es la gracia (prueba lectura de
+   evidencia nueva + abstención, no memorización).
+
+Si este cartel se ignora, la evaluación queda invalidada por leakage.

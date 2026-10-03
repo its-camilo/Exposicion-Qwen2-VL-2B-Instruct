@@ -1,0 +1,2861 @@
+FUENTE: F08 - La MANE y el paro nacional universitario de 2011 en Colombia
+AUTOR: Edwin Cruz Rodríguez
+URL: https://revistas.unal.edu.co/index.php/cienciapol/article/view/41520
+LICENCIA: CC BY-NC-ND 2.5 Colombia
+CONSULTA: 2026-10-01
+MÉTODO: Extracción automática de texto (pypdf); revisar orden y caracteres
+ESTADO: Copia de trabajo; no usar sin revisión como etiquetas de entrenamiento.
+
+
+=== PAGINA_PDF 1 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+OTRAS INV ESTIGACION ES
+La MANE y el paro nacional 
+universitario de 2011 en 
+Colombia
+EDWIN C RU Z RO DR ÍG UE Z
+Politólogo de la Universidad Nacional de Colombia.
+ecruzr83@yahoo.es
+MANE and the 2011 National University Strike
+140
+Agradezco los comentarios de los profesores Mauricio Archila y Enzo 
+Nussio, y la disposición de las y los estudiantes que compartieron sus 
+conocimientos en las entrevistas. Los errores e imprecisiones que 
+puedan persistir son de mi exclusiva responsabilidad.
+
+=== PAGINA_PDF 2 ===
+141
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Resumen
+Este trabajo estudia la protesta estudiantil en 2011. En la primera parte se 
+analizan las movilizaciones del estudiantado y en las tres siguientes se estudia 
+la estructura de oportunidad política ( EOP), las estructuras de movilización y 
+los marcos de la acción colectiva y discursos políticos. El ciclo de protesta se 
+explica, en buena parte, por una EOP  favorable debido al apoyo que consiguió 
+el movimiento en diversos sectores sociales y en algunos de la clase política. Sin 
+embargo, tal grado de movilización no se habría producido sin la Mesa Amplia 
+Nacional Estudiantil (MANE ), que aglutinó las principales organizaciones 
+estudiantiles y, al plantearse como un espacio amplio, fue desbordada por el 
+enrolamiento de estudiantes no organizados. El éxito del movimiento fue coronado 
+por unas estrategias discursivas, basadas en la reivindicación de la educación como 
+derecho, que contrarrestaron la argumentación del Gobierno y articularon a su 
+lucha diversos actores.
+Palabras clave:  movimiento estudiantil, protestas estudiantiles, MANE , 
+Colombia.
+Abstract
+This paper analyzes the student’s protests in 2011. In the ﬁrst part analyze 
+the student mobilizations; in the three following ones examine the political 
+opportunity structure, mobilizing structures and the frames for collective action 
+and political discourses. The cycle of protest is consequence a POS  favorable due 
+to the support obtained by  the movement  in several sectors of colombian political 
+class and  diverse social sectors. Nevertheless, such degree of mobilization would 
+not have taken place without the Mesa Amplia Nacional Estudiantil ( MANE ), that 
+agglutinated the main students organizations , but at being an open space, it was 
+exceeded by the enrollment of unorganized students. The movement’s success was 
+crowned by discursive strategies based on demands for education as a right, which 
+offset the government’s arguments and succeed in articulating different actors to 
+their struggle.
+Key Words: student movement, student protests, MANE , Colombia.
+
+=== PAGINA_PDF 3 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+142
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Introducción
+Entre marzo y noviembre de 2011, la sociedad colombiana fue 
+sacudida por la protesta. El movimiento estudiantil desarrolló grandes 
+movilizaciones para oponerse al proyecto de reforma de la Ley 30 de 
+1992, que regula el sistema de educación superior, consiguió articular 
+a su lucha diversos sectores, planteó un programa mínimo, se ganó el 
+respaldo de la opinión pública, venció los argumentos del Gobierno y 
+logró que retirara su propuesta y se dispusiera a construir una reforma 
+concertada. ¿Qué explica este fenómeno de movilización social?
+Este trabajo estudia el ciclo de protesta del movimiento estudiantil. 
+El origen, desarrollo e impacto de la acción colectiva no puede expl i-
+carse por una sola variable, ya se trate de las tensiones estructurales 
+(Smelser, 1995), la racionalidad económica de los actores (Olson, 1992), 
+o la identidad colectiva (Melucci, 1999 ; Touraine, 1987). Un análisis 
+integral debe tener en cuenta tres dimensiones: la estructural, con el 
+concepto de estructura de oportunidad política ( EOP), que denota las 
+características catalizadoras del contexto en que tiene lugar la acción 
+colectiva; la organización, con el concepto de estructuras de moviliz a-
+ción; y la dimensión subjetiva, con las categorías de marcos de acción 
+colectiva, discursos políticos y praxis cultural.
+En la primera parte se analiza el ciclo de protesta del estudiantado, 
+en las tres siguientes se estudian las dimensiones mencionadas
+1
+. El ciclo 
+de protesta se explica, en buena parte, por una EOP favorable debido 
+al apoyo que consiguió el movimiento en diversos sectores sociales y 
+algunos de la clase política. Sin embargo, tal grado de movilización no 
+se habría producido sin la Mesa Amplia Nacional Estudiantil ( MANE ), 
+que aglutinó las principales organizaciones estudiantiles y, al plantearse 
+como un espacio amplio, fue desbordada por el enrolamiento de est u-
+diantes no organizados. El éxito del movimiento fue coronado por unas 
+estrategias discursivas, basadas en la reivindicación de la educación 
+como derecho, que contrarrestaron la argumentación del Gobierno y 
+articularon a su lucha diversos actores.
+La reforma del sistema de educación superior y el 
+despertar del movimiento estudiantil
+El ciclo de protesta (Tarrow, 1997:263-264) puede analizarse en dos 
+1.  Para la recolección de información usé técnicas de observación participante, en eventos 
+y acciones colectivas en la ciudad de Bogotá, analicé los documentos producidos por la 
+MANE  y realicé 11 entrevistas semiestructuradas a “informantes clave” (Blee y Taylor, 
+2002:105-107), con personas de distintos procesos organizativos.
+
+=== PAGINA_PDF 4 ===
+143
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+períodos. El primero, desde la presentación de la propuesta del Gobie r-
+no, el 10 de marzo, hasta su radicación como proyecto de ley, el 3 de 
+octubre, comprende la disputa entre distintos actores –el movimiento 
+estudiantil, el Gobierno y los rectores de universidades– por definir 
+los contenidos de la reforma. El segundo engloba el paro nacional 
+universitario y las disputas entre el movimiento y el Gobierno en torno 
+al retiro del proyecto y las garantías para la construcción democrática 
+de una reforma.
+Contra la mercantilización de la educación superior
+El tema central en el primer período fue el ánimo de lucro, inserto 
+en la propuesta de reforma, que provocó el descontento entre diversos 
+sectores, principalmente los rectores de universidades, quienes se con s-
+tituyeron en los principales interlocutores del Gobierno. El movimiento 
+estudiantil empezó a articularse en un contexto de crisis y protestas de 
+universidades en las regiones y emprendió un proceso organizativo, la 
+MANE , que le permitió transitar hacia jornadas de protesta nacionales. 
+La oposición fue eficaz al conseguir el retiro del ánimo de lucro de la 
+reforma, pero no en lograr que el proyecto fuera construido en forma 
+concertada.
+Desde fines de 2010 se empezó a hablar de la reforma a la Ley 30. 
+Aún no se sabía si el Gobierno mantendría el proyecto radicado por 
+la administración Uribe, limitado a lo financiero. El 10 de marzo, el 
+presidente Santos presentó públicamente una ambiciosa propuesta que, 
+según el Gobierno, recogía experiencias internacionales exitosas en el 
+aumento de cobertura y calidad de la educación superior. Se centraba 
+en la atracción de la inversión privada en las universidades públicas y el 
+establecimiento de instituciones de educación superior ( IES) con ánimo 
+de lucro.
+El debate se centró en la posibilidad de que la reforma propiciara la 
+privatización de la educación, las perversiones de la inversión privada 
+para la autonomía universitaria, y en sí el ánimo de lucro era una 
+alternativa para aumentar calidad y cobertura. Los críticos –rectores 
+de universidades públicas y privadas, voceros de organizaciones 
+estudiantiles y congresistas, entre otros– argumentaban que la reforma 
+dejaba de lado la calidad para enfocarse en la cobertura, iba en contra 
+de la autonomía universitaria y de los criterios de pertinencia para las 
+necesidades del país y concebía la educación como una mercancía en 
+vez de un derecho.
+El presidente delegó la gestión de la propuesta a la ministra de 
+Educación, María Fernanda Campo, quien afirmaba que, dado que 
+
+=== PAGINA_PDF 5 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+144
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+los recursos para la educación nunca serían suficientes, era necesario 
+vincular al sector privado, el proyecto daba recursos a la educación 
+pública como nunca y las alianzas público privadas no equivalían a 
+privatizar ni vulneraban la autonomía universitaria. Además, se mostró 
+afanada para dar trámite legislativo a la reforma, pues la administración 
+tenía tiempos distintos a la academia. Su posición se resumía en: “la 
+reforma va porque va”
+2
+. El Ministerio de Educación Nacional ( MEN) 
+puso en práctica cuatro estrategias: un gran despliegue mediático, con 
+propagandas de televisión en horarios triple A que llamaban a los ciud a-
+danos a no dejarse engañar por los opositores a la reforma. Segundo, los 
+funcionarios recorrieron la mayor parte del país realizando foros para 
+promocionar su proyecto y crearon mecanismos de participación virtual 
+para presentarlo como una reforma consensuada. Tercero, el Gobierno 
+trató de poner de su lado las IES técnicas y tecnológicas
+3
+. Finalmente, 
+la ministra descalificó a los adversarios, sobre todo a los voceros est u-
+diantiles, afirmando que desconocían la propuesta. La interlocución se 
+planteó como una “pedagogía” y no como construcción colectiva.
+En este primer período los voceros del movimiento estudiantil 
+formularon críticas en las audiencias citadas por congresistas
+4
+, exigían 
+la construcción de una reforma concertada con distintos sectores, pero 
+el MEN privilegió reuniones con los rectores. El 24 de junio, rectores 
+del Sistema Universitario Estatal ( SUE) y la Asociación Colombiana de 
+Universidades (Ascun) presentaron una “contrapropuesta”. Solicitaban 
+que se retirara el ánimo de lucro, limitar las funciones de inspección 
+y vigilancia para no vulnerar la autonomía universitaria y planteaban 
+alternativas para solucionar la crisis financiera de las universidades 
+públicas. Luego se abrió una mesa de negociación con el Ministerio. 
+Empero, las críticas de diversos sectores no cedieron.
+Entre tanto, el movimiento estudiantil emprendió un proceso de 
+unidad sin precedentes en la historia reciente. El Encuentro Nacional 
+Estudiantil del 19 y 20 de marzo acordó la creación de la MANE  para 
+2.  “Inversión privada no hará más cara la U. pública: Mineducación”, en http://www.
+eltiempo.com/vida-de-hoy/educacion/ARTICULO -WEB -NEW _NOTA _INTERIOR -9005060.
+html. Consultado el 14 de marzo de 2011.
+3.  El proyecto de reforma contemplaba la posibilidad de que tales instituciones 
+accedieran a la autonomía universitaria, administrativa y presupuestal, y ampliaran su 
+oferta educativa a programas de distinto nivel.
+4.  Como el del 11 de mayo, “Un diálogo democrático por la educación superior”, 
+convocado por los representantes Ángela María Robledo y Carlos Andrés Amaya del 
+Partido Verde, o el de control político del 17 de mayo, convocado por el senador del Polo 
+Democrático, Alexander López.
+
+=== PAGINA_PDF 6 ===
+145
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+construir la unidad programática, organizativa y de movilización, y 
+definió una agenda que empezaba por la jornada de protesta del 7 
+de abril, convocada por la Federación Colombiana de Educadores 
+(Fecode). El movimiento no estaba activo desde las protestas contra el 
+Plan Nacional de Desarrollo de la segunda administración Uribe ( 2007 ). 
+El despertar se producía en un momento de crisis de gran parte de las 
+universidades públicas y algunas privadas, y el aumento en los niveles 
+de protesta del estudiantado a nivel local y regional (ver cuadro 1). El 
+descontento en las regiones empezó a articularse en la movilización 
+nacional con la jornada del 7 de abril, con notable participación de 
+estudiantes de universidades privadas, el Sena, secundaria e, incluso, 
+padres de familia. El Comité Operativo de la MANE , el 7 y 8 de mayo, 
+hizo un balance positivo de la protesta
+5
+. Según su análisis, el Gobierno 
+tenía una táctica de “socialización del proyecto” para ocultar que la 
+reforma fue concertada con organismos multilaterales de crédito. 
+Examinó la situación política y resolvió acompañar la movilización del 
+magisterio del 12 de mayo y hacer una jornada nacional de protesta el 
+17, con ocasión del debate de control político al MEN citado por el Polo 
+Democrático. Ese día hubo marchas en distintas ciudades y en Bogotá 
+al menos 1.000  estudiantes se congregaron en la plaza de Bolívar
+6
+.
+La primera sesión de la MANE , el 20 y 21 de agosto, decidió realizar 
+una Consulta Nacional Universitaria que preguntara a los estudiantes 
+si la reforma había sido concertada, para contrarrestar la campaña 
+mediática del MEN, y jornadas de movilización el 7 de septiembre y el 
+12 de octubre. Dos días después, el 23 de agosto, el Gobierno anunció 
+el retiro del ánimo de lucro. Esta decisión se produjo luego de una 
+reunión de la Mesa de Unidad Nacional, con los partidos de la coal i-
+ción, entre ellos el Partido Verde en el que había opiniones divididas
+7
+. 
+Fue una victoria para los opositores y mostró que la unanimidad de la 
+coalición gubernamental podía fracturarse.
+Sin embargo, para los críticos, el ánimo de lucro sólo había desap a-
+recido formalmente, pues se mantenía la figura de las “universidades 
+5.  “Declaración Política del Comité Operativo de la Mesa Amplia Nacional Estudiantil 
+del 7 de mayo de 2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 5 de 
+noviembre de 2011.
+6.  “Ya hay paso por el centro de Bogotá, tras protesta de estudiantes”, en http://www.
+eltiempo.com/archivo/documento/CMS -9376664. Consultado el 17 de mayo de 2011.
+7.  La ministra aﬁrmó que el retiro del ánimo de lucro no afectaba la proyección 
+ﬁnanciera de la reforma. “‘La educación no está lista para el lucro’, Gobierno”, en 
+http://www.eltiempo.com/vida-de-hoy/educacion/ARTICULO -WEB -NEW _NOTA _
+INTERIOR -10239524.html. Consultado el 27 de agosto de 2011.
+
+=== PAGINA_PDF 7 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+146
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Cuadro 1
+Principales acciones colectivas del movimiento estudiantil (marzo-septiembre de 2011)
+Marzo -Protestas en la Universidad de Cundinamarca en Fusagasugá por el incremento en la matrícula.
+-Protestas en la Universidad T ecnológica de Pereira por inconformismo con la elección del rector.
+-Enfrentamientos entre estudiantes y policía en la UPTC por descontento con la elección del rector.
+-Con/f_lictos entre estudiantes y directivas en la Universidad de Antioquia por la reforma a los estatutos internos.
+-Protestas y cese de actividades en la Universidad de Caldas por el alza de las matrículas.
+-Protestas y ocupación de un edi/f_icio en la Universidad Santiago de Cali (privada) a raíz del descubrimiento de irregularidades en la 
+rectoría y en torno a la elección del nuevo rector.
+-Protestas en la Universidad de Nariño por inconformidad con la administración.
+-Enfrentamientos entre estudiantes y policía en la Universidad Nacional de Colombia Sede Bogotá por protestas contra la reforma de la Ley 
+30 y las cámaras de seguridad.
+-Protestas contra la reforma a la Ley 30 en la Universidad Distrital en Bogotá.
+-Protestas contra la reforma a la Ley 30 en la Universidad Pedagógica Nacional en Bogotá.
+Abril -El jueves 7 de abril se realizó una jornada nacional de movilización convocada por la Federación Colombiana de Educadores (Fecode) y las 
+centrales obreras a la que se articuló el movimiento estudiantil en protesta por la reforma de la Ley 30.
+-La Universidad de Córdoba entró en paro demandando la renuncia del rector por presuntas irregularidades administrativas.
+Mayo -El martes 17 de mayo se realizó una jornada de protesta en Bogotá con la participación de universidades públicas y privadas, y el Sena.
+Junio - El 15 de junio se producen fuertes choques entre encapuchados y el Escuadrón Móvil Antidisturbios (ESMAD) de la policía que ocasionan 
+la cancelación de actividades académicas en la Universidad Industrial de Santander.
+Julio -A /f_ines de mes se presentaron enfrentamientos entre estudiantes y la policía en la Universidad de Antioquia cuando un grupo de 
+estudiantes retiró las cámaras de seguridad dentro del campus.
+Septiembre -El miércoles 7 de septiembre hubo otra gran jornada de movilización en contra de la reforma de la Ley 30 que coincidió con la rendición de 
+cuentas de la ministra de Educación en la Cámara de Representantes. Hubo marchas en las principales ciudades del país que contaron con 
+participación de estudiantes de universidades privadas, trabajadores de la salud y Fecode.
+-El jueves 8 de septiembre, la Universidad T ecnológica de Pereira entró en paro.
+-El jueves 15 de septiembre, la Universidad de Antioquia entró en paro.
+-Entre el 16 y el 20 de septiembre, estudiantes de la Universidad de Pamplona ocuparon sus instalaciones principales en demanda de cursos 
+vacacionales, mejora de infraestructura y rendición de cuentas de la rectoría, altos costos de matrículas y falta de profesionalismo de los 
+docentes.
+-Protestas en la Universidad del T olima. Estudiantes pedían la renuncia del rector por denuncias de corrupción.
+-Protestas y descontento con la rectora de la Universidad del Atlántico.
+-Protestas en contra de la rectoría en la Universidad Industrial de Santander.
+-El jueves 22 de septiembre hubo protestas y choques con la policía en la Universidad Distrital Sede La Macarena en Bogotá.
+Fuentes: http://www.elespectador.com/, http://www.semana.com/Home.aspx, http://www.eltiempo.com/, http://prensauniversidad.tk/ y http://www.universidad.edu.co/
+
+=== PAGINA_PDF 8 ===
+147
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Cuadro 1
+Principales acciones colectivas del movimiento estudiantil (marzo-septiembre de 2011)
+Marzo -Protestas en la Universidad de Cundinamarca en Fusagasugá por el incremento en la matrícula.
+-Protestas en la Universidad T ecnológica de Pereira por inconformismo con la elección del rector.
+-Enfrentamientos entre estudiantes y policía en la UPTC por descontento con la elección del rector.
+-Con/f_lictos entre estudiantes y directivas en la Universidad de Antioquia por la reforma a los estatutos internos.
+-Protestas y cese de actividades en la Universidad de Caldas por el alza de las matrículas.
+-Protestas y ocupación de un edi/f_icio en la Universidad Santiago de Cali (privada) a raíz del descubrimiento de irregularidades en la 
+rectoría y en torno a la elección del nuevo rector.
+-Protestas en la Universidad de Nariño por inconformidad con la administración.
+-Enfrentamientos entre estudiantes y policía en la Universidad Nacional de Colombia Sede Bogotá por protestas contra la reforma de la Ley 
+30 y las cámaras de seguridad.
+-Protestas contra la reforma a la Ley 30 en la Universidad Distrital en Bogotá.
+-Protestas contra la reforma a la Ley 30 en la Universidad Pedagógica Nacional en Bogotá.
+Abril -El jueves 7 de abril se realizó una jornada nacional de movilización convocada por la Federación Colombiana de Educadores (Fecode) y las 
+centrales obreras a la que se articuló el movimiento estudiantil en protesta por la reforma de la Ley 30.
+-La Universidad de Córdoba entró en paro demandando la renuncia del rector por presuntas irregularidades administrativas.
+Mayo -El martes 17 de mayo se realizó una jornada de protesta en Bogotá con la participación de universidades públicas y privadas, y el Sena.
+Junio - El 15 de junio se producen fuertes choques entre encapuchados y el Escuadrón Móvil Antidisturbios (ESMAD) de la policía que ocasionan 
+la cancelación de actividades académicas en la Universidad Industrial de Santander.
+Julio -A /f_ines de mes se presentaron enfrentamientos entre estudiantes y la policía en la Universidad de Antioquia cuando un grupo de 
+estudiantes retiró las cámaras de seguridad dentro del campus.
+Septiembre -El miércoles 7 de septiembre hubo otra gran jornada de movilización en contra de la reforma de la Ley 30 que coincidió con la rendición de 
+cuentas de la ministra de Educación en la Cámara de Representantes. Hubo marchas en las principales ciudades del país que contaron con 
+participación de estudiantes de universidades privadas, trabajadores de la salud y Fecode.
+-El jueves 8 de septiembre, la Universidad T ecnológica de Pereira entró en paro.
+-El jueves 15 de septiembre, la Universidad de Antioquia entró en paro.
+-Entre el 16 y el 20 de septiembre, estudiantes de la Universidad de Pamplona ocuparon sus instalaciones principales en demanda de cursos 
+vacacionales, mejora de infraestructura y rendición de cuentas de la rectoría, altos costos de matrículas y falta de profesionalismo de los 
+docentes.
+-Protestas en la Universidad del T olima. Estudiantes pedían la renuncia del rector por denuncias de corrupción.
+-Protestas y descontento con la rectora de la Universidad del Atlántico.
+-Protestas en contra de la rectoría en la Universidad Industrial de Santander.
+-El jueves 22 de septiembre hubo protestas y choques con la policía en la Universidad Distrital Sede La Macarena en Bogotá.
+Fuentes: http://www.elespectador.com/, http://www.semana.com/Home.aspx, http://www.eltiempo.com/, http://prensauniversidad.tk/ y http://www.universidad.edu.co/
+mixtas”. Para el movimiento estudiantil, se trataba de un intento de 
+confundir el debate. Los voceros de las organizaciones estudiantiles 
+articulaban la crítica a la mercantilización de la educación con la de 
+los TLC y demandaban tomar el tiempo necesario para construir una 
+reforma democrática y ajustada a las necesidades del país.
+El 7 de septiembre se llevó a cabo la Gran Jornada Nacional por la 
+Educación, que coincidió con la rendición de cuentas de la ministra en 
+la Cámara de Representantes. Hubo marchas en las principales ciud a-
+des del país junto con trabajadores de la salud y Fecode. En el Comité 
+Operativo de la MANE , el 10 de septiembre, se hizo un balance positivo 
+de la movilización y se originó un intenso e inconcluso debate sobre el 
+momento de inicio del paro nacional universitario, cuando el Gobierno 
+radicara el proyecto de ley o de inmediato. La situación en las regiones 
+era crítica. La Universidad Tecnológica de Pereira entró en paro el 8 de 
+septiembre y la de Antioquia el 15, existían situaciones delicadas en las 
+de Pamplona, Tolima, Atlántico y Distrital (ver cuadro 1). La discusión 
+sobre el momento de iniciar el paro continuó en el Comité Operativo 
+realizado en Cali, el primero de octubre. La decisión fue iniciar el 
+paro una vez se radicara el proyecto, como en efecto sucedió dos días 
+después, el 3 de octubre.
+El paro nacional universitario y la victoria 
+parcial del movimiento estudiantil
+El segundo período es de ascenso en el ciclo de protesta. El 
+movimiento declaró paro nacional universitario, desarrolló una apretada 
+agenda de movilizaciones nacionales y exigió el retiro del proyecto de 
+ley y las garantías para construir democráticamente una reforma. El 
+Gobierno instó al estudiantado a levantar el paro y discutir el proyecto 
+en el Congreso, el movimiento cuestionó el carácter democrático de ese 
+espacio con mayorías del Gobierno. Aunque la oposición de los rectores 
+se moderó con el retiro del ánimo de lucro y la entrada en paro, el 
+movimiento empezó a ganar el debate público y el apoyo de diversos 
+sectores, hasta acorralar al Gobierno y su coalición que lo llevó al retiro 
+del proyecto.
+Luego de la radicación, la MANE  produjo un comunicado
+8
+ 
+ratificando sus críticas al proyecto de ley: atentar contra la autonomía 
+universitaria, reducir la educación a una mercancía y no haber sido 
+construido democráticamente; definió como hora cero para entrar en 
+8.  “Comunicado a propósito de la radicación de la Ley de Educación Superior”, en http://
+www.conapcolombia.org/?p=1454. Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 9 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+148
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+paro el 12 de octubre, exigió el retiro del proyecto y las garantías para 
+la construcción democrática de una reforma. La situación de ebullición 
+persistió y la protesta fue articulándose a nivel nacional (ver cuadro 2)
+9
+. 
+El 7 de octubre tuvo lugar una exitosa jornada de movilización. Según 
+informes de la Policía, en total se realizaron 53 marchas en todo el país, 
+con más de 20.000  participantes
+10
+. No obstante, el Gobierno se mostra -
+ba decidido por sacar adelante la reforma. Ese mismo día el presidente 
+afirmó que no aprobar la reforma sería “la peor noticia”
+11
+, e instó a la 
+ministra a continuar
+12
+.
+La jornada de movilización se repitió con mayor concurrencia el 12 
+de octubre. Según informes de prensa, hubo 31 marchas en 23 depart a-
+mentos
+13
+. Participaron cerca de 40.000  estudiantes de 37 universidades 
+públicas y 17 privadas
+14
+, del Sena, de secundaria y asociaciones de 
+padres de familia, entre otros. Un estudiante de la Universidad Santiago 
+de Cali fue asesinado en confusas circunstancias. En un comunicado 
+tras la jornada de movilización, la MANE  denunció el asesinato del 
+estudiante Jan Farid Cheng Lugo y la infiltración del Estado en el 
+movimiento
+15
+.
+9.  “El paro nacional universitario se trazó una agenda casi semanal de carácter nacional 
+y eso es como muy importante. A mi parecer, algo que mantuvo muy cohesionado 
+el movimiento estudiantil y que logró hacer retroceder el proyecto de ley fue que la 
+movilización haya sido de carácter nacional y que las agendas hubieran sido coordinadas” 
+(Entrevista 4).
+10.  “En paz transcurrió marcha realizada por estudiantes y sindicatos”, en http://www.
+eltiempo.com/archivo/documento/CMS -10524232. Consultado el 8 de octubre de 2011.
+11.  “‘No aprobar la reforma a la educación sería la peor noticia’: Santos”, en http://www.
+eltiempo.com/archivo/documento/CMS -10513104. Consultado el 7 de octubre de 2011.
+12.  Por esos días, la ministra continuaba defendiendo la propuesta: “El proyecto 
+permitirá que los jóvenes colombianos, especialmente los de menores recursos, tengan 
+acceso a la educación superior de calidad. El propósito de la reforma es destinar mayores 
+recursos para ese rubro en el país. El proyecto prevé más recursos públicos, como nunca 
+antes en la historia de Colombia”. “Más de 1.000 personas marchan por la carrera 7ª 
+hasta la Plaza de Bolívar”. en http://www.elespectador.com/noticias/bogota/articulo-
+304145-marchas-frenan-movilidad-avenida-68-y-carrera-7a-y-13. Consultado el 7 de 
+octubre de 2011.
+13.  “Unos 40 mil estudiantes marcharon contra la reforma a la educación”, en http://www.
+eltiempo.com/colombia/bogota/marchas-contra-la-reforma-a-la-educacin_10553388-4. 
+Consultado el 12 de octubre de 2011.
+14.  “Fuertes disturbios cierran marchas estudiantiles en el centro de Bogotá”, en http://
+www.semana.com/nacion/fuertes-disturbios-cierran-marchas-estudiantiles-centro-
+bogota/165695-3.aspx. Consultado el 12 de octubre de 2011.
+15.  “Comunicado MANE  Jornada Nacional de Movilización 12 de octubre de 2011”, en 
+http://manecolombia.blogspot.com/search?updated-min=2011-01-01T00%3A00%3A00-
+
+=== PAGINA_PDF 10 ===
+149
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Sin embargo, en la segunda sesión de la MANE , el 15 y 16 de 
+octubre, se hizo un balance positivo de la movilización y se ratificaron 
+las críticas al proyecto de reforma. Apoyado en los resultados de la 
+Consulta Nacional Universitaria
+16
+, el movimiento argumentó que, 
+contrario a lo que señalaba la ministra, el estudiantado era consciente 
+de las consecuencias negativas del proyecto y había trabajado en el 
+planteamiento de propuestas, condensadas en el Programa Mínimo 
+de los Estudiantes. Además, se definió una agenda de movilización, 
+aprovechando las audiencias públicas del Congreso, el 26 de octubre, el 
+3 y el 10 de noviembre.
+Los argumentos del Gobierno no cambiaron. A las anteriores 
+estrategias se sumó la deslegitimación del paro nacional universitario 
+resaltando sus altos costos y el llamado para que la discusión sobre la 
+reforma se hiciera en el Congreso, en vez de en las calles. Según la 
+ministra, hubo suficiente participación en la construcción del proyecto, 
+con 28 foros y un mecanismo de participación virtual, y la propuesta 
+inicial fue modificada en más del 60%
+17
+. El Gobierno tenía de su lado 
+la Mesa de Unidad Nacional y los rectores habían moderado sus críticas 
+luego del retiro del ánimo de lucro, pero el movimiento empezaba a 
+ganar el pulso en la opinión pública.
+En la audiencia del 19 de octubre, a la que la ministra no asistió, los 
+voceros estudiantiles demostraron su conocimiento de la política ed u-
+cativa. Discutieron el carácter “neoliberal” de la reforma que concebía 
+la educación como mercancía, la persistencia del ánimo de lucro y su 
+08%3A00&updated-max=2012-01-01T00%3A00%3A00-08%3A00&max-results=19. 
+Consultado el 6 de noviembre de 2011.
+16.  La Consulta Nacional Universitaria se realizó los días 5, 6 y 7 de octubre. Participaron 
+más de 50.000 estudiantes de 35 universidades públicas y privadas a nivel nacional. El 
+documento “MANE  y Consulta Nacional Universitaria”, resume los resultados: “Las 
+preguntas de la consulta realizada son: 1) ¿Participó usted en la construcción del proyecto 
+de la reforma a la Ley de educación superior (Ley 30), presentada por el gobierno de Juan 
+Manuel Santos? En esta pregunta el 97,9% de los estudiantes votó que nunca participó 
+de la construcción de esta nueva ley. 2) ¿Comparte el contenido de la reforma a la Ley 
+de educación superior (Ley 30), presentada por el gobierno de Juan Manuel Santos? 
+En la cual el 94,74% del total de votantes respondieron que no están de acuerdo con lo 
+propuesto en esta reforma. 3) ¿Estaría dispuesto a participar en la construcción en la 
+construcción de una propuesta alternativa de universidad? Y el 94,2% de los estudiantes 
+votaron que están dispuestos a construir una propuesta democrática que contenga las 
+necesidades de la academia y de la sociedad”.
+17.  “Mineducación invitó a los estudiantes a una mesa de diálogo”, en http://www.semana.
+com/nacion/mineducacion-invito-estudiantes-mesa-dialogo/166018-3.aspx. Consulado el 
+19 de octubre de 2011.
+
+=== PAGINA_PDF 11 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+150
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Cuadro 2
+Principales acciones colectivas del movimiento estudiantil (octubre-noviembre de 2011)
+Octubre
+-A principios del mes existía una situación de ebullición en las universidades. 
+Las universidades públicas de Pereira, Cartagena, Antioquia, Quindío, T olima, 
+Manizales, Cauca, Guajira, la Surcolombiana, la UPTC y el politécnico Jaime 
+Isaza Cadavid habían entrado en paro. Hubo protestas de distinta índole en la 
+UPN, la Universidad de Córdoba, la del Valle y la Distrital de Bogotá en contra 
+de la reforma de la Ley 30, y en la del T olima por inconformidad con el rector.
+-El viernes 7 de octubre se realizó una gran jornada nacional de protesta contra 
+la reforma de la Ley 30. La prensa calculó en 20.000 el número de personas 
+movilizadas.
+-El miércoles 12 de octubre se realizó una gran jornada nacional de protesta 
+contra la reforma de la Ley 30. Hubo participación de diversos sectores, además 
+de estudiantes de universidades públicas y privadas y del Sena, estudiantes de 
+secundaria, padres de familia, trabajadores y educadores. De acuerdo con los 
+informes de la prensa se movilizaron 40.000 personas. Hubo enfrentamientos con 
+la policía en Bogotá, Medellín, Bucaramanga, Popayán e Ibagué, 31 marchas en 
+23 departamentos y participaron estudiantes de 37 universidades públicas y 17 
+privadas.
+-El 26 de octubre hubo una jornada nacional de protesta contra la reforma 
+a la Ley 30, que coincidió la segunda audiencia pública en la Cámara de 
+Representantes.
+Noviembre
+-El jueves 3 de noviembre se realizó el “carnaval nocturno y besatón por la 
+educación”, que coincidió con la tercera audiencia pública sobre la reforma de la 
+Ley 30 en la Cámara de Representantes.
+-El jueves 10 de noviembre se llevó a cabo la “T oma de Bogotá”, con la 
+participación de 120.000 estudiantes de delegaciones de la mayoría de las 
+universidades del país, Fecode, CUT y estudiantes de secundaria.
+-El jueves 24 de noviembre se desarrolló la “Jornada continental de movilización 
+en defensa de la educación como un derecho”, convocada por los movimientos 
+estudiantiles de Chile y Colombia en la que además participaron estudiantes de 
+Perú, Argentina, Brasil, México, Ecuador, Venezuela, Costa Rica, Paraguay y El 
+Salvador.
+Fuentes: http://www.elespectador.com/, http://www.semana.com/Home.aspx, http://www.eltiempo.com/, http://
+prensauniversidad.tk/ y http://www.universidad.edu.co/
+articulación al TLC. Ese mismo día la ministra llamó a conformar una 
+mesa de diálogo, pero los voceros estudiantiles pusieron como condición 
+que se retirara el proyecto, que el debate fuera televisado y se realizara 
+el 3 de noviembre. El 26 de octubre se realizó la jornada nacional de 
+protesta, aprovechando la continuación de la audiencia pública en la 
+Cámara de Representantes
+18
+. La audiencia de ese día dejó la sensación 
+de triunfo para el movimiento y sus argumentos frente a los de los 
+funcionarios del MEN
+19
+. Pero el Gobierno no cedió, el presidente instó a 
+18.  “En calma marcharon estudiantes en protesta por reforma a la educación”, en http://
+www.elespectador.com/noticias/bogota/articulo-307660-calma-marcharon-estudiantes-
+protesta-reforma-educacion. Consultado el 26 de octubre de 2011.
+19.  Los argumentos de los funcionarios del ministerio se sintetizaban en el documento 
+
+=== PAGINA_PDF 12 ===
+151
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+los estudiantes a cesar el paro y afirmó que no encontraba argumentos 
+para protestar
+20
+.
+El Gobierno no acudió al debate, convocado por el movimiento, el 3 
+de noviembre. Ese día se desarrolló otra audiencia pública en el Congr e-
+so y el “carnaval nocturno por la educación”. El Comité Operativo de la 
+MANE , reunido el 5 de noviembre, hizo un balance de 31 universidades 
+públicas en paro, la mayoría de las regionales del Sena y 25 univers i-
+dades privadas sumadas a la protesta. En las conclusiones afirmó que 
+la movilización no tenía precedentes y el proceso organizativo de la 
+MANE  se había replicado en las regiones
+21
+; se consideró que la táctica 
+de paro había sido acertada para presionar al Gobierno y posicionar el 
+debate en la agenda pública; se reiteraron los objetivos del paro: retiro 
+y hundimiento del proyecto de ley, y garantías para la construcción 
+democrática de una propuesta alternativa; se decidió no participar en las 
+discusiones del proyecto de ley en la Comisión Sexta de la Cámara de 
+Representantes
+22
+ y realizar una jornada internacional de movilización en 
+defensa de la educación como derecho el 24 de noviembre.
+El 9 de noviembre, el Gobierno tomó una decisión no anticipada 
+en los análisis del movimiento. Luego de la petición de congresistas 
+del Partido Liberal y de la U, en la Mesa de Unidad Nacional, para 
+que el presidente retirara el proyecto
+23
+, este anunció que así lo haría 
+“ABC  de la reforma a la educación superior en Colombia”, en http://www.mineducacion.
+gov.co/1621/w3-article-283356.html.
+20.  “Presidente Santos pidió a estudiantes en paro que regresen a clases”, en http://
+www.eltiempo.com/vida-de-hoy/educacion/reforma-a-la-educacin-audiencia-en-el-
+congreso_10644825-4. Consultado el 26 de octubre de 2011.
+21.  “Conclusiones Comité Operativo 05 de noviembre de 2011”, en http://
+funcomisionesmodep.org/index.php?option=com_content&view=article&id=105:concl
+usiones-comite-operativo-05-de-noviembre-de-2011&catid=34:nacionales&Itemid=37. 
+Consultado el 11 de noviembre de 2011.
+22.  En carta a la Comisión Sexta de la Cámara de Representantes, el 8 de noviembre, 
+la MANE  esgrimió sus razones para no participar en las discusiones del proyecto: no 
+recogió las opiniones de los estudiantes, los 28 foros que hizo el Ministerio no fueron 
+escenarios de debate y construcción sino de socialización y legitimación. El Congreso no 
+es un lugar idóneo para la construcción democrática por tener mayorías del Gobierno. 
+La discusión debía desarrollarse fuera del Congreso y fuera de los claustros, para incluir 
+diversos sectores. “Carta abierta de los y las estudiantes colombianos a la Comisión 6 de la 
+Cámara de Representantes, al Gobierno nacional y a la sociedad colombiana”, en http://
+feucolombia.org/index.php?option=com_content&view=article&id=170:carta-abierta-
+de-los-y-las-estudiantes-colombianos-a-la-comision-6-de-la-camara-de-representantes-
+al-gobierno-nacional-y-a-la-sociedad-colombiana&catid=38:inicio. Consultado el 11 de 
+noviembre de 2011.
+23.  “La U pide a Santos el retiro de la reforma a la educación superior”, en http://www.
+
+=== PAGINA_PDF 13 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+152
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+si los estudiantes levantaban el paro. Ello evidenció cierta fractura en 
+la coalición gubernamental. Empero, Santos mantuvo el argumento 
+de que los estudiantes no entendían la reforma y no justificó su 
+decisión por la necesidad de construirla en forma concertada, sino 
+para que no se perdiera el semestre
+24
+. Era también una estrategia para 
+intervenir en la Toma de Bogotá, programada para el día siguiente. No 
+obstante, el movimiento persistió en la protesta. La MANE  emitió un 
+comunicado afirmando que no levantaba el paro a pesar de la decisión 
+del Gobierno de retirar el proyecto de ley, hasta que no se cumplieran 
+las dema ndas
+25
+, y convocó una plenaria de emergencia el sábado 12 
+de noviembre, cuando se tenía prevista la realización del Encuentro 
+Nacional Programático en el que participarían delegaciones de todas 
+las regiones. Al día siguiente se llevó a cabo la Toma de Bogotá, con 
+participación de alrededor de 120.000  personas, de todas las regiones, 
+más de 20 puntos de concentración en la capital y una congregación de 
+30.000  personas en la plaza de Bolívar. La movilización fue tan con -
+tundente que el presidente anunció el retiro definitivo del proyecto de 
+ley y aseguró que el Gobierno estaría abierto para discutir la reforma. 
+En esa decisión pesaba el daño que su imagen empezaba a sufrir como 
+consecuencia de las movilizaciones y las diferencias en el interior su 
+coalición
+26
+.
+Tras un álgido debate, la plenaria de emergencia de la MANE  del 
+12 de noviembre produjo un comunicado
+27
+ en el que afirmaba que la 
+decisión de retirar el proyecto obedecía a la contundencia del paro, 
+leía el retiro del proyecto como “una victoria importante en la lucha 
+por la educación como un derecho” y planteaba suspender el paro con 
+condiciones para construir democráticamente una reforma. Luego de 
+declaraciones de la ministra de Educación en el sentido de proveer esas 
+garantías y del retiro del proyecto, la MANE  emitió un comunicado, el 
+semana.com/nacion/pide-santos-retiro-reforma-educacion-superior/167214-3.aspx. 
+Consultado el 11 de noviembre de 2011.
+24.  “El ﬁn de semana estudiantes decidirán si levantan el paro”, en http://www.semana.
+com/nacion/ﬁn-semana-estudiantes-decidiran-levantan-paro/167222-3.aspx. Consultado el 
+11 de noviembre de 2011.
+25.  “Los estudiantes no levantan el paro”, en http://www.conapcolombia.org/?p=1609. 
+Consultado el 11 de noviembre de 2011.
+26.  “Santos ordena retirar del Congreso proyecto para reformar Educación Superior”, en 
+http://www.elespectador.com/noticias/educacion/articulo-310834-santos-ordena-retirar-
+del-congreso-proyecto-reformar-educacion-s. Consultado el 11 de noviembre de 2011.
+27.  “Declaración de la MANE  sobre la suspensión del Paro Nacional Estudiantil”, en 
+http://prensauniversidad.tk/. Consultado el 16 de noviembre de 2011.
+
+=== PAGINA_PDF 14 ===
+153
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+miércoles 16 de noviembre, anunciando el inicio del proceso de suspen -
+sión del paro
+28
+.
+Finalmente, el jueves 24 de noviembre se llevó a cabo la “Jornada 
+continental de movilización en defensa de la educación como un der e-
+cho”, que había sido concertada entre los movimientos estudiantiles de 
+Chile y Colombia, y en la que participaron cerca de 9.000  estudiantes 
+de al menos 20 universidades públicas y privadas
+29
+. Cierre de un 
+año marcado por la protesta, con la que el movimiento estudiantil 
+había cobrado la primera victoria en años y que es necesario explicar 
+estudiando la EOP, el proceso organizativo, los marcos, los discursos y la 
+praxis cultural.
+La estructura de oportunidad política (E OP)
+La EOP designa las dimensiones del contexto político que 
+promueven o inhiben la acción colectiva
+30
+. Comprende tanto la 
+estructura política institucional como las relaciones informales de poder 
+de un sistema político, y puede usarse como una serie de variables 
+independientes para explicar el origen, la forma o el impacto de los 
+movimie ntos (McAdam, McCarthy y Zald, 1999 :23). Sin embargo, 
+al referirse a cualquier elemento del contexto que influya sobre los 
+movimientos corre el riesgo de no explicar nada (Gamson y Meyer, 
+1999  389 ; Della Porta, 1999 :102). Por eso se ha intentado delimitar 
+las variables pert inentes
+31
+. Es necesario hacer explícita la variable 
+28.  “Nuestra palabra empeñada. Declaración MANE  16 de noviembre”, en http://
+manecolombia.blogspot.com/. Consultado el 16 de noviembre de 2011.
+29.  “Finalizó marcha latinoamericana por la educación en Bogotá”, en http://www.
+elespectador.com/noticias/bogota/articulo-313047-ﬁnalizo-marcha-latinoamericana-
+educacion-bogota. Consultado el 24 de noviembre de 2011.
+30.  Esta deﬁnición es bastante “estructuralista”, dado que supone que las oportunidades 
+son factores objetivos del contexto. Sin embargo, Tarrow (1999, 89) hace énfasis en la 
+interpretación de las oportunidades por parte de los actores: “Cuando hablo de oportunidad 
+política estoy haciendo referencia a señales continuas –aunque no necesariamente 
+permanentes, formales o a nivel nacional– percibidas por los agentes sociales o políticos que 
+les animan o desaniman a utilizar los recursos con los que cuentan para crear movimientos 
+sociales”. Para algunos autores, el proceso de interpretación por parte de los actores es 
+esencial: “cuando no se reconoce la oportunidad es como si no existiera. La oportunidad 
+política implica la percepción de una posibilidad de cambio, es decir, tiene un componente 
+que es, básicamente, un ‘constructo’ social” (Gamson y Meyer, 1999:401).
+31.  McAdam (1999, 54-55) sostiene que serían parte de la EOP : “1. El grado de apertura 
+relativa del sistema político institucionalizado. 2. La estabilidad o inestabilidad de las 
+alineaciones entre élites, alineaciones que ejercen una gran inﬂuencia en el ámbito de lo 
+político. 3. La presencia o ausencia de aliados entre las élites. 4. Capacidad del Estado y 
+su propensión a la represión”.
+
+=== PAGINA_PDF 15 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+154
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+dependiente a explicar y la dimensión concreta de la EOP que la explica 
+(McAdam, 1999 :59).
+La EOP en que se desenvuelve el ciclo de protesta del movimiento 
+estudiantil está caracterizada por el auge del movimiento estudiantil en 
+América Latina y de la protesta a nivel nacional y global. Además, existe 
+un cambio en el manejo de la protesta por parte del gobierno Santos, 
+si se compara con el anterior de Uribe, o una percepción distinta 
+que puede motivar a la movilización. Las estrategias tradicionales de 
+criminalización y represión persisten, pero tienen un comportamiento 
+distinto en las regiones y en Bogotá, donde la Alcaldía adoptó una 
+actitud de respeto al derecho de protesta. El descontento con el ánimo 
+de lucro hizo que, al principio, los rectores se sumaran a la lucha y el 
+movimiento creó oportunidades al articular otros sectores.
+McAdam (1999 :62-64) ha planteado la necesidad de incluir el 
+contexto internacional en la EOP. El auge del movimiento estudiantil 
+tiene lugar en un contexto de protesta mundial, con los movimientos 
+de “indignados”, y de ascenso de la protesta estudiantil en América 
+Latina. Ello no ha pasado desapercibido para los protagonistas
+32
+. Es 
+posible que ese contexto influyera en las decisiones del Gobierno, si se 
+tiene en cuenta que Santos hizo una visita a Chile en agosto, donde a 
+causa del movimiento estudiantil la popularidad del presidente Piñera 
+cayó vertiginosamente. Empero, los elementos principales de la EOP se 
+ubican en el nivel nacional.
+Existe una diferencia entre el gobierno de Santos y el anterior 
+de Uribe en el tratamiento de la protesta o una percepción distinta 
+del Gobierno que puede llevar a la movilización. El despertar del 
+32.  La primera sesión de la MANE , el 20 y 21 de agosto, produjo una “Declaración”, en 
+la que se articulaban a las luchas en otras partes del planeta: “Primero Túnez, después 
+fue Egipto, y más tarde en gran parte del norte de África y el Medio Oriente, luego 
+en España, Irlanda, Grecia e Israel; cientos de miles de estudiantes, desempleados, 
+trabajadores y ciudadanos del común colman plazas y parques, contra un orden 
+económico internacional inicuo y que se encuentra en fase de declive. En América Latina 
+los estudiantes de Puerto Rico, Colombia y otros países se movilizan bajo el norte de la 
+lucha social en Chile que ya completa más de tres meses de tomas y marchas estudiantiles, 
+cuyo más reciente acto fue el paro obrero-estudiantil de 48 horas. Se trata de sucesos 
+llevados a cabo en todo del mundo que no pueden ser presentados como aislados. 
+Aunque variadas son sus manifestaciones, deﬁnitivamente tienen causas comunes. No 
+son coincidencia sino que obedecen a las más genuinas respuestas de un mundo que no 
+aguanta más, y que clama por auténticos estadios de bienestar y progreso, y en la que 
+Colombia por supuesto no es la excepción”. “Declaración de la Mesa Amplia Nacional 
+Estudiantil (MANE )”, en http://www.ocecolombia.com/2011/09/declaracion-de-la-mesa-
+amplia-nacional.html. Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 16 ===
+155
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+movimiento estudiantil se produce en un contexto de efervescencia 
+de los movimientos sociales. Un informe de la Policía, publicado 
+en octubre, resalta el aumento dramático de la movilización en 
+2011, cuando casi medio millón de ciudadanos habría participado 
+en protestas. Mientras en el 2010 se habían presentado 1.142 mani -
+festaciones, en octubre de 2011 ya iban 1.573
+33
+. Las protestas de los 
+trabajadores de la petrolera canadiense Pacific Rubiales en los llanos 
+orientales, desde mediados de julio, y el movimiento estudiantil, se 
+convirtieron en un dolor de cabeza para el Gobierno y dejaron la 
+imagen de que era vulnerable a la protesta social. ¿Cómo explicar el 
+auge del movimiento estudiantil?
+Una variable imprescindible es el nivel de represión de la protesta, 
+con gran incidencia en la forma que adoptan los repertorios de acción 
+(Della Porta, 1999 :102). McAdam ( 1999 :58) sugiere que cuando 
+disminuye la capacidad de represión estatal de la protesta es más 
+factible que emerjan movimientos poco institucionalizados y ciclos 
+de protesta. Empero, esta hipótesis es matizada en nuestro caso. En 
+distintos momentos, hubo una actitud de apertura del Gobierno a las 
+protestas estudiantiles caracterizadas por repertorios no violentos, 
+difícil de imaginar en el anterior Gobierno. Por ejemplo, tras la jornada 
+del 7 de abril, el ministro del Interior afirmó que hubo un comport a-
+miento ejemplar
+34
+. Sin embargo, al mismo tiempo se desplegaban las 
+dos estrategias tradicionales del Estado para lidiar con la protesta, la 
+represión y la criminalización.
+La protesta tuvo altos costos en términos de represión, sobre todo 
+en las regiones. Por ejemplo, en la madrugada del 6 de abril, el Esmad 
+desalojó violentamente un grupo de estudiantes que ocupaban 24 
+días atrás un edificio en la Universidad Santiago de Cali, custodiando 
+documentos útiles para investigar presuntas irregularidades administr a-
+tivas
+35
+. El 26 de julio el Esmad irrumpió con violencia en el campus de 
+la Universidad de Antioquia, en cuyas entradas hacía presencia hacía 10 
+meses, para aprender un grupo de estudiantes que retiró las cámaras de 
+33.  “Radiografía de la protesta social en Colombia”, en http://www.eltiempo.com/archivo/
+documento/CMS -10480172. Consultado el 2 de octubre de 2011.
+34.  “La marcha en contra de la reforma educativa, sin graves disturbios. El ministro del 
+Interior dijo que hubo ‘comportamiento ejemplar’ de los manifestantes”, en http://www.
+eltiempo.com/vida-de-hoy/educacion/ARTICULO -WEB -NEW _NOTA _INTERIOR -9131911.
+html. Consultado el 7 de abril de 2011.
+35.  “Esmad desalojó a estudiantes de Universidad Santiago de Cali”, en http://www.
+eltiempo.com/colombia/cali/ARTICULO -WEB -NEW _NOTA _INTERIOR -9213782.html. 
+Consultado el 23 de abril de 2011.
+
+=== PAGINA_PDF 17 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+156
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+seguridad
+36
+. En la madrugada del 20 de septiembre el Esmad desalojó 
+con violencia un grupo de estudiantes que acampaban en la Universidad 
+de Pamplona, desde hacía cuatro días
+37
+, quienes exigían rendición de 
+cuentas de la rectoría. En la marcha latinoamericana por la educación 
+del 24 de noviembre, hubo agresiones del Esmad que lesionaron de 
+gravedad a estudiantes de la Universidad Minuto de Dios. La policía 
+habría violado los pactos de convivencia acordados con las comisiones 
+de derechos humanos de las universidades y la Secretaría Distrital de 
+Gobierno
+38
+.
+La criminalización de la protesta es un discurso que la estigmatiza 
+al presentarla como consecuencia de la infiltración de la guerrilla. Este 
+discurso se moderó en el gobierno de Santos en comparación con el 
+de Uribe. Ello permitió, por ejemplo, que el movimiento estudiantil 
+demandara mayor inversión en educación que en seguridad y defensa 
+pues, si se está ganando la guerra como afirma el Gobierno, no es 
+necesario mantener el elevado gasto militar. Sin embargo, la crimin a-
+lización se manifestó en coyunturas álgidas. Por ejemplo, a fines de 
+marzo, luego de las protestas en las universidades Distrital y Pedagóg i-
+ca en Bogotá, el director de la Policía afirmó que había una “estructura 
+terrorista” en la ola de protestas universitarias y se avanzaría en labores 
+de inteligencia para determinar responsabilidades
+39
+. Tras los enfrent a-
+mientos entre estudiantes de la Universidad Distrital y el Esmad, el 22 
+de septiembre, apareció un informe de prensa donde se afirmaba que el 
+Gobierno tomaba medidas para tratar dicha infiltración
+40
+.
+Sin embargo, la represión y criminalización tienen un comport a-
+miento distinto en las regiones y en la capital, donde se configura una 
+EOP particular y existen menores costos para la acción colectiva por 
+36.  “Este viernes no hay clases en la Universidad de Antioquia”, en http://www.
+elcolombiano.com/BancoConocimiento/E/este_viernes_no_hay_clases_en_la_
+universidad_de_antioquia/este_viernes_no_hay_clases_en_la_universidad_de_antioquia.
+asp. Consultado el 28 de julio de 2011.
+37.  “Graves disturbios durante desalojo de Policía en la U. de Pamplona”, en http://www.
+eltiempo.com/archivo/documento/CMS -10398444. Consultado el 20 de septiembre de 
+2011.
+38.  “Informe de la Personería conﬁrma que reacción del Esmad fue excesiva. Sí hubo 
+abuso de fuerza”, en http://www.elespectador.com/impreso/bogota/articulo-314097-si-
+hubo-abuso-de-fuerza. Consultado el 30 de noviembre de 2011.
+39.  “Hay una ‘estructura terrorista’ en protestas universitarias: general Naranjo”, en 
+http://www.elespectador.com/impreso/nacional/articulo-260288-universidades-rebelion. 
+Consultado el 31 de marzo de 2011.
+40.  “La guerra en las aulas”, en http://www.elespectador.com/impreso/temadeldia/
+articulo-302936-guerra-aulas. Consultado el 30 de septiembre de 2011.
+
+=== PAGINA_PDF 18 ===
+157
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+el hecho de que la alcaldía esté en manos de la izquierda, del Polo 
+Democrático Alternativo ( PDA). El movimiento estudiantil contó con 
+un contexto favorable. La alcaldesa encargada, Clara López, en varias 
+ocasiones llamó a respetar el derecho a la protesta y no estigmatizar a 
+los estudiantes
+41
+. La Alcaldía estableció pactos de convivencia entre los 
+estudiantes y la fuerza pública y, en las jornadas del mes de octubre, el 
+7 y el 12, instaló un “muro democrático” en la plaza de Bolívar, para que 
+los marchantes se expresaran sin dañar bienes públicos
+42
+. Los límites a 
+la represión permitieron que la movilización creciera y transmitiera su 
+mensaje, que los medios de comunicación se fijaran en ella y que grupos 
+y ciudadanos se articularan.
+El movimiento estudiantil también contó con un contexto favorable 
+producto del descontento de rectores y comunidades de universidades 
+privadas con la introducción del ánimo de lucro. Una vez presentada la 
+propuesta, Ascun, que reúne representantes de universidades públicas 
+y privadas, cuestionó el que no se le hubiera tenido en cuenta. Su pre -
+sidente y rector de la Universidad Jorge Tadeo Lozano, José Fe rnando 
+Isaza, criticó también que el régimen de sanciones, en términos de 
+inspección y vigilancia, anulaba la autonomía universitaria
+43
+. El rector 
+de la Universidad Nacional, Moisés Wasserman, afirmó que los subsidios 
+a la demanda no eran suficientes para ampliar cobertura y era necesario 
+crear más universidades públicas, pues la demanda crecía más en estra -
+tos bajos incapaces de endeudarse. También criticó el ánimo de lucro 
+porque no mejoraría la calidad, pues los inversionistas no privilegiarían 
+la investigación en temas pertinentes para el país
+44
+. El rector de la 
+Universidad de los Andes, Carlos Angulo Galvis, afirmó que la reforma 
+41.  “Más de 1.000 policías garantizarán seguridad en las marchas en Bogotá”, en http://
+www.eltiempo.com/archivo/documento/CMS -10514364. Consultado el 6 de octubre de 
+2011. “Clara López pidió no estigmatizar a los estudiantes”, en http://www.elespectador.
+com/noticias/bogota/articulo-305184-clara-lopez-pidio-no-estigmatizar-los-estudiantes. 
+Consultado el 12 de octubre de 2011. “‘Los estudiantes supieron marchar, una vez 
+más’: secretaria de Gobierno”, en http://www.semana.com/nacion/estudiantes-supieron-
+marchar-vez-secretaria-gobierno/167272-3.aspx. Consultado el 10 de noviembre de 2011.
+42.  “La Alcaldía, digamos, que ha comprendido y ha modiﬁcado ciertos esquemas de 
+actuación de la policía… En Bogotá ha habido un manejo diferente en estos últimos dos 
+meses. En las regiones deﬁnitivamente sí ha habido mucha represión” (Entrevista 7).
+43.  “Debate por reforma a la Ley de Educación Superior”, en http://www.semana.com/
+nacion/debate-reforma-ley-educacion-superior/153618-3.aspx. Consultado el 22 de marzo 
+de 2011.
+44.  “Es necesario crear más universidades públicas’: Moisés Wasserman”, en http://www.
+eltiempo.com/vida-de-hoy/educacion/ARTICULO -WEB -NEW _NOTA _INTERIOR -9018562.
+html. Consultado el 15 de marzo de 2011.
+
+=== PAGINA_PDF 19 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+158
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+no tenía incentivos para mejorar la calidad y para ello habría que contar 
+con recursos públicos
+45
+. A principios de agosto, el rector de la Universi -
+dad Javeriana, padre Joaquín Sánchez S.J., cuestionó el ánimo de lucro y 
+la “autonomía para todos” pues ello conducía a negocios educativos que 
+después no se podían controlar
+46
+. Un crítico asiduo de las consecuencias 
+negativas que traería el ánimo de lucro para la educación superior fue 
+el rector de la Universidad Icesi, Francisco Piedrahita
+47
+. Aunque la 
+posición de algunos rectores se moderó con el retiró del ánimo de lucro y 
+varios llamaron a discutir la reforma en el Congreso y abandonar el paro 
+universitario, su crítica le dio un carácter de gravedad a la situación, que 
+motivó la preocupación de la opinión pública y de estudiantes que en 
+otras circunstancias no se hubiesen movilizado
+48
+.
+Finalmente, la movilización estudiantil consiguió articular actores 
+diversos y de esa manera creó sus propias oportunidades (McAdam, 
+McCarthy y Zald, 1999 :36; Tarrow, 1999 :95). En las movilizaciones 
+participaron estudiantes de universidades públicas y privadas, del Sena 
+e instituciones tecnológicas, de secundaria, profesores universitarios 
+y de secundaria, sindicatos de trabajadores, congresistas y padres 
+de familia. Los estudiantes de universidades privadas se articularon 
+como consecuencia del trabajo de las organizaciones estudiantiles y 
+de la valoración crítica de la reforma, que llevó a la emergencia de 
+nuevos procesos organizativos como las Mesas Amplias Estudiantiles 
+en distintas universidades
+49
+. Su participación fue importante para que 
+45.  “La reforma no apunta a mejorar la calidad”, en http://www.semana.com/nacion/
+reforma-no-apunta-mejorar-calidad/155445-3.aspx. Consultado el 7 de noviembre de 
+2011.
+46.  “Universidades, divididas frente al proyecto de reforma”, en http://www.portafolio.
+co/portafolio-plus/universidades-divididas-frente-al-proyecto-reforma. Consultado el 1 de 
+agosto de 2011.
+47.  Ver http://www.icesi.edu.co/unicesi/categoria/especial-ley30/. Consultado el 11 de 
+septiembre de 2011.
+48.  “Santos, no sabemos si lo hizo de aposta o no, pero al meter el tema del ánimo de 
+lucro en la ley generó un ruido tremendo que nos ayudó mucho a nosotros a despertar y 
+entonces los rectores también, pues, se levantaron. Al ﬁnal eso mueve mucho, hay que 
+decir que el hecho de que el estudiante no organizado, que nunca ha estado politizado 
+pues vea a su autoridad académica pelear contra la ley dice: ‘uy, hay razones de fondo’, 
+entonces eso despierta” (Entrevista 10).
+“El hecho de que esta reforma sea tan lesiva implicó que mucho del estudiantado, 
+incluso del profesorado, que nunca participó de la movilización estudiantil, lo hiciera… 
+pesa mucho que en sectores no radicales, como los rectores, también hayan tenido sus 
+contradicciones con el Gobierno. Yo creo que el proyecto era tan lesivo que implicó que la 
+movilización tuviera ciertos grados de legitimidad” (Entrevista 4).
+49.  La Mesa Amplia Estudiantil de Universidades Privadas de Bogotá emitió un 
+
+=== PAGINA_PDF 20 ===
+159
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+el movimiento innovara en los repertorios de acción colectiva y en el 
+apoyo de la opinión pública
+50
+.
+Pese a la división que el Gobierno pretendió establecer entre las 
+universidades y las IES técnicas y tecnológicas, los estudiantes de 
+muchas de estas instituciones se articularon a la lucha. En el proceso 
+organizativo de la MANE , los argumentos de los estudiantes del Sena 
+jugaron un rol importante. En las acciones colectivas participaron est u-
+diantes de secundaria, y organizaciones como la Asociación Nacional de 
+Estudiantes de Secundaria (Andes). A la lucha en contra de la reforma 
+se sumaron los profesores y sus organizaciones, como la Asociación 
+Sindical de Profesores Universitarios ( ASPU) y la Federación Nacional 
+de Profesores Universitarios (Fenalprou). La Fecode también se articuló 
+a las jornadas de movilización en varias oportunidades y, junto con la 
+CUT, dio apoyo financiero al movimiento. Incluso los trabajadores de las 
+universidades con sus asociaciones, como el Sindicato de Trabajadores y 
+Empleados Universitarios de Colombia (Sintraunicol), se vincularon.
+El movimiento estudiantil fue apoyado por el PDA, cuyos congresi s-
+tas, el senador Alexander López, el representante Wilson Arias, entre 
+otros, criticaron la reforma y convocaron a rendición de cuentas al MEN. 
+comunicado el 17 de noviembre, donde se ponen de presente las razones que motivaron 
+la participación de estudiantes de universidades privadas en el movimiento: “Con el pasar 
+del tiempo aumenta la participación de miles de estudiantes de universidades privadas, 
+especialmente, de Bogotá, que bajo el referente organizativo de la MANE , nos oponemos 
+a la propuesta de reforma educativa del Gobierno nacional. Hemos señalado que nuestro 
+proceder no responde a un acto de solidaridad, que la reforma nos afecta igual o peor, 
+principalmente porque la extinción de la Universidad Pública signiﬁca condenar al sub 
+desarrollo al país donde trabajaremos, mientras profundiza la exclusión que de facto 
+vivimos, al derecho a la educación. Por esto también exigimos su retiro del congreso SIN 
+condicionamientos, además de las garantías para construir la universidad que necesita el 
+país junto a las libertades democráticas para la movilización”. “Comunicado de la Mesa 
+Amplia Estudiantil de Universidades Privadas-Bogotá”, en http://prensauniversidad.tk/. 
+Consultado el 22 de noviembre de 2011.
+50.  “Por el bajo nivel de organización que hay en universidades privadas, se conformó 
+una sola Mesa Amplia de Universidades Privadas de Bogotá, que ha venido funcionando 
+muy bien porque ellos han dado pasos muy importantes y es reivindicarse desde las 
+universidades privadas contra la privatización de la educación, lo cual es muy complejo. 
+En esta mesa se ha avanzado para, desde el marco del Programa mínimo, nutrirlo desde 
+su visión de privadas… pero sobretodo en el marco de la movilización nos han aparecido 
+niños de todo tipo de universidades privadas… Para nosotros, ese proceso nos da dos 
+grandes lecciones. Una primera, una política, sí es posible articularnos públicas y privadas 
+sin distinción, porque los compañeros, más allá de que hayan elegido una universidad 
+privada, debieron haber tenido la posibilidad de estudiar en una pública; y dos, es posible 
+hacer movilización estudiantil masiva, amplia y democrática” (Entrevista 3).
+
+=== PAGINA_PDF 21 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+160
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+También recibió el apoyo de algunos representantes del Partido Verde, 
+Ángela María Robledo y Carlos Andrés Amaya, quienes se separaron de 
+las orientaciones de su partido recién ingresado a la Mesa de Unidad 
+Nacional para apoyar la causa estudiantil. A esa lucha también se 
+articularon la Coordinadora de Movimientos Sociales de Colombia 
+(Comosocol) que reúne, entre otros, el Congreso de los Pueblos y la 
+Marcha Patriótica, y el Comité de Defensa del Derecho a la Educación. 
+En fin, como no se había visto en el movimiento estudiantil, caracter i-
+zado por la afirmación de su independencia y rebeldía generacional, la 
+participación de los padres de familia, mediante organizaciones como 
+el colectivo Madres y Padres de Estudiantes de la Universidad Nacional 
+(Mapa) mostró que el problema no tocaba sólo un sector de la pobl a-
+ción, coadyuvando a una mejor recepción del movimiento. Sin embargo, 
+la EOP no es suficiente para explicar el ciclo de protesta, es necesario 
+examinar también el papel activo del estudiantado en la generación de 
+un proceso organizativo y un discurso político.
+Las estructuras de movilización: el proceso organizativo de la M ANE
+El concepto de estructuras de movilización designa “los canales 
+colectivos tanto formales como informales, a través de los cuales la 
+gente puede movilizarse e implicarse en la acción colectiva” (McAdam, 
+McCarthy y Zald, 1999 :25). Comprende formas organizativas y “núcleos 
+socioestructurales cotidianos de micromovilización”, grupos cuya 
+función no es la movilización pero que pueden generarla (familias, 
+redes de amigos, asociaciones, etc.) (McCarthy, 1999 :206 ). El estudia n-
+tado tiene una rica vida asociativa: grandes organizaciones de carácter 
+nacional, regional y local, “parches”, “combos” y colectivos. No todas 
+estas estructuras tienen objetivos políticos, existen grupos culturales o 
+académicos que se politizaron en el ciclo de protesta.
+La movilización masiva no hubiera sido posible sin la MANE , que 
+aglutinó las principales organizaciones estudiantiles y se planteó como 
+un espacio amplio donde podía participar cualquier estudiante. Un 
+proceso en construcción resultado del aprendizaje de experiencias 
+anteriores de unidad, como la Coordinadora Nacional de Estudiantes 
+Universitarios ( CNEU)
+51
+. La CNEU se creó, por iniciativa de las 
+organizaciones de carácter nacional del momento, en el Congreso 
+de Estudiantes de Bucaramanga, en 2003 , para hacer frente a unos 
+decretos del Gobierno sobre acreditación y presupuesto y, entre otras 
+cosas, desarrolló el paro de abril de 2005 . Tenía como objetivo una 
+51.  Este proceso se reconstruye con apoyo en las entrevistas 3, 6, 7, 9 y 10.
+
+=== PAGINA_PDF 22 ===
+161
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+organización gremial con unidad en lo organizativo, lo programático 
+y la movilización, y se reunió hasta dos veces por semestre. Aunque 
+podrían participar organizaciones locales y regionales y estudiantes no 
+organizados, no se planteó como un espacio amplio sino de interlocución 
+entre organizaciones. Luego del paro se produjeron desacuerdos entre 
+ellas que terminarían por acabar con el proceso. Su última reunión fue 
+en octubre de 2006  cuando las diferencias fueron inconciliables
+52
+.
+Desde 2007  se realizaron Encuentros Nacionales Estudiantiles 
+Universitarios (Eneu), para coordinar movilizaciones coyunturales, 
+por ejemplo, contra el Plan Nacional de Desarrollo de Uribe, en 2007, 
+que obligaba a las universidades públicas a hacerse cargo de su pasivo 
+pensional. Allí sólo participaban las organizaciones estudiantiles y 
+no tenían perspectivas en lo programático y lo organizativo. A fines 
+de 2009  se empieza a discutir la necesidad de un espacio de unidad, 
+que llevó al Encuentro de Manizales, el 14 y 15 de abril de 2010, para 
+enfrentar la reforma a los artículos 86 y 87 de la Ley 30 propuesta por 
+el gobierno Uribe. Finalmente, el Encuentro de marzo de 2011 decide 
+crear la MANE  para enfrentar la reforma a la Ley 30. “Mesa amplia”, 
+implica articular al estudiantado, no sólo universitario, más allá de las 
+organizaciones e idearios, mayoritariamente de izquierda, y avanzar 
+en la unidad programática y organizativa. En la MANE  hacen presencia 
+más de 300 procesos organizativos, pero el Encuentro donde se formó 
+52.  “La CNEU  fracasó porque en esa época tenía una característica muy marcada de 
+ser dirigida por las organizaciones, pero más cerrada. La CNEU  no era como la Mesa y 
+era prácticamente un espacio donde las organizaciones intentaban ponerse de acuerdo, 
+las organizaciones nacionales, pero nunca tuvo una articulación con el movimiento 
+estudiantil de base y, como fue en una época muy dura del gobierno de Uribe, pues la 
+verdad es que no logró desarrollar una movilización fuerte como la que está dirigiendo 
+ahora la MANE … Y eso llevó a que las organizaciones no pudieran dirimir sus diferencias 
+y hubo unas diferencias de fondo muy fuertes entre las organizaciones. Inicialmente 
+dentro de su visión estratégica de lo que debería ser la organización estudiantil, ese era 
+el debate más fuerte en el que no nos podíamos poner de acuerdo, y su ruptura deﬁnitiva 
+vino cuando además de esa imposibilidad de ponernos de acuerdo en lo estratégico, 
+tampoco pudimos ponernos de acuerdo en  2006 sobre cuál debía ser la movilización 
+por el problema de la Universidad del Atlántico con la ley de quiebras. Entonces había 
+dos propuestas, una era una toma de Bogotá y la otra era una marcha de Cartagena hasta 
+Barranquilla. Finalmente, dos organizaciones, en concreto Comuna y la FEU , estaban 
+con la toma de Bogotá, y la Aceu, la OCE  y la FUN  estaban por la marcha de Cartagena 
+a Barranquilla. Aspu y Sintraunicol se unieron a la propuesta de la marcha de Cartagena 
+a Barranquilla. Y eso lo que hizo fue, digamos, terminar de romper el proceso y después 
+de eso no se volvió a reunir la CNEU  nunca más y salió la marcha de Cartagena a 
+Barranquilla” (Entrevista 10).
+
+=== PAGINA_PDF 23 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+162
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+fue convocado por nueve organizaciones, cinco de carácter nacional
+53
+.
+Un avance es el esfuerzo por superar el sectarismo entre org anizacio -
+nes que, aunque comparten un ideario de izquierda, tienen diferencias 
+ideológicas
+54
+. El proceso de unidad en parte se explica por las presiones 
+coyunturales, pues los protagonistas consideraron la propuesta de 
+53.  La Asociación Colombiana de Estudiantes Universitarios (Aceu), la Organización 
+Colombiana de Estudiantes (OCE ), la Federación de Estudiantes Universitarios (FEU ), 
+la Federación Universitaria Nacional (FUN -Comisiones) y el Proceso Nacional Identidad 
+Estudiantil tienen alcance nacional. Las demás, Comuna Universitaria, Conciencia 
+Crítica, Rebeldía Estudiantil Organizada (REO ) y el Colectivo Yuca Brava, tienen un 
+alcance local o regional. “Convocatoria Encuentro Nacional Estudiantil. Bogotá, 19 y 20 
+de marzo de 2011”, en http://prensauniversidad.tk/. Consultado el 19 de marzo de 2011.
+“Las organizaciones estudiantiles, las nacionales, pues, el Proceso Nacional Identidad 
+Estudiantil, la OCE , la Aceu, la FEU  y la FUN , habíamos estado convocando 
+periódicamente unos encuentros nacionales universitarios, sobretodo en la idea de ir 
+desarrollando una agenda de movilización contra las reformas que en su momento se 
+trataron de meter en el gobierno de Uribe y también al principio del gobierno de Santos. 
+Ya después lo que se dijo fue, bueno, ahí no ha sido en vano de alguna manera este proceso 
+de acumulación y desarrollo que se ha tenido, pero más allá de la unidad de acción hay que 
+pasar a la unidad programática y a la unidad organizativa. Entonces fue que se tomó en 
+serio esa propuesta de las mesas y se decidió hacer un lanzamiento” (Entrevista 9).
+54.  “Lo primero [que ha cambiado en el movimiento estudiantil] es la unidad, el 
+movimiento estudiantil se ha podido unir... ha cambiado eso y es que no es un movimiento 
+sectario, es decir, nosotros y nosotras, en la posibilidad que hoy tenemos de fortalecer 
+este movimiento estudiantil, hemos tenido un marco para poder discutir con procesos 
+estudiantiles de antaño, que tuvieron fuerza en los 70, que se han acercado a plantearnos 
+y a decirnos: vea un maoísta no se podía ver con un ‘trosco’ pues porque se encendían, o 
+sea, era literal, era a puños. Mientras que hoy vemos, por ejemplo, que usted ve a pelados 
+de la FEU  andando con los de la OCE , ve gente de la FUN  andando con pelados de REO . 
+Ahí hay un proceso unitario en el movimiento estudiantil… Sí, tenemos diferencias, pero 
+nos ponemos de acuerdo en que esta es la prioridad” (Entrevista 5).
+ “El sectarismo de las organizaciones estudiantiles o de las diversas tendencias de 
+izquierda durante mucho tiempo imposibilitó una construcción colectiva en la medida 
+en que siempre se trataron de imponer las agendas de cada organización sobre las 
+necesidades del colectivo. Ese problema se ha superado en gran medida y lo bueno es 
+lo siguiente: no ha implicado una renuncia de las bases ideológicas de cada tendencia 
+representada en cada organización” (Entrevista 9).
+ “La MANE  surge precisamente de tratar de superar un poco el sectarismo tan fuerte 
+que ha caracterizado al movimiento estudiantil en distintas experiencias organizativas, para 
+aglutinarse en torno a un mismo proyecto gremial que se pueda consolidar como un proceso 
+organizativo… las organizaciones dentro del movimiento estudiantil se dan cuenta de dos 
+cosas. Uno, que no tiene ningún sentido seguir chocando unas con otras en todo momento, a 
+pesar de las diferencias y a pesar de los debates en términos políticos, de método, de muchas 
+cosas que hay, que es necesario empezar a aglutinar elementos, por un lado. Y dos, que es 
+necesario consolidar un proceso gremial del movimiento estudiantil” (Entrevista 11).
+
+=== PAGINA_PDF 24 ===
+163
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+reforma como demasiado lesiva
+55
+. Pero también influye la “maduración” 
+o aprendizaje, a partir de sus experiencias durante el gobierno Uribe
+56
+. 
+Ello no quiere decir que no se produzcan disensos, para alcanzar la 
+unidad todas las organizaciones se han visto obligadas a ceder
+57
+.
+Las grandes organizaciones han tenido un papel principal debido a 
+la disposición de recursos materiales e información, y a ese aprendizaje, 
+que les permite asumir tareas que no se lograrían de otro modo, 
+desde la logística hasta análisis de largo plazo
+58
+. Sin embargo, el ciclo 
+55.  “[La MANE ] fue una reacción a la propuesta del Gobierno. Las organizaciones 
+estudiantiles pudieron haber seguido cada una por su lado, pero como que lo que hizo el 
+gobierno hizo que los llevara a dejar de lado los problemas personales, los problemas de 
+egos” (Entrevista 1).
+ “La emergencia de la MANE  se debe fundamentalmente a que la reforma era 
+demasiado lesiva” (Entrevista 5).
+56.  “Hay una mayor madurez política entre las organizaciones, pero también dentro de 
+las mismas organizaciones los ocho años de Uribe signiﬁcaron un reajuste de la lectura 
+política, en torno de los planteamientos políticos, en torno a la unidad, que no se veían 
+antes y como que esas dos cosas, la madurez y una comprensión más política del asunto, 
+han llevado a que haya un espíritu de unidad, ese elemento más subjetivo” (Entrevista 7).
+“El movimiento estudiantil usualmente llega a puntos de madurez y retrocede, y bueno, 
+creo que estamos en esos puntos de madurez, eso quiere decir que venimos en un proceso 
+de crecimiento. ¿Qué implica ese proceso de crecimiento? Que todos entendemos que 
+no podemos ser los hegemónicos, ninguna organización pretende desconocer a la otra” 
+(Entrevista 3).
+57.  “Se ha podido conformar un bloque muy interesante de las ocho organizaciones. 
+Claro, cuando uno cuenta la historia así, parecemos un bloque hegemónico, 
+perfectamente coordinado, que no discute entre ellos, que son unos como 
+amangualados… Hombre, eso no es así, y nosotros hemos tenido que ceder mucho, 
+todos, al interior de las reuniones de las organizaciones para buscar un consenso. O sea, 
+casi que nosotros hacemos un triple esfuerzo de concertación: nuestra organización, las 
+organizaciones y los espacios amplios” (Entrevista 3).
+“Entre las organizaciones estudiantiles hay profundas diferencias, y eso es algo que la 
+gente no sabe, hay diferencias ideológicas profundas, cierto, pero que en este momento se 
+le está apostando a una cosa de todos y no a una cosa de las partes” (Entrevista 9).
+“La MANE , a pesar de que entre las organizaciones hoy pues es un poco más fácil ponerse 
+de acuerdo y hay un mayor compromiso de todas por no romper el proceso unitario, de 
+todas formas ha sido muy difícil las discusiones entre las organizaciones y la MANE  ha 
+carecido de algo importante y es lograr poner a los estudiantes como un juez natural de 
+sus discusiones” (Entrevista 10).
+58.  “En la formación de la MANE  tienen un papel muy importante las organizaciones… 
+el encuentro de marzo fue jalonado por las organizaciones nacionales. Hay que tener claro 
+que las que se movilizan no son sólo las organizaciones, fue el grueso del estudiantado, 
+pero sí hay que reconocer el papel de las organizaciones en generar ese espacio” 
+(Entrevista 4).
+“Para llegar al espacio de la MANE , el principal papel es de las organizaciones” (Entrevista 
+
+=== PAGINA_PDF 25 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+164
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+de protesta generó un masivo crecimiento de los participantes, que 
+desbordó las capacidades de las organizaciones para dirigir el proceso
+59
+ 
+y generó problemas de coordinación y en la toma de decisiones
+60
+. En 
+menos de cuatro meses, la MANE  se constituyó como una estructura 
+de coordinación para avanzar hacia la unidad del estudiantado. En 
+este proceso tuvo que lidiar con el cuestionamiento a los mecanismos 
+de toma de decisiones en las asambleas, la emergencia de un discurso 
+antiorganización que reivindica los estudiantes no organizados o de 
+organizaciones locales, la discusión sobre las vocerías nacionales y la 
+articulación con procesos regionales.
+La MANE: una estructura en construcción
+La MANE  tiene una estructura horizontal, compuesta por la plen a-
+ria, el Comité Operativo y las comisiones de comunicaciones, derechos 
+humanos y académica, y un funcionamiento asambleario con mesas de 
+trabajo organizativa, programática y de movilización, que se estructuró 
+en diez eventos (ver cuadro 3).
+El proceso empezó con el Encuentro Nacional Estudiantil del 19 
+y 20 de marzo. Su objetivo era desarrollar una agenda de movilización 
+8).
+“Las organizaciones han sido claves. Le dan continuidad al movimiento estudiantil y se 
+piensan más allá de la coyuntura” (Entrevista 11).
+59.  “Un punto de fondo hoy en el escenario estudiantil en el país es que la movilización 
+ha sobrepasado la capacidad organizativa del movimiento estudiantil, hay procesos 
+organizativos locales nuevos” (Entrevista 5).
+“El principal problema organizativo es que el movimiento tuvo un período, un momento 
+de desarrollo súper-acelerado. El movimiento en su desarrollo tuvo un grado de 
+aceleración, aparte de inesperado, incontrolable, y lo grave es que ese proceso tan 
+acelerado de desarrollo no ayuda a unas bases organizativas ni regionales ni locales, que 
+le pudieran dar como salida a ese proceso tan acelerado… se desarrolló tan rápido que no 
+había algo que soportara estructuralmente ni organizativamente esa amplia participación y 
+lo organizativo se vio muy pequeño” (Entrevista 7).
+“Un eje que ha sido como la principal causa de todos estos problemas que tiene la MANE  
+es el siguiente: y es precisamente que el movimiento de masas que se origina al interior 
+de la MANE  y al interior de la coyuntura, que son dos elementos diferentes, rebasa las 
+capacidades y la planiﬁcación que tenían las organizaciones para ese espacio” (Entrevista 
+11).
+60.  “Mucha gente se empezó a sumar al proceso como en la última etapa. Nosotros 
+venimos en un proceso de más de siete meses dándole vueltas a la idea, pero ha sido 
+como el repunte de la movilización y esas convocatorias, que han desbordado de alguna 
+manera lo que se tenía presupuestado, lo que ha hecho que llegue mucha gente nueva a 
+los espacios. Y esto ha implicado que se vuelva de alguna manera atrás en debates que ya 
+se habían dado” (Entrevista 9).
+
+=== PAGINA_PDF 26 ===
+165
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Cuadro 3
+Proceso organizativo de la MANE
+FECHA EVENTO LUGAR
+MARZO 19 Y 20 Encuentro Nacional 
+Estudiantil Carlos Andrés 
+Valencia
+Auditorio Camilo T orres, Facultad de Derecho, 
+Ciencias Políticas y Sociales, y Auditorio 
+Facultad de Artes, Universidad Nacional de 
+Colombia, Bogotá
+MAYO 7 Y 8 Primer Comité Operativo Bogotá
+AGOSTO  20 Y 21 Primera sesión de la MANE Universidad Distrital Francisco José de 
+Caldas, Bogotá
+SEPTIEMBRE  10 Segundo Comité Operativo Universidad Nacional de Colombia, Palmira.
+OCTUBRE  1 T ercer Comité Operativo Universidad del Valle, Cali
+OCTUBRE  15 Y 16 Segunda sesión de la MANE 
+Jan Farid Cheng Lugo
+Auditorio León de Greiff, Universidad 
+Nacional de Colombia, Bogotá
+NOVIEMBRE  5 Cuarto Comité Operativo Edi/f_icio de la Facultad de Sociología, 
+Universidad Nacional de Colombia, Bogotá
+NOVIEMBRE  12 T ercera sesión de la MANE 
+(sesión de emergencia)
+Auditorio León de Greiff, concha acústica, 
+Universidad Nacional de Colombia, Bogotá
+NOVIEMBRE  13 Y 14 Primer Encuentro Nacional 
+Programático
+Auditorio León de Greiff, edi/f_icio de 
+Sociología, Universidad Nacional de 
+Colombia, Bogotá
+DICIEMBRE  3 Y 4 T ercera sesión de la MANE Universidad Surcolombiana, Neiva
+para 2011 de cara a la reforma de la Ley 30. Se planteó la necesidad de 
+construir un espacio amplio, no sólo de organizaciones, para avanzar 
+en la unidad programática, organizativa y de movilización, con respeto 
+a las formas de organización locales y regionales. En la MANE  podían 
+participar todas las expresiones organizativas del estudiantado, con la 
+condición de que acogieran las conclusiones de ese encuentro y part i-
+ciparan en las mesas amplias por universidad, ciudad o departamento. 
+Finalmente, se conformó el Comité Operativo, inicialmente “por las 
+organizaciones de la mesa que así lo deseen”, para garantizar la com u-
+nicación a nivel nacional, evaluar compromisos, convocar y agendar 
+las plenarias de la mesa, y operativizar las decisiones. El propósito era 
+generar un espacio programático para producir una ley de educación 
+superior alternativa
+61
+. Según la “Declaración política”
+62
+ del Primer 
+Comité Operativo la figura de las Mesas Amplias Estudiantiles se había 
+replicado en varias regiones y en universidades públicas y privadas.
+La Primera Sesión de la MANE , el 20 y 21 de agosto, definió que el 
+61.  “Conclusiones del Encuentro Nacional Estudiantil del 19 y 20 de marzo de 2011 en 
+Bogotá”, en http://www.moir.org.co/Conclusiones-del-Encuentro.html. Consultado el 7 de 
+noviembre de 2011.
+62.  “Declaración Política del Comité Operativo de la Mesa Amplia Nacional Estudiantil 
+del 7 de mayo de 2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de 
+noviembre de 2011.
+
+=== PAGINA_PDF 27 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+166
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Comité Operativo estaría formado por dos miembros de cada organiz a-
+ción local o nacional
+63
+. El trabajo se organizó en tres mesas: organizativa, 
+programática y de movilización, cuyas conclusiones se ratificaron en una 
+plenaria. La “Declaración”
+64
+ del evento llamaba a fortalecer las Mesas 
+Amplias y construirlas donde no existieran, aceptando la permanencia de 
+los procesos organizativos donde no se quisiera formar mesas amplias
+65
+. 
+El Segundo Comité Operativo, el 10 de septiembre, se realizó en Palmira 
+a propósito de los 40 años del “Programa Mínimo de Palmira”. Decidió 
+establecer las comisiones de comunicaciones y derechos humanos
+66
+, 
+que se conformarían en una reunión, el 24 de septiembre en Bogotá, lo 
+cual tendió a centralizar el trabajo
+67
+. El evento estuvo marcado por una 
+acalorada discusión sobre el momento de iniciar el paro que no pudo 
+concluirse, por lo que se aplazó para el Tercer Comité Operativo, real i-
+zado en Cali el primero de octubre. En este último escenario, además de 
+saldar la discusión sobre el inicio del paro, se reunieron las comisiones de 
+comunicaciones, encargadas de la Consulta Nacional Universitaria y de 
+derechos humanos
+68
+.
+63.  “Con unanimidad sobre el paro nacional universitario concluyó el primer encuentro 
+de la Mesa Amplia Nacional Estudiantil”, en http://estudiantescolombia.wordpress.
+com/2011/08/22/con-unanimidad-sobre-el-paro-nacional-universitario-concluyo-el-
+primer-encuentro-de-la-mesa-amplia-nacional-estudiantil/. Consultado el 7 de noviembre 
+de 2011.
+Sin embargo, ese criterio no es rígido, dado el carácter amplio del espacio: “El Comité 
+Operativo está compuesto por dos personas de cada proceso organizativo local, 
+regional o nacional. Nosotros tenemos voceros de asambleas, de las organizaciones, dos 
+fundamentalmente. Eso no se ha hecho realidad porque no estamos en un momento de 
+unidad tal que nos permita, por ejemplo, sacar a alguien de un Comité Operativo, si llegan 
+cinco personas uno no les va a decir se quedan dos se van tres. Lo que intentamos es 
+pues que se queden todos y con todos intentamos hacer el proceso. Eso ha diﬁcultado el 
+trabajo de los comités operativos” (Entrevista 3).
+64.  “Declaración de la Mesa Amplia Nacional Estudiantil (MANE )”, en http://www.
+ocecolombia.com/2011/09/declaracion-de-la-mesa-amplia-nacional.html. Consultado el 7 
+de noviembre de 2011.
+65.  “Conclusiones de las mesas de trabajo de la Mesa Amplia Nacional de Estudiantes”, 
+en http://funcomisionesmodep.org/index.php?option=com_content&view=article&id
+=85:conclusiones-de-las-mesas-de-trabajo-de-la-mesa-amplia-nacional-de-estudiantes-
+&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+66.  “Conclusiones del Comité operativo de la MANE  del 10 de septiembre de 2011”, 
+en http://www.ocecolombia.com/2011/09/conclusiones-del-comite-operativo-de-la.html. 
+Consultado el 7 de noviembre de 2011.
+67.  “Otro problema organizativo fue que las comisiones de la Unal [Universidad Nacional de 
+Colombia Sede Bogotá] terminaron casi que por convertirse en nacionales” (Entrevista 8).
+68.  “Consulta Nacional Universitaria - Circular”, en http://manecolombia.blogspot.com/. 
+Consulado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 28 ===
+167
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+En la Segunda Sesión de la MANE , el 15 y 16 de octubre, se creó 
+la comisión académica, para sistematizar las conclusiones del trabajo 
+programático local y preparar el Encuentro Nacional Programático del 
+12 y 13 de noviembre
+69
+, a fin de consolidar una exposición de motivos 
+alternativa. La estructura de la MANE  quedó compuesta por la plenaria, 
+el Comité Operativo y las comisiones de comunicaciones, derechos 
+humanos y académica.
+Las tensiones
+El proceso organizativo ha tenido que enfrentar distintas tensiones 
+para conservar la unidad: por el funcionamiento asambleario mismo, 
+entre grandes y pequeñas organizaciones o sectores no organizados 
+con distintas lecturas del momento político, alrededor de las vocerías y 
+entre la MANE  y las regiones.
+En primer lugar, las instancias de la MANE  y su funcionamiento 
+asambleario han sido desbordados por el acelerado crecimiento de la 
+participación. Las plenarias tuvieron entre 2.000  y  5.000  personas y 
+los Comités Operativos entre 150 y  300. Esto ha llevado a un debate 
+sobre el manejo de las asambleas y los mecanismos de toma de deci -
+siones. En las asambleas se practica una democracia radical. General -
+mente, al comienzo se proponen los moderadores, cualquiera de los 
+asistentes se puede postular
+70
+. Luego se discute el orden del día punto 
+por punto, hasta alcanzar consensos. Si existe un disenso la discusión 
+continúa. Al final, los consensos y disensos se recogen en una relatoría 
+aprobada por la plenaria. Sin embargo, también existen relaciones de 
+poder desiguales, que se manifiestan, por ejemplo, en acuerdos pre -
+vios para conformar la mesa moderadora o redactar la relatoría, y una 
+tensión entre el consenso y la mayoría en la toma de decisiones, pues 
+69.  “Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com_
+content&view=article&id=96:mesa-amplia-nacional-estudiantil-qjan-farid-cheng-
+lugoq&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+70.  “Usualmente estas ocho organizaciones proponemos ante la MANE  moderadores y 
+relatores. Hemos logrado un consenso en cuanto a que para mesas un moderador y dos 
+relatores, para plenaria dos moderadores y tres relatores, ese es el esquema. Usualmente 
+se pregunta si alguien más desea moderar, hacer relatoría, hacer parte de la mesa. 
+Eventualmente se vinculan algunas personas, otras veces no. La única vez que no se 
+hizo eso fue en la última MANE  [del 12 de noviembre] un poco porque sabíamos que 
+el ambiente iba a estar muy tenso, pero también porque necesitábamos una persona de 
+experiencia, mucha gente cree que por haber moderado en una asamblea de su facultad 
+sabe moderar, y 14 horas de moderación, de la forma en la que la hizo la mesa esa vez, no 
+te las hace cualquiera, inclusive dentro de las organizaciones” (Entrevista 3).
+
+=== PAGINA_PDF 29 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+168
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+las arengas o los aplausos señalan la existencia de mayorías o minorías.
+El consenso ha sido un mecanismo tradicional para decidir en el 
+movimiento estudiantil, por la presencia de imaginarios de democracia 
+radical y acción directa, que lo distingue del movimiento obrero, donde 
+se privilegia la representación y la decisión por mayoría
+71
+. Además, 
+está articulado a la intención de construir un proceso de unidad que 
+no excluya la voz de las minorías. Permite recoger su opinión
+72
+ y 
+“blindar” el movimiento frente a influencias externas que puedan usar 
+mecanismos de mayoría
+73
+. Sin embargo, alcanzarlo es un proceso lento, 
+las plenarias de la MANE  se prolongan hasta por 18 horas, lo que puede 
+dificultar respuestas oportunas en coyunturas críticas, y propiciar 
+debates sobre temas no específicos. Además, en coyunturas críticas los 
+participantes llegan al debate con un juicio formado y con la intención 
+de defenderlo, más que de persuadir o ser persuadidos. Así, es muy 
+difícil que las posiciones en disenso cedan para alcanzar acuerdos, por 
+lo que, cuando antagonizan, dejan prácticamente como única opción la 
+ruptura. El desborde de los espacios ha cuestionado los mecanismos de 
+toma de decisiones y suscitado discusiones que se manifestaron al inicio 
+y final del paro y en la elección de voceros nacionales
+74
+.
+71.  “El consenso ha sido una forma tradicional del movimiento estudiantil… el 
+movimiento obrero sí tiene sus formas de delegación, de votación, ha sido un gran vicio 
+de ese burocratismo, pero es una forma tradicional del movimiento obrero el tema de la 
+mayoría. Sin embargo, el movimiento estudiantil ha tenido en el consenso una forma de 
+recoger la totalidad de los sectores, porque la votación signiﬁca que hay una minoría que 
+no va a ser representada mientras que el consenso puede representar la recolección de los 
+disensos” (Entrevista 5).
+72.  “[La toma de decisiones por consenso se debe a que] en la MANE  hay un gran miedo 
+y es a que las mayorías aplasten a las minorías y eso tiene todo el sentido porque como a 
+la MANE  llega el que quiera, entonces, ¿cuándo yo quiero imponer mi posición llevo 100 
+buses? ¡No! Y la idea es que para que todos nos sintamos recogidos, todos tenemos que 
+ceder un poquito y por eso se toma la decisión del consenso” (Entrevista 3).
+73.  “No decisiones por mayoría porque así termina decidiendo el que más buses ponga y 
+el Estado también le puede meter plata a eso” (Entrevista 8).
+74.  “Un problema es la toma de decisiones, ¿usted cómo toma decisiones en un 
+escenario donde lo que prima es el consenso y donde las deﬁniciones se toman de manera 
+asamblearia por el número de gente que llegue? Eso es un problema” (Entrevista 6).
+“La gente siente que no puede hablar en la MANE . Es físicamente imposible en 
+una asamblea de 2.000 personas. Metodológicamente ha tenido muchos problemas” 
+(Entrevista 10).
+“Se decía que no votar porque eso no garantiza democracia interna al interior de la 
+MANE , pero llega un momento en que se llega a posiciones antagónicas que no pueden 
+llegar al consenso, entonces se llega a la decisión de para un punto especíﬁco votar, pero 
+eso ha tenido muchas discusiones” (Entrevista 7).
+
+=== PAGINA_PDF 30 ===
+169
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+El Tercer Comité Operativo tenía como objetivo saldar el debate 
+sobre el momento de entrar en paro. El anterior Comité acordó tomar 
+esa decisión por votación si no se llegaba a un consenso. Era una disc u-
+sión en relación con los objetivos de la lucha nacional del movimiento y 
+los de la táctica del paro. Después de acalorados debates, que evide n-
+ciaron distintas posiciones tácticas, se decidió por mayoría. No obstante, 
+la votación no fue bien recibida, por lo que en la Segunda Sesión de la 
+MANE  se decidió institucionalizar el consenso, para fortalecer la unidad 
+en la diversidad
+75
+. Esta decisión tuvo consecuencias negativas cuando 
+se trató de elegir los voceros nacionales en ese mismo espacio, pues 
+ante la imposibilidad de alcanzar un consenso, la decisión se aplazó 
+para el Cuarto Comité Operativo, el 5 de noviembre. Se había acordado 
+que serían 15 voceros nacionales, allí se propusieron 23 personas de 
+distintas universidades y organizaciones, pero no se pudo elegir voceros 
+nacionales porque la decisión debía tomarse por consenso y ninguno 
+de los postulantes cedió en su aspiración. Finalmente, el problema 
+retornó en la MANE  de emergencia, el 12 de noviembre, donde, ante la 
+imposibilidad de alcanzar un consenso sobre la suspensión del paro y 
+las garantías para tal propósito, se decidió por votación.
+En segundo lugar, la discusión sobre el inicio del paro enfrentó 
+distintas lecturas del momento político y tuvo como ingrediente el cue s-
+tionamiento al liderazgo de las principales organizaciones estudiantiles, 
+por sectores de organizaciones locales y estudiantes no organizados. 
+La Primera Sesión de la MANE  concluyó que era necesario realizar un 
+paro estudiantil pero no llegó a un consenso sobre el inicio
+76
+. En el 
+Segundo Comité Operativo
+77
+ varios sectores, en universidades como la 
+75.  “En lo organizativo se ratiﬁca y aclara el carácter del comité operativo, quien viabiliza 
+y operativiza, dándole forma a las deﬁniciones construidas en los encuentros de la MANE , 
+quienes lo integran deben tener unidad con la MANE  como proceso, con el Programa 
+Mínimo de los estudiantes y pugnar por su fortalecimiento y construcción, las decisiones 
+son por consenso, mecanismo que ha fortalecido la unidad y la diversidad”. “Mesa 
+Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración Final”, en http://
+funcomisionesmodep.org/index.php?option=com_content&view=article&id=96:mesa-
+amplia-nacional-estudiantil-qjan-farid-cheng-lugoq&catid=34:nacionales&Itemid=37. 
+Consultado el 7 de noviembre de 2011.
+76.  “Con unanimidad sobre el paro nacional universitario concluyó el primer encuentro 
+de la Mesa Amplia Nacional Estudiantil”, en http://estudiantescolombia.wordpress.
+com/2011/08/22/con-unanimidad-sobre-el-paro-nacional-universitario-concluyo-el-primer-
+encuentro-de-la-mesa-amplia-nacional-estudiantil/. Consultado el 7 de noviembre de 2011.
+77.  “Conclusiones del Comité Operativo de la MANE  del 10 de septiembre de 2011”, 
+en http://www.ocecolombia.com/2011/09/conclusiones-del-comite-operativo-de-la.html. 
+Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 31 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+170
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+UTP, la Universidad de Antioquia y la Pedagógica, habían entrado en 
+paro y proponían que se decretara una hora cero inmediata para el paro 
+nacional. Se articulaban con la consigna “paro oportuno” y afirmaban 
+que el movimiento no podía supeditarse a la agenda legislativa. Este 
+sector rivalizó con la mayoría de organizaciones nacionales, quienes 
+mantenían que aún no se podía entrar en paro, porque no se conocía el 
+proyecto de ley y, si se declaraba el paro en ese momento, el Gobierno 
+esperaba a que se acabara para radicar el proyecto.
+El disenso se planteó como una disputa entre los autodenominados 
+estudiantes independientes, no organizados o miembros de organiz a-
+ciones locales, y las grandes organizaciones, aunque había sectores no 
+organizados y organizaciones locales que optaban por la posición de 
+entrar en paro cuando se radicara la ley. Los primeros, con presencia 
+en universidades como la UTP, la Pedagógica, la Universidad de 
+Antioquia, la del Tolima, la de Ocaña y la de Pamplona, sostenían que 
+las organizaciones estudiantiles querían controlar la MANE . El Comité 
+en Palmira se prolongó por más de 12 horas. El único consenso fue que 
+debería haber otro comité, en Cali el 1 de octubre, y que era necesario 
+convocar asambleas por universidad para discutir su posición sobre en 
+qué momento empezar el paro: cuando iniciara el trámite legislativo o 
+de inmediato. Cada universidad tendría un voto, excepto la Nacional 
+con cuatro de acuerdo a sus sedes. Para el Tercer Comité Operativo, 
+los sectores que reivindicaban el paro inmediato se organizaron en la 
+Red Nacional de Estudiantes Independientes, para notar que no eran 
+parte de organizaciones nacionales. Era una coalición de organizaciones 
+locales de distintas regiones con diversas orientaciones ideológicas 
+unida por su discurso antiorganización, la oposición a que las organiz a-
+ciones nacionales hegemonizaran la MANE . Fue imposible alcanzar un 
+consenso y se decidió someter a votación las dos propuestas antagónicas: 
+“23 Universidades votaron a favor de la propuesta de iniciar el paro, 
+teniendo en cuenta la fecha de radicación del proyecto de ley, mientras 
+el paro inmediato tuvo cuatro votos. Voceros de ocho  universidades 
+se abstuvieron de votar”
+78
+. El Gobierno radicó su propuesta de ley dos 
+días después del evento, el lunes 3 de octubre. Así pues, “lo que salvó la 
+unidad fue que Santos radicara el proyecto” (Entrevista 10).
+En tercer lugar, hubo tensiones por la elección de las vocerías. 
+Desde la Primera Sesión de la MANE  se planteó la necesidad de elegir 
+78.  “Se llevó a cabo la reunión del Comité Operativo de la Mesa Amplia Nacional de 
+Estudiantes en la Cali”, en http://prensauniversidad.tk/. Consultado el 7 de noviembre de 
+2011.
+
+=== PAGINA_PDF 32 ===
+171
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+voceros nacionales, pues urgía la interlocución con la prensa
+79
+. Pero se 
+trataba de un tema demasiado sensible, por lo que se fue postergando
+80
+. 
+En la Segunda Sesión se abordó el tema con un álgido debate, pero no 
+se llegó a consenso. La discusión se estructuró en torno a la necesidad 
+de vocerías regionales que no fueran sólo de organizaciones y se 
+acordó que las regiones debían elegir sus voceros antes de elegir los 
+nacionales. También se decidió que el 5 de noviembre se reuniría un 
+Comité Operativo en el que se elegirían, por consenso, quince voceros 
+nacionales
+81
+.
+La Mesa Amplia Distrital de Bogotá, el 19 de octubre, eligió por 
+votación once voceros. La Red de Estudiantes Independientes propuso 
+candidatos que no alcanzaron la votación. Como antes se afirmó, la 
+elección de los voceros nacionales se frustró en el Comité Operativo 
+del 5 de noviembre, porque no se alcanzó el consenso. Se acordó que la 
+decisión debería tomarla la plenaria y no un Comité Operativo. En fin, 
+no se eligieron voceros nacionales y, en la práctica, quienes empezaron 
+a llevar a cabo la interlocución con los medios fueron los voceros 
+distritales. Ello provocaría descontentos, el protagonismo de los voceros 
+distritales sería cuestionado por estudiantes de organizaciones locales 
+y regionales y no organizados, que no los consideraban representativos 
+por provenir de las organizaciones que habían convocado el Encuentro 
+de marzo y de la Universidad Nacional sede Bogotá en su mayoría.
+En cuarto lugar, hubo una discusión sobre la articulación de las 
+regiones a la MANE  que se manifestó en la sesión de emergencia del 
+12 de noviembre, alrededor de la suspensión del paro, luego de que el 
+Gobierno declarara la intención de retirar el proyecto de ley. El debate 
+79.  “Se ha venido discutiendo la necesidad de tener unas vocerías del carácter nacional… 
+y es evidentemente por la característica que hoy tiene el movimiento y es que este 
+movimiento tiene medios de comunicación a diferencia de otros. Hay una cosa muy 
+particular y es que el estudiantado se da el lujo de convocar ruedas de prensa… digamos 
+que la vocería es una necesidad, es una necesidad que tiene el movimiento pero que no ha 
+sabido saldarse porque lo que no se ha podido saldar es cómo deﬁnimos esas vocerías, si 
+por procesos nacionales, locales” (Entrevista 5).
+80.  “Hay organizaciones de nivel nacional, de nivel local, hay organizaciones de nivel 
+nacional grandes y pequeñas, entonces lo que va a suceder es que va a haber una 
+disputa muy fuerte porque esas vocerías implican como cierto protagonismo y cierta 
+posibilidad de tener más voz y voto y de posicionar las agendas de los desarrollos de cada 
+organización. Eso es algo normal, es algo que sucede en la política” (Entrevista 2).
+81.  “Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com_
+content&view=article&id=96:mesa-amplia-nacional-estudiantil-qjan-farid-cheng-
+lugoq&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 33 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+172
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+se estructuró por lecturas encontradas de la coyuntura política. La Red 
+de Estudiantes Independientes proponía no levantar el paro, mientras 
+la mayoría de las principales organizaciones y universidades pensaban 
+que se debía suspender el paro planteando al Gobierno unas exigencias. 
+Pero además de la tensión entre las organizaciones y sus críticos, se 
+hizo presente la tensión entre el centro y las regiones, pues también 
+había sectores de las regiones que participaron en la Toma a Bogotá y 
+que, dadas las situaciones particulares de sus universidades, no querían 
+levantarlo. Tanto los sectores de la Red, como distintas delegaciones 
+de las regiones se mostraban inconformes con el protagonismo de los 
+voceros distritales. Fue la coyuntura más crítica, pues el retiro del 
+proyecto de ley no se había tenido en cuenta
+82
+. Si el movimiento persi s-
+tía en el paro podía desgastarse y perder el apoyo de diversos sectores. 
+Si lo suspendía corría el riesgo de que el Gobierno no cumpliera.
+Había un disenso en la lectura del momento político. Para los que 
+no querían suspender el paro, la promesa del Gobierno de retirar el 
+proyecto de ley no alteraba el escenario y no había que cambiar la 
+táctica, el paro. El anuncio era una treta del Gobierno para desmo -
+vilizar el estudiantado, como había hecho con otras movilizaciones, 
+como el paro camionero. Además, los objetivos del paro, el retiro del 
+proyecto de ley y las garantías para la construcción democrática de una 
+propuesta de educación alternativa, no eran efectivos. Para los que se 
+inclinaban por suspender el paro, el anuncio del retiro del proyecto 
+era una victoria parcial del movimiento que cambiaba el escenario. Se 
+había ganado apoyo de la opinión pública, ahora el interlocutor era el 
+presidente, se cumplía el principal objetivo: el retiro del proyecto, por 
+lo que era necesario cambiar la táctica suspendiendo el paro. Así se 
+evitaba el desgaste de esa táctica y se conservaba el apoyo de la opinión 
+pública, permitiendo al movimiento concentrarse en el desarrollo de la 
+propuesta alternativa y la preparación del paro cívico nacional de abril 
+de 2012. Por eso hacían un llamado a pensar la lucha en el mediano 
+plazo.
+La discusión fue álgida y se prolongó hasta la madrugada. Las 
+distintas lecturas del escenario político se plantearon como un 
+disenso entre los inconformes con las organizaciones y estas, y entre 
+las regiones y la MANE . Tomó fuerza el postulado, por parte de un 
+82.  “Muchas veces se hizo la lectura que el Gobierno no iba a retroceder, que no la iba a 
+retirar [el proyecto de ley], en parte por eso también la MANE  del ﬁn de semana [MANE  
+extraordinaria del 12 de noviembre] fue como tan confusa, pues porque nadie tenía en la 
+cabeza que el Gobierno iba a retirar… no lo esperábamos” (Entrevista 4).
+
+=== PAGINA_PDF 34 ===
+173
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+sector, de que la plenaria no podía tomar la decisión de suspender 
+el paro, dado que la decisión de entrar en paro había sido de las 
+asambleas de las universidades. Tras esta posición se encontraba 
+la convicción de que las organizaciones y los voceros distritales 
+querían hegemonizar la MANE  y decidir por las regiones. Por eso, 
+los sectores independientes y distintas delegaciones regionales 
+propusieron postergar la decisión hasta consultar a las asambleas. El 
+ambiente se puso cada vez más tenso y no operaban las consignas 
+de unidad con las que se intentaba proteger el proceso de una 
+ruptura. Cerca a la media noche, aproximadamente 250 personas 
+de distintas regiones, de cerca de 1.600 , abandonaron la asamblea. 
+La reunión continuó y se planteó un debate sobre las exige ncias 
+y condiciones para la suspensión del paro. Finalmente, distintas 
+alternativas se sometieron a votación. La Declaración Política
+83
+, del 
+13 de noviembre de 2011, puso como condiciones: el retiro efectivo 
+del proyecto; que el Gobierno demostrara voluntad para formular 
+con la comunidad universitaria la metodología para construir una 
+reforma; y garantías políticas y civiles para el derecho a la protesta. 
+Insistía en que era responsabilidad del Estado la crisis financiera 
+de la educación superior y exigía el retiro del Esmad de las univer -
+sidades y la libertad para los estudiantes detenidos en el proceso de 
+movilización.
+El grupo que se retiró de la plenaria en la madrugada, estudiantes 
+de distintas regiones y no organizados o de organizaciones locales que 
+no se sentían representados, desarrolló una asamblea que se denom i-
+naría “Estudiantes de la MANE  con disenso”. En esta reunión hubo un 
+consenso en que las decisiones deberían tomarse en las asambleas de 
+las universidades y no en la MANE  y que las garantías adoptadas por la 
+plenaria no eran suficientes para levantar el paro. Inicialmente había 
+dos posiciones: una de crítica y otra de ruptura que se manifestaron en 
+la discusión sobre si el comunicado producto de esa asamblea debería 
+ser externo, dirigido a la opinión pública, o interno. Se concluyó que un 
+comunicado externo debilitaría el movimiento al mostrarlo dividido, se 
+acordó que el comunicado sería interno y se salvaguardaría la unidad.
+En la reunión se afirmó que la MANE  no había garantizado a las 
+regiones inclusión e igualdad, las decisiones importantes se estaban 
+83.  “Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com_
+content&view=article&id=96:mesa-amplia-nacional-estudiantil-qjan-farid-cheng-
+lugoq&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 35 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+174
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+tomando en Bogotá, y se criticó el “vanguardismo” de las organiz a-
+ciones. Se produjo un comunicado, “Porque la MANE  somos todos y 
+todas”
+84
+, donde se planteó la necesidad de una reestructuración, para 
+que la toma de decisiones residiera en las asambleas de las univers i-
+dades y se descentralizaran los encuentros. El paro debía mantenerse 
+hasta alcanzar: el retiro del proyecto; garantías democráticas: para 
+construir un proyecto de ley, desmilitarización de las universidades, 
+puesta en libertad de los estudiantes detenidos; garantías académicas: 
+reprogramación del semestre académico, incluso donde fue cancelado, 
+levantamiento de procesos disciplinarios donde se hayan producido 
+como consecuencia del paro; y el pago de la deuda a las universidades 
+públicas con plazo máximo a febrero de 2012.
+Aunque los comunicados tenían contenidos similares, lo que en el 
+“oficial” aparecía como exigencia, desmilitarizar los campus universit a-
+rios, la puesta en libertad de los estudiantes detenidos o la solución de 
+la crisis financiera de las universidades públicas, en el comunicado de 
+los estudiantes con disenso se presentaba como condición para levantar 
+el paro. Además, ponía de presente una concepción distinta de lo que 
+debería ser la MANE , como espacio de coordinación, que mantenía el 
+poder de decidir en las asambleas de las universidades. El suceso puso 
+en evidencia problemas de legitimidad de la MANE  que se explican 
+porque el espacio fue desbordado por la participación. Ello hizo que 
+muchas de las personas que se habían sumado al proceso en el camino 
+desconocieran los objetivos y exigencias que se había planteado el paro, 
+e intentaran fijar nuevas volviendo atrás en ciertos debates. También se 
+evidenciaron las falencias de comunicación con el estudiantado de base 
+en las regiones.
+En la Cuarta Sesión de la MANE  se discutió su reestructuración. El 
+mayor disenso se produjo por la caracterización, si era un espacio de 
+orientación o de coordinación, y dónde residía la toma de decisiones, 
+en la plenaria o las asambleas locales. Quienes se inclinaban por esta 
+última opción sostenían que la MANE  no podía decidir por una univer -
+sidad local o regional con problemas particulares. Sus contradictores, 
+afirm aban que una asamblea local no podía decidir por el resto de 
+localidades y lo que había fortalecido al movimiento era poder hablar 
+un mismo lenguaje en todo el país al mismo tiempo. Al final se acordó 
+que las máximas instancias de decisión en lo local eran los espacios 
+84.  Estudiantes de la MANE  con disenso, “Porque la MANE  somos todos y todas”, Bogotá, 
+noviembre 13 de 2011.
+
+=== PAGINA_PDF 36 ===
+175
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+de discusión o asambleas y la MANE  era un espacio “orientador”
+85
+. 
+La otra discusión fue sobre la toma de decisiones. Se propuso que los 
+espacios locales designaran voceros con una posición para ser discutida 
+en la MANE  y que luego se retornara a las localidades para decidir, y 
+discriminar por el tipo de decisión, si es o no urgente, para planear 
+procedimientos y tiempos. Se acordó mantener el mecanismo del 
+consenso, pero se planearon opciones para solventar situaciones donde 
+no se alcanzara: crear una tercera opción hacia la que las distintas 
+partes pudieran ceder y, en caso de persistir el disenso, consultar los 
+espacios de decisión local por IES
+86
+. Las principales organizaciones 
+cedieron para no romper el proceso. No se tocaron los demás puntos 
+de reestructuración, el tema de las vocerías, por cuestión de tiempo. 
+Se decidió terminar el proceso en un encuentro organizativo el 28 de 
+enero.
+Los marcos, el discurso político y la praxis cultural
+El concepto de marcos de acción colectiva denota “esquemas 
+interpretativos” mediante los cuales los participantes en un movimien -
+to social conciben y explican el mundo (Snow y Benford, 1992 :137), 
+“significados compartidos que impulsan a las personas a la acción 
+colectiva” (Tarrow, 1997:57), y es un correctivo al estructur alismo de 
+ciertos enfoques. Recalca la importancia de la cultura en los procesos 
+de movilización, parte de una epistemología constructivista donde los 
+significados son construidos socialmente y los intereses materiales no 
+se traducen por sí mismos en guías para la acción (Tarrow, 1999 :209 ), 
+y presta atención al papel de los actores pues “tanto la cultura como 
+el proceso enmarcador de ideas se conciben estratégicamente” (Zald, 
+85.  “En cuanto al debate organizativo de la MANE  se evidenció el compromiso en su 
+fortalecimiento, desde cada escenario democrático estudiantil que se tiene en el país, 
+la MANE  reconoce en cada uno de ellos, el espacio amplio, orientador de la expresión y 
+el actuar del movimiento estudiantil su diversidad y pluralidad, la MANE  se ha venido 
+posicionando como un referente para el estudiantado de la educación superior en 
+Colombia y ha permitido articular sus diferentes luchas. Reiteramos que las orientaciones 
+de la MANE  son fruto del desarrollo de los procesos locales y regionales, NO son 
+imposiciones frente a los mismos, resaltando que estos espacios democráticos o asambleas 
+locales son la máxima instancia de decisión en lo local”.
+ 
+“Declaración de la IV Sesión 
+Mesa Amplia Nacional Estudiantil (MANE ) 3 y 4 de diciembre de 2011, Universidad 
+Sur Colombiana, Neiva”, en http://manecolombia.blogspot.com/. Consultado el 10 de 
+diciembre de 2011.
+86.  “Declaración de la IV Sesión Mesa Amplia Nacional Estudiantil (MANE ) 3 y 4 de 
+diciembre de 2011, Universidad Sur Colombiana, Neiva”, en http://manecolombia.
+blogspot.com/. Consultado el 10 de diciembre de 2011.
+
+=== PAGINA_PDF 37 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+176
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+1999 :369 ). Así, comprende la preocupación de los teóricos de los 
+nuevos movimientos sociales por los procesos que median entre las 
+estructuras y la acción, y la construcción de la identidad
+87
+.
+El objetivo de los marcos es “forjar formas compartidas de 
+considerar el mundo y a sí mismos que legitimen y muevan a la acción 
+colectiva” (McAdam, McCarthy y Zald, 1999 :27). Implican un conflicto 
+entre distintas visiones del mundo, explicaciones a los problemas, 
+soluciones y cursos de acción, tanto en el interior de los movimientos 
+como en su ámbito externo (Zald, 1999 :370; Rivas, 1998 :207). Esta 
+perspectiva dialoga con el análisis del discurso (Johnston, 2002 :63). En 
+el análisis político del discurso de Laclau y Mouffe ( 1987, 105-165), las 
+identidades se forman en la lucha hegemónica a partir de dos tipos de 
+relación: las articulaciones,  por las cuales elementos distintos son parte 
+de una misma identidad en cuanto se constituyen en equivalentes, y el 
+antagonismo , que permite definir los límites de la identidad en tanto 
+constituye un “Otro”, contra el cual los elementos articulados son equ i-
+valentes. Así, analizar un marco de acción colectiva implica identificar: 
+(1) el diagnóstico de la realidad, porqué las cosas no son como deberían 
+ser y quiénes son los responsables, el antagonismo; ( 2) la identidad, o la 
+autodefinición de un “nosotros” a partir de articulaciones, que están de 
+acuerdo con ( 3) una solución a los problemas, deber ser en función del 
+cual se produce la acción colectiva.
+El éxito del movimiento estudiantil en la articulación de distintos 
+sectores y su impacto en la opinión pública se deben en buena parte a 
+sus marcos y discursos. Los voceros vincularon la crítica de la reforma a 
+la Ley 30 con la del modelo de educación y de país. El éxito
+88
+ se explica 
+por una estrategia deliberada que incluyó el estudio de los discursos de 
+la ministra de educación y la producción de argumentos que facilitaran 
+la comunicación de los propósitos del movimiento:
+Nosotros y nosotras tuvimos una intencionalidad política, deﬁni-
+87.  Melucci (1999, 61 y 66) aﬁrmaba: “Entre el análisis de los determinantes estructurales 
+y el de las preferencias individuales falta el análisis del nivel intermedio relacionado 
+con los procesos mediante los cuales los individuos evalúan y reconocen lo que tienen 
+en común y deciden actuar conjuntamente”. “La identidad colectiva es, por lo tanto, un 
+proceso mediante el cual los actores producen las estructuras cognitivas comunes que les 
+permiten valorar el ambiente y calcular los costos y beneﬁcios de la acción”.
+88.  [El respaldo de la opinión pública se explica] “fundamentalmente porque en términos 
+de opinión pública los pocos debates que hubo con el Gobierno nacional fueron debates 
+donde los estudiantes los ganaron todos, las audiencias en el Congreso, las entrevistas vía 
+medios de comunicación fueron escenarios de interlocución donde a través de la razón y 
+los argumentos se dejó mal parado al Gobierno nacional” (Entrevista 4).
+
+=== PAGINA_PDF 38 ===
+177
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+mos dentro de la MANE  tener frases que representaran el movimiento 
+estudiantil y eran: “esta no va a ser la generación que vio morir la 
+universidad pública”, “cinco años estudiando y quince pagando”, 
+“preﬁero perder un semestre en la universidad que la universidad 
+en un semestre”. Con esas consignas nosotros y nosotras estábamos 
+dispuestos a dar debates abiertamente al público, en las audiencias 
+públicas, en donde fuera. Previo a las audiencias públicas, por ejemplo, 
+nos reuníamos y deﬁníamos y nos corregíamos, “eso se dice, eso no se 
+dice, esto va así”, pero hacíamos gran hincapié en dejar unas frases, 
+que la opinión pública las adoptara, se hiciera parte de ellas, y digamos 
+que dio resultado. (Entrevista 5)
+En el discurso del movimiento el principal antagonista es el 
+Gobierno, cuyo proyecto pretende reducir la educación a una mercancía 
+subordinada a los criterios del mercado global, en vez de constituirla 
+como un derecho según criterios de pertinencia para las necesidades 
+del país. La lucha no es sectorial, se proyecta como lucha del pueblo 
+colombiano, articula la diversidad del estudiantado y otros sectores 
+populares, pone en práctica una política cultural que desafía los 
+significados hegemónicos de educación, universidad y democracia, y 
+avanza hacia un proyecto de educación gratuita y de calidad al servicio 
+del pueblo. Su praxis cultural se caracteriza por la renovación en los 
+repertorios de acción de contenido simbólico que también buscan 
+comunicar y articular.
+El diagnóstico de la realidad y la deﬁnición de antagonismos
+El diagnóstico permite al movimiento atribuir responsabilidades y 
+definir sus antagonistas: las políticas del gobierno Santos profundizan el 
+modelo neoliberal, que reduce la educación a una mercancía en lugar de 
+concebirla como un derecho. Existe un “marco maestro” estructurado 
+por el derecho a la educación
+89
+. El principal antagonista es el Gobierno 
+y su modelo de educación que se proyecta a un modelo de país donde se 
+profundiza la desigualdad social. Esto se expresó con consignas como: 
+“Las universidades públicas no son empresas” y “Ni Ley 30 ni reforma”. 
+En el Encuentro Nacional Estudiantil, el 19 y 20 de marzo, se afirmó 
+que el gobierno Santos profundizaba el modelo neoliberal y la reforma a 
+89.  Snow y Benford (1992, 246) plantean que un marco maestro es aquel que se usa para 
+movilizar un “sector” de movimientos, como el marco de “derechos” o el de “autonomía”. 
+Ello implica cierta “modularidad” en el marco, es decir, su capacidad para ser usado por 
+distintos actores en diversos contextos (Tarrow, 1997:69).
+
+=== PAGINA_PDF 39 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+178
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+la Ley 30 hacía de la educación una mercancía y un negocio, en vez de 
+un derecho, y del estudiante un cliente, en lugar de un ciudadano. Estos 
+postulados fueron recurrentes:
+El articulado contenido en dicho proyecto atenta contra la 
+ﬁnanciación de las universidades, contra la autonomía universitaria 
+y reduce la educación a una mercancía, alejándola del profundo 
+sentido crítico y transformador que la debe caracterizar, a esta 
+situación debemos agregar que todo el articulado fue elaborado a 
+espaldas de la sociedad colombiana y de la comunidad universitaria 
+en general.
+90
+La mercantilización de la educación es rechazada porque impone un 
+modelo de nación que conlleva mayor desigualdad: “En la universidad 
+Colombiana se sigue profundizando la crisis, producto de un modelo de 
+nación que somete a la universidad colombiana a criterios mercantiles y 
+de profunda desigualdad social”. Ello implica abandonar la posibilidad 
+de un modelo de educación de calidad, que responda a las necesidades 
+del país, y reducirla a “instrucción de mano de obra barata”:
+Tal Gobierno ha anunciado en su Plan Nacional de Desarrollo la 
+necesidad de adecuar los programas académicos a las necesidades de 
+sus “locomotoras”: Gran Minería, Gran Plantación e Infraestructura, 
+innovación, hecho que persistirá indefectiblemente en la degradación 
+académica de la Educación Superior, reduciendo este nivel de formación 
+a simple instrucción de mano de obra barata, supeditado a la “pertinen-
+cia” del mercado laboral y la llamada prosperidad democrática.
+91
+Estos postulados se sustentan en un discurso técnico que muestra el 
+conocimiento del movimiento sobre la política económica del gobierno 
+Santos
+92
+, y se esgrimieron en las movilizaciones con lemas como: “Cinco 
+90.  “Comunicado a propósito de la radicación de la Ley de Educación Superior”, en 
+http://www.conapcolombia.org/?p=1454. Consultado el 7 de noviembre de 2011.
+91.  “Convocatoria Encuentro Nacional Estudiantil, 19 y 20 de marzo de 2011”, en http://
+prensauniversidad.tk/. Consultado el 7 de noviembre de 2011.
+92.  “A dicho modelo de país le corresponde un modelo de educación que persiste en el 
+propósito de degradarla, en especial, la de tipo universitaria. Las acciones e iniciativas 
+del Gobierno Santos corroboran este cometido. En los artículos 80 y 81 del Plan 
+Nacional de Desarrollo revive, del derogado Decreto 3545 de 2004, el criterio de los 
+‘indicadores de gestión’ para asignar los recursos a las universidades del Estado, pues 
+los supedita al cumplimiento de los criterios de cobertura, eﬁciencia y degradación 
+académica con lo cual vulnera la autonomía y democracia universitarias. En el mes 
+de octubre de 2010, en la aprobación del presupuesto general de la nación, recortó 
+para 2011 cerca de $200.000 millones a las universidades del Estado, de igual forma, 
+
+=== PAGINA_PDF 40 ===
+179
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+años estudiando y quince pagando”, para rechazar el subsidio a la 
+demanda vía Icetex y “Más lápices, menos balas”, que daba a entender 
+que debían destinarse menos recursos a la seguridad y la defensa y más 
+a la educación superior. De hecho, para el movimiento el problema 
+no es la carencia de recursos, pues estos han crecido en seguridad y 
+defensa y el pago de la deuda pública, en contraste con el permanente 
+recorte del presupuesto para educación:
+Esta propuesta se complementa con la Reforma Constitucional que 
+prescribe la sostenibilidad ﬁscal como principio constitucional. Acorde 
+con esta reforma el gasto público, y en particular el que se relaciona 
+con derechos de tipo social y económico, como el de la educación, 
+será seriamente recortado pues se hace indispensable para mantener 
+tanto los gastos en seguridad y defensa, así como el pago de la deuda 
+pública que ha crecido tanto en monto como en su servicio. Entre 2000 
+y 2009 esta pasó de $64 a $177 billones de pesos pues, a pesar de que 
+los desembolsos realizados por Colombia costaron $263 billones, los 
+nuevos préstamos ascendieron a $266.
+93
+En contra de los postulados del Gobierno, según los cuales el 
+movimiento no conocía la propuesta de reforma, su discurso despliega un 
+análisis minucioso de la misma
+94
+. Finalmente, el movimiento denigra del 
+y como consecuencia de la ausencia de recursos públicos, estas instituciones han sido 
+compelidas a incrementar sus recursos propios por medio del aumento de las matrículas 
+y de la extensión, entre otros, y a contraer préstamos con el sector ﬁnanciero para 
+sustentar sus actividades, mecanismo que se profundiza con la nueva Ley de Educación 
+Superior. Ejemplo de este perverso modelo es el de la Universidad Nacional cuya 
+autoﬁnanciación es cercana al 50% de su presupuesto. Además, ya aprobó un cupo de 
+endeudamiento hasta por $169.000 millones y un préstamo de $107.000 millones, lo 
+cual supedita la investigación, la extensión y la producción cientíﬁca y académica al pago 
+de tales obligaciones”. “Declaración Política del Encuentro Nacional Estudiantil del 19 
+y 20 de marzo de 2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de 
+noviembre de 2011.
+93.  “Declaración Política del Encuentro Nacional Estudiantil del 19 y 20 de marzo de 
+2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de noviembre de 2011.
+94.  “Además de esta característica tal reforma no resuelve la crisis ﬁnanciera de las 
+universidades, que según el SUE , supera los $500.000 millones de déﬁcit, y además 
+mantiene la base presupuestal de 2011 (art. 103) con los incrementos anuales del IPC , 
+es decir, el antiguo artículo 86. El presupuesto de las universidades públicas seguirá 
+congelado, congelación que ya lleva 19 años. El Gobierno de Santos no aporta ni un 
+peso nuevo en la base presupuestal. También se establecen paupérrimos incrementos 
+a partir del crecimiento del PIB  (art. 105). Aunado a lo anterior, la concurrencia al 
+pasivo pensional, que es una obligación estatal, se extiende a todas las universidades e 
+instituciones de educación superior (art. 110). Con el proyecto se va a atacar de manera 
+
+=== PAGINA_PDF 41 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+180
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+hecho de que la reforma a la Ley 30 no haya sido consultada con la com u-
+nidad universitaria y sí con “las multinacionales y el capital financiero” y 
+explica la introducción del ánimo de lucro como una consecuencia de los 
+acuerdos suscritos por el país en el marco del TLC con Estados Unidos
+95
+.
+Las articulaciones y la deﬁnición del “nosotros”
+Como se ha visto, la lucha del movimiento estudiantil no se plantea 
+como una lucha gremial, sino se proyecta para representar los intereses 
+de la sociedad colombiana. Así intenta articular diversos sectores, no 
+sólo los estudiantes y universitarios. El discurso del movimiento intenta 
+articular los demás estudiantes, de universidades públicas y privadas, 
+técnicas y tecnológicas, de secundaria:
+La embestida oﬁcial en contra de la universidad y de los estudian-
+tes hace indispensable la unidad del conjunto de procesos y vertientes 
+existentes al interior del movimiento estudiantil, el cual fortalecido 
+con dicha pluralidad, ahondará esfuerzos por derrotar el cúmulo de 
+medidas que niegan la existencia de una educación pública y que hace 
+muy oneroso estudiar en otro tipo de instituciones.
+96
+severa la autonomía y la democracia universitaria pues la acreditación, que es un 
+instrumento de chantaje, adoptará formas más lesivas pues será otorgada por una entidad 
+privada y posiblemente extranjera mediante ‘convenios de asociación’, y para colmo 
+deberá ser pagada por las universidades (art. 77). Finalmente, persiste el subsidio a la 
+demanda pues el gobierno se obliga a transferir recursos a las instituciones de educación 
+superior privadas sin ánimo de lucro y a cualquiera que obtenga la acreditación de 
+alta calidad (art. 108) y no sólo persistirá con el sistema de Icetex para los ‘subsidios 
+de matrícula’ (art. 115), ﬁnanciados por el Banco Mundial y que tanto afectan a los 
+estudiantes, particularmente, de las universidades privadas, sino que se establecerá un 
+Fondo para la Permanencia Estudiantil (art. 116) para los gastos de sostenimiento de 
+‘quien lo requiera’” . “Declaración Política del Encuentro Nacional Estudiantil del 19 
+y 20 de marzo de 2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de 
+noviembre de 2011.
+95.  “Esta propuesta que no se consultó con profesores, estudiantes y trabajadores, sí 
+fue concertada con las multinacionales y con el capital ﬁnanciero. Así quedó consignado 
+en el capítulo de comercio transfronterizo de servicios del Tratado de Libre Comercio 
+entre Colombia y Estados Unidos, en donde Colombia se comprometió a crear una 
+‘forma de tipo especíﬁco de entidad jurídica para los servicios de enseñanza superior’. Las 
+multinacionales de la educación superior y las universidades corporativas requieren que 
+las universidades sean sociedades con ánimo de lucro para repartir dividendos, recibir 
+todo tipo de inversiones y para enterrar la educación como derecho y volverla un servicio 
+objeto de especulación”. “Declaración Política del Encuentro Nacional Estudiantil del 
+19 y 20 de marzo de 2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de 
+noviembre de 2011.
+96.  “Declaración Política del Encuentro Nacional Estudiantil del 19 y 20 de marzo de 
+
+=== PAGINA_PDF 42 ===
+181
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Conscientes de los enormes esfuerzos que requiere la consolida-
+ción de este proceso, pero convencidos del momento histórico que nos 
+compete, convocamos a toda Colombia, pero en especial a los jóvenes 
+y estudiantes, profesores, trabajadores y directivos, a que defendamos 
+la educación como un derecho, y para que luchemos de manera 
+decidida por un nuevo sistema educativo que siente las bases para las 
+transformaciones que requiere el país y así alcanzar la senda deﬁnitiva 
+de paz, democracia y soberanía.
+97
+Este discurso se manifestaba en consignas como: “¿Quién es usted? 
+Soy estudiante. No lo escuché. Soy estudiante. Una vez más. Soy est u-
+diante, soy (bis). Yo quiero estudiar para cambiar la sociedad. ¡Vamos a 
+la lucha!”. Este lema muestra una intención articuladora, no discrimina 
+entre estudiantes de distintas procedencias, sino los hace equivalentes 
+en tanto estudiantes. En ese sentido, en la Cuarta Sesión de la MANE , 
+por iniciativa de los estudiantes del Sena, se resolvió adoptar el término 
+Instituciones de Educación Superior ( IES) en lugar del de universidades. 
+En la declaración final se afirmó: “Porque es el romanticismo el que 
+posibilita la existencia de sueños, anhelos y utopías. Sueños como este, 
+el de un espacio donde se puede confluir y crear entre todos y todas 
+los estudiantes de Colombia –sean universitarios, técnicos, tecnólogos 
+y secundaristas
+98
+–. Pero también pretendía articular los demás sectores 
+populares y los movimientos sociales:
+La MANE  se ratiﬁca como un espacio amplio, democrático, 
+pluralista que reúne a organizaciones y estudiantes de instituciones 
+de educación superior y de educación técnica y tecnológica; la MANE  
+se constituye como escenario de trabajo y lucha por la defensa de la 
+educación como un derecho fundamental… En su política de unidad 
+con el movimiento social y popular del país, busca articularse con 
+otros sectores y procesos, para avanzar en la defensa del derecho 
+fundamental de la educación y demás derechos sociales. Se buscarán 
+mayores niveles de articulación y coordinación con profesores y 
+trabajadores de la educación a través de la participación en espacios 
+como las multiestamentarias. También se invita a los compañeros y 
+2011 en Bogotá”, en http://prensauniversidad.tk/. Consultado el 7 de noviembre de 2011.
+97.  “Declaración de la Mesa Amplia Nacional Estudiantil (MANE )”, en http://www.
+ocecolombia.com/2011/09/declaracion-de-la-mesa-amplia-nacional.html. Consultado el 7 
+de noviembre de 2011.
+98.  “Declaración de la IV Sesión Mesa Amplia Nacional Estudiantil (MANE ) 3 y 4 de 
+diciembre de 2011, Universidad Sur Colombiana, Neiva”, en http://manecolombia.
+blogspot.com/. Consultado el 10 de diciembre de 2011.
+
+=== PAGINA_PDF 43 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+182
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+compañeras de secundaria a dar el debate frente a su participación en 
+un espacio nacional como este. Finalmente se resalta el espíritu de la 
+MANE  de convertirse en un futuro cercano en un espacio común de 
+defensa de la educación.
+99
+En fin, el discurso político del movimiento se orientó a articular el 
+pueblo colombiano a su lucha:
+En un contexto nacional en el cual priman los intereses de acumu-
+lación de unos cuantos empresarios a la voluntad del pueblo colom-
+biano y en el que el Gobierno continua atentando contra los derechos 
+y libertades de su población por medio de medidas antidemocráticas 
+como la nueva ley de seguridad ciudadana y las presiones para que 
+fuese aprobado el TLC , la radicación de una propuesta de Nueva Ley 
+de Educación que no recoge el sentir de la comunidad universitaria 
+y que por el contrario lesiona sus intereses es hoy otro llamado a la 
+lucha, la organización y la movilización del pueblo colombiano en su 
+conjunto y particularmente de sus estudiantes.
+100
+Hemos considerado la construcción programática  como el medio 
+a través del cual podremos constituir un proyecto de reforma a la edu-
+cación superior, a partir del programa mínimo de los estudiantes, que 
+contenga el sentir de la población colombiana en general, que incluya 
+las necesidades de los estudiantes, este proceso será de convergencia 
+regional, pluriétnico, multicultural y social, de la comunidad académi-
+ca y los sectores sociales del pueblo colombiano.
+101
+Esta disposición a articular se manifestó en consignas utilizadas en 
+las jornadas de movilización, sobre todo en esta: “Amigo mirón: únase 
+al montón, su hijo es estudiante y usted es trabajador”, para articular el 
+ciudadano de a pié y mostrarle que el problema también le competía.
+99.  “Conclusiones de las mesas de trabajo de la Mesa Amplia Nacional de Estudiantes”, 
+en http://funcomisionesmodep.org/index.php?option=com_content&view=article&id
+=85:conclusiones-de-las-mesas-de-trabajo-de-la-mesa-amplia-nacional-de-estudiantes-
+&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+100.  “Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com_
+content&view=article&id=96:mesa-amplia-nacional-estudiantil-qjan-farid-cheng-
+lugoq&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+101.  “Declaración de la IV Sesión Mesa Amplia Nacional Estudiantil (MANE ), 3 y 4 
+de diciembre de 2011, Universidad Sur Colombiana, Neiva”, en http://manecolombia.
+blogspot.com/. Consultado el 10 de diciembre de 2011.
+
+=== PAGINA_PDF 44 ===
+183
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+El proyecto: una educación gratuita y de calidad al servicio del pueblo
+En correspondencia con su diagnóstico, el deber ser que el mov i-
+miento plantea, condensado en el Programa Mínimo de los Estudiantes, 
+es un proyecto de país donde la educación juega un papel importante 
+en la generación de igualdad, inclusión y oportunidades. Traza una 
+política cultural (Escobar et. al. 2001:25) que desafía los significados 
+hegemónicos de educación y democracia, en una cultura política 
+fuertemente marcada por el neoliberalismo donde el acceso a derechos 
+se concibe como responsabilidad del individuo más que del Estado. 
+Consignas como “Por una educación gratuita y de calidad” ubican la 
+responsabilidad por la educación en el Estado. El proyecto recoge la 
+intencionalidad política del Programa Mínimo de 1971. En la Primera 
+Sesión de la MANE  se acordaron sus 6 puntos para rechazar la propuesta 
+de nueva ley de educación superior, construir una propuesta alternativa 
+y fortalecer el movimiento estudiantil. Si bien fue adoptado por conse n-
+so
+102
+, se presentaron dos debates.
+Primero, algunos sectores plantearon que un pliego de peticiones 
+recogería mejor las demandas locales y serviría como herramienta 
+de negociación con el Gobierno. Otros privilegiaban un programa 
+mínimo, pues no era momento para negociar con el Gobierno, aún no se 
+presentaba el proyecto de ley, y para darle a la lucha una perspectiva de 
+largo plazo que contribuyera a la unidad del movimiento
+103
+. Al final se 
+102.  “Si hubo consenso en algo fue en el Programa Mínimo. Hubo grandes debates… 
+cogimos los seis puntos, los revisamos e hicimos una propuesta, y se empezó a dar el 
+debate y se terminó adoptando por un consenso generalizado” (Entrevista 5).
+103.  “Hubo otra discusión muy fuerte que tenía que ver con la construcción de un pliego 
+o un programa… porque se decía que teníamos que entrar al paro a negociar un pliego 
+o un programa. Un pliego no correspondía al momento político de la pelea porque una 
+característica básica de un pliego es que se hace para hacer un espacio de negociación, 
+pero como estábamos contra una propuesta de educación con la que no estábamos de 
+acuerdo de fondo ni de forma, pues no tenía sentido un pliego. Lo que se hizo con el 
+sector del pliego fue hacer una carta de exigencias: garantías para movilización, retiro del 
+proyecto de ley y desmilitarización de las universidades, enmarcadas en los objetivos del 
+paro” (Entrevista 4).
+“El tema del pliego se planteó por una cosa fundamental y es que era capaz de recoger las 
+necesidades concretas de lo local. Porque digamos que la MANE , con todos los problemas, 
+ha tenido la intencionalidad de discutir de abajo hacia arriba pero también de arriba 
+hacia abajo, es decir, tiene una relación dinámica de lo nacional a lo local y de lo local a lo 
+nacional, y si algo tenemos claro es que un programa máximo o una propuesta de ley tiene 
+que ser hecha de abajo hacia arriba… ¿por qué no se adoptó el tema del pliego? Porque 
+era reactivo, estrictamente era queremos esto y esto… el programa, como lo determina 
+en términos semánticos, es pensarse la articulación del movimiento estudiantil a mediano 
+plazo y era mucho menos reactivo” (Entrevista 5).
+
+=== PAGINA_PDF 45 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+184
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+acordó dejar un pliego en construcción y redactar el Programa. Segu n-
+do, existió una discusión sobre el punto seis del Programa, la relación 
+universidad-sociedad, si se debía incluir como aspiración del movimie n-
+to la solución política al conflicto armado
+104
+. Al final se decidió que sí.
+El Programa Mínimo
+105
+ presenta una concepción de educación 
+y de universidad que disputa los significados hegemónicos insertos 
+en la propuesta gubernamental. El primer punto, propende por el 
+“aseguramiento de la Educación como un derecho y una condición 
+necesaria para el desarrollo nacional, dejando de lado su connotación 
+como mercancía”. El segundo reivindica “la facultad de las Instituciones 
+de Educación Superior para definir sus cuerpos de Gobierno de manera 
+democrática y con participación mayoritaria de los estamentos que 
+componen la comunidad universitaria en la dirección de la misma”. El 
+tercero sostiene que el bienestar debe ser ofrecido por las universidades, 
+financiado por el Estado, y no a través de concesiones. El cuarto plantea 
+el descongelamiento de la planta docente en las universidades públicas 
+y el aumento progresivo de docentes de tiempo completo y dedicación 
+exclusiva, respeto y garantía de la libertad de cátedra y el aumento de la 
+cobertura en educación superior con calidad. El quinto, exige respeto y 
+apoyo a expresiones políticas, sociales y culturales y a formas de organ i-
+zación de profesores, estudiantes y trabajadores en las universidades, y la 
+protección a los derechos humanos. Finalmente, el sexto plantea:
+La universidad colombiana debe estar ligada a las necesidades más 
+sentidas del pueblo colombiano y al desarrollo y progreso de su mer-
+cado interno, por tanto su actividad académica e investigativa estará 
+a su servicio. Esto implica que la universidad pública debe discutir y 
+adoptar un nuevo modelo pedagógico que afronte, discuta y genere 
+alternativas con respecto a las problemáticas sociales, económicas y 
+104.  “Una discusión de la que sí me acuerdo y que fue lo de meter dentro del programa 
+claramente lo de la solución política al conﬂicto social y armado. Entonces había unos que 
+decían que sí y otros que eso no nos incumbía” (Entrevista 1).
+“Cuando se hizo el programa mínimo en la Universidad Distrital había un consenso sobre 
+los puntos que se recogieron… Hubo una discusión muy fuerte alrededor del sexto punto, 
+que es la relación universidad sociedad, que tiene que ver con los estudiantes alrededor 
+de la solución política al conﬂicto social y armado… habían posiciones que no aceptaban 
+que la universidad tenía que ver, pero que a partir de los argumentos se logró llegar a un 
+consenso frente a eso y cuando se construyó el programa mínimo no hubo necesidad de 
+votación” (Entrevista 4).
+105.  “Conclusiones de las mesas de trabajo de la Mesa Amplia Nacional de Estudiantes”, 
+en http://funcomisionesmodep.org/index.php?option=com_content&view=article&id
+=85:conclusiones-de-las-mesas-de-trabajo-de-la-mesa-amplia-nacional-de-estudiantes-
+&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+
+=== PAGINA_PDF 46 ===
+185
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+medio ambientales que afronta el país, vincule a los grupos étnicos y 
+culturales que componen la nación colombiana. Entendemos que la 
+extensión universitaria hace parte integral del quehacer académico de 
+la universidad, motivo por el cual este debe responder a las prioridades 
+y necesidades del pueblo colombiano.
+Con el Programa Mínimo la lucha del movimiento dejó de ser 
+reactiva para tornarse proactiva, dejó de ser contra la Ley 30 y pasó 
+a ser por otra educación. Pero la política cultural del movimiento 
+también se orientó hacia una resignificación de la democracia. Mientras 
+el Gobierno insistía en que el proyecto de ley debía discutirse en el 
+Congreso, el movimiento afirmaba que dada la situación de mayorías 
+del Gobierno, esa instancia perdía su legitimidad como espacio dem o-
+crático y, en consecuencia, la reforma debía discutirse en un espacio 
+amplio que recogiera las propuestas de diversos sectores:
+Entendiendo el tema de la educación superior como uno de los 
+más importantes para el desarrollo del país y la generación de mejores 
+condiciones para la sociedad y el pueblo colombiano, y teniendo como 
+base la idea de concebir la educación como un derecho, creemos 
+ﬁrmemente en la necesidad de que esta discusión se desarrolle fuera 
+del Congreso de la república, incluso también fuera de los claustros 
+universitarios, de tal manera que se garantice la inclusión de múltiples 
+sectores sociales del país, que tienen propuestas referentes a la 
+educación superior y que tienen una gran relevancia para la generación 
+de un modelo educativo acorde a las necesidades más sentidas del 
+pueblo colombiano…  Tenemos claro que con la actual constitución 
+del Congreso de la República, con una amplia mayoría de la bancada 
+de Gobierno, aglutinada en la mesa de Unidad Nacional, no es posible 
+asegurar una construcción realmente colectiva de la ley, así como 
+tampoco aceptamos que esas mayorías en el Congreso nos impongan 
+sus intereses políticos sobre las posiciones de los universitarios y del 
+pueblo en su conjunto. Es fundamental que bajo estas condiciones sea 
+un escenario democrático el que construya la nueva ley de Educación 
+Superior, el cual esté constituido por los estamentos universitarios y los 
+sectores de la sociedad interesados en el tema
+106
+.
+106.  “Carta abierta de los y las estudiantes colombianos a la Comisión 6 de la Cámara de 
+Representantes, al gobierno nacional y a la sociedad colombiana”, en http://feucolombia.
+org/index.php?option=com_content&view=article&id=170:carta-abierta-de-los-y-las-
+estudiantes-colombianos-a-la-comision-6-de-la-camara-de-representantes-al-gobierno-
+nacional-y-a-la-sociedad-colombiana&catid=38:inicio. Consultado el 11 de noviembre de 
+2011.
+
+=== PAGINA_PDF 47 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+186
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+En distintos momentos se planteó la necesidad de “llenar de cont e-
+nido” el Programa. En la Segunda Sesión de la MANE , se definieron tres 
+instancias que deberían conducir a la construcción de una propuesta de 
+ley alternativa. Primero se recogerían los aportes de los espacios locales 
+y regionales, luego se llevaría a cabo el Encuentro Nacional Program á-
+tico para, finalmente, construir una propuesta con los demás sectores 
+interesados en un modelo alternativo de acuerdo a las necesidades del 
+pueblo
+107
+. Este compromiso se reafirma en la convocatoria a la Cuarta 
+Sesión: “La tarea más importante de ésta generación de estudiantes 
+es la de garantizar para las generaciones futuras la educación como 
+Derecho, pública, gratuita, democrática y de altísima calidad, tarea que 
+dependerá del nivel de articulación con otros sectores para la con s-
+trucción colectiva y de la Unidad del movimiento estudiantil”
+108
+. En la 
+Declaración final
+109
+, se planteó un calendario para la construcción del 
+proyecto con base en el Programa Mínimo, que se articula a procesos 
+como el cabildo nacional de educación de la Marcha Patriótica o el 
+congreso de educación en el Congreso de los Pueblos.
+La praxis cultural
+Las acciones colectivas también transmiten mensajes y disputan 
+significados. La praxis cultural (Eyerman, 1998 ) del movimiento llamó 
+la atención de la opinión pública y obtuvo el apoyo de diversos sectores. 
+Las acciones del movimiento estudiantil se han caracterizado por 
+despliegues de contenido simbólico
+110
+. Pero fue en la coyuntura del 
+2011, aunada a la influencia del movimiento estudiantil chileno, lo que 
+107.  “Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com_
+content&view=article&id=96:mesa-amplia-nacional-estudiantil-qjan-farid-cheng-
+lugoq&catid=34:nacionales&Itemid=37. Consultado el 7 de noviembre de 2011.
+108.  “Convocatoria IV Sesión Ordinaria de la Mesa Amplia Nacional Estudiantil MANE ”, 
+en http://manecolombia.blogspot.com/2011/11/convocatoria-iv-sesion-ordinaria-de-la.
+html. Consultado el 29 de noviembre de 2011.
+109.  “Declaración de la IV Sesión Mesa Amplia Nacional Estudiantil (MANE ) 3 y 4 
+de diciembre de 2011, Universidad Sur Colombiana, Neiva”, en http://manecolombia.
+blogspot.com/. Consultado el 10 de diciembre de 2011.
+110.  “Lo que se privilegia es la transmisión de un mensaje, que sea claro. Y eso no 
+se planeó, no se premeditó, no fue un acuerdo táctico ni mucho menos. Es decir, el 
+movimiento estudiantil siempre se ha caracterizado por expresarse desde las ideas, desde 
+la cultura, desde el arte, desde el folclor, siempre, o sea eso no es nuevo. Las formas de la 
+protesta no han cambiado, lo que pasa es que son diversas y en determinados momentos 
+priman más unas que otras o de alguna manera tienen más salida unas que otras… y el 
+objetivo ha sido articular, ganar apoyos” (Entrevista 9).
+
+=== PAGINA_PDF 48 ===
+187
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+motivó que este tipo de acción atrajera la atención
+111
+, estimulando la 
+imaginación y haciéndola el principal repertorio
+112
+. El argumento de 
+que las protestas estudiantiles estaban infiltradas fue contrarrestado 
+con el carácter no violento que, en general, caracterizó el movimiento. 
+En ello radicó buena parte de su éxito, al privilegiar repertorios como 
+las marchas pacíficas y expresivas, con estudiantes desnudos portando 
+en sus cuerpos eslóganes de protesta, dramatizaciones alusivas a la 
+crisis de la educación superior y la reforma, besatones, abrazatones, 
+carnavales y universidad al parque.
+Por ejemplo, el 7 de abril, en Cali, los estudiantes hicieron cadenas 
+humanas para proteger la movilización de la violencia. El 12 de octubre, 
+en Pereira, marcharon con un ataúd para simbolizar que el Gobierno 
+mataba la educación
+113
+. En Barranquilla y Bogotá, varias estudiantes 
+marcharon desnudas con un cartel que decía: “Para estudiar nos tocó 
+vender la ropa”. El 26 de octubre decenas de estudiantes abrazaron los 
+policías en la plaza de Bolívar, luego se tomaron de las manos e hicieron 
+una ronda. En la marcha del 3 de noviembre, al medio día, cerca de 
+500 estudiantes hicieron una besatón en el cruce de la avenida Jiménez 
+con carrera séptima en Bogotá. En la tarde, un grupo de estudiantes se 
+acostó en el suelo formando un letrero que decía: “Ni reforma ni Ley 
+30”. En la noche se desarrolló el “carnaval nocturno y besatón por la 
+educación”. Estos repertorios tuvieron un gran apoyo de estudiantes de 
+universidades privadas y quienes se sumaron a la protesta en el camino, 
+surgieron de forma espontánea en lo local, y ante su éxito empezaron a 
+planificarse a nivel nacional
+114
+.
+111.  “Algo que me di cuenta en esta movilización es que el estudiantado nunca se va a 
+ganar los medios en términos institucionales, pero digamos al periodista, el que viene y 
+hace la nota de prensa, era un man que respaldaba la movilización estudiantil… antes era 
+difícil buscar los medios, ahora los medios nos buscan” (Entrevista 4).
+112.  “Ha cambiado las formas de protesta, eso ha sido muy importante porque ha apelado 
+a las formas culturales, a las formas poco ortodoxas, a formas de convocatoria, hay unas 
+formas muy particulares, la ‘ton’ es una nueva moda en el movimiento estudiantil, la 
+besatón, la abrazatón, todo termina en ton, hay disfraces, hay música, hay batucada. Es 
+decir, eso ha cambiado porque ya no es el mismo como nosotros lo sabemos identiﬁcar 
+y es la misma característica del movimiento obrero de marchar, de caminar, sino que es 
+por el contrario una cosa mucho más cultural que ha posibilitado, digamos, esa es la raíz 
+de una cosa muy importante que tiene el movimiento estudiantil y es la gran aceptación 
+social” (Entrevista 5).
+113.  “Marcha estudiantil en las principales ciudades colombianas”, en http://www.
+elespectador.com/noticias/nacional/articulo-305099-marcha-estudiantil-principales-
+ciudades-colombianas. Consultado el 12 de octubre de 2011.
+114.  “Empezaron a surgir esas grandes ideas sobretodo desde lo local, eso habrá que 
+
+=== PAGINA_PDF 49 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+188
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Prueba de esa espontaneidad fue el abrazo a los policías del 26 
+de octubre, determinante en el apoyo de la opinión pública. Acto 
+significativo, transmitía un cambio en las formas de protesta. El hecho 
+de que un movimiento que lucha por la educación se mostrara lejano 
+a la violencia, desarmó cualquier intento de criminalizar la protesta y 
+dio a entender que la lucha por la educación no discriminaba a nadie, 
+ni siquiera a los policías
+115
+. Sin embargo, fue espontáneo. Ese día se 
+había planeado un abrazatón y una ronda lúdica en la plaza de Bolívar 
+para romper el estilo de ocupar ese espacio, tradicionalmente con una 
+tarima, discursos y arengas, pero la abrazatón no incluía la policía. Al 
+parecer, los estudiantes que lo realizaron provenían de universidades 
+privadas o no eran organizados
+116
+.
+decirlo… La besatón consistía en que parejas, no necesariamente heterosexuales, que 
+durante 30 minutos, 30 con el tema simbólico de la ley 30, se besaran en forma de 
+protesta. Pero había un cartel que decía: la educación debe ser como los besos, gratuita, 
+de calidad y para todo el mundo. Entonces digamos que era politizar formas culturales de 
+poner la protesta. La abrazatón era abrazarnos todos y todas, uno, en señalización de que 
+el movimiento estudiantil se fraternalizaba (sic), se hacía mucho más fuerte, pero además 
+era por ejemplo hacer abrazatones afuera de la universidad, hacer grandes cadenas 
+humanas afuera de las universidades para no dejar entrar la reforma. Digamos que esas 
+formas de protesta eran formas alternativas, eran formas muy diferentes de lo que ha sido 
+tradicionalmente la movilización en Colombia” (Entrevista 5).
+“La espontaneidad es lo que ha jugado mucho, si todo lo hubiera deﬁnido la MANE  no 
+hubiera salido ni la mitad de lo que se hizo. Usted ha visto los videos por internet, los 
+comunicados y todo el mundo ahora es artista y se disfrazan y hacen comparsas y todo, 
+todo el mundo tiene la iniciativa propia y hace de todo” (Entrevista 6).
+115.  “Yo no abrazo un policía, ni nadie de mi organización abraza un policía, pero es muy 
+conveniente que un compañero que tal vez tenga un padre policía abrace a su padre, o 
+abrace a su tío, o a su hermano, o a su primo, listo, si quiere hacerlo… el simple hecho de 
+que salga una foto abrazando a un policía hace que la gente vea en nosotros una posición 
+totalmente diferente, una posición de alguien que quiere dialogar, yo a usted no lo veo 
+como un enemigo, yo a usted lo veo es como un ser humano que también quiere estudiar, 
+que también quiere trabajar, que necesita también educación como yo necesito, hace que 
+el debate no se centre en que los chinos quieren echar piedra” (Entrevista 8).
+116.  “El hecho de que las universidades privadas participaran implicó ese tipo de acción 
+colectiva, las universidades públicas jamás irían a darle un abrazo a un policía… en esas 
+marchas que terminaron con abrazos a la policía eran fundamentalmente estudiantes 
+de universidades privadas, pues porque ellos no han tenido un ejercicio de represión 
+como tal tan fuerte como le ha tocado a otros espacios de universidades públicas. Yo 
+creo que los estudiantes de universidades públicas después de ver asesinado uno de sus 
+compañeros no iban a darle un abrazo a un policía” (Entrevista 4).
+“El tema de los abrazos a los policías fue algo espontáneo que sucedió el día 26 de octubre 
+aquí en Bogotá. Eso no había pasado en ninguna región y eso lo hicieron unos estudiantes 
+de universidades privadas. Y eso fue determinante. Muchos y muchas no estuvimos de 
+
+=== PAGINA_PDF 50 ===
+189
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Corolario
+En 2011 el movimiento estudiantil generó un intenso ciclo de 
+protesta, como pocas veces se ha visto en la historia reciente de C o-
+lombia, para oponerse a la reforma de la educación superior y plantear 
+un modelo de educación y de país distinto. En el camino consiguió 
+articular a su lucha diversos actores descontentos con medidas como la 
+introducción del ánimo de lucro y el hecho de que la reforma no fuese 
+construida democráticamente.
+El éxito del movimiento se explica por distintos factores. Aunque 
+las estrategias estatales de represión y criminalización de la protesta 
+no cesaron, el movimiento contó con un contexto que redujo los costos 
+de la acción colectiva producto de una actitud distinta del Gobierno 
+nacional en el manejo de la protesta, una estructura de oportunidades 
+particular en Bogotá donde la Alcaldía asumió una actitud de respeto al 
+derecho de protesta y un contexto de movilización mundial y estudia n-
+til. Pero no todo se explica por el contexto estructural, el movimiento 
+creó sus propias oportunidades políticas al articular diversos sectores a 
+su lucha, estudiantes de toda índole, profesores, trabajadores, padres de 
+familia y sectores de la clase política. Fue ello lo que le permitió ganar 
+el debate sobre la educación superior en la opinión pública y el apoyo de 
+actores sociales y populares, generar intranquilidad en la coalición de 
+gobierno y llevarlo a retirar su propuesta y disponerse a la construcción 
+concertada de una reforma.
+El éxito no habría sido posible sin la MANE , pues le permitió al m o-
+vimiento generar un proceso amplio de unidad y plantear una apretada 
+agenda de movilizaciones innovadoras de carácter nacional. Esta es 
+una organización joven y en construcción que, si bien responde a las 
+presiones de la coyuntura, recoge aprendizajes de distintas experiencias 
+de unidad. Su estructura horizontal y asamblearia tuvo que lidiar con 
+problemas de coordinación y en los mecanismos de toma de decisiones 
+y tensiones producto de la emergencia de un discurso antiorganización, 
+la discusión de las vocerías y la articulación con las regiones. Pero el 
+escenario de unidad permitió la generación de estrategias discursivas 
+para contrarrestar las campañas mediáticas del Gobierno y comunicar 
+acuerdo porque si bien es cierto hoy el movimiento estudiantil ha sabido entender que 
+el problema no es la policía… y muchos y muchas estuvimos al frente de que no hubiera 
+disturbios, no por defender a la policía, como se ha planteado, sino porque creíamos 
+que la discusión era llegar a la plaza de Bolívar y plantear lo que estábamos pidiendo” 
+(Entrevista 5).
+“Los que abrazaron a la policía fueron sectores no organizados y fueron espontáneas” 
+(Entrevista 10).
+
+=== PAGINA_PDF 51 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+190
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+los propósitos del movimiento. El éxito también se debe en buena 
+medida a estas estrategias donde el principal antagonista es el Gobie r-
+no, se reivindica la educación como derecho y no como mercancía, 
+y se plantea una lucha que se proyecta más allá de la comunidad 
+universitaria y el estudiantado para articular diversos actores sociales y 
+populares. Una política cultural que desafía significados hegemónicos 
+de educación, universidad y democracia, y una praxis cultural renovada 
+con amplia aceptación social.
+El movimiento deberá enfrentar el desafío de plantear un proyecto 
+de reforma de la educación superior alternativo y democrático, 
+construido con otros sectores, sin perder la capacidad de movilización, 
+y consolidar su proceso organizativo. De ello dependerá su impacto 
+institucional. Queda por ver si su influjo en la cultura política, pri n-
+cipalmente la gran aceptación social que despertó la protesta, es o no 
+duradero y si se mantienen los niveles de acción colectiva. Por ahora, 
+el movimiento ha revitalizado la protesta como forma de expresión 
+y participación política, aspecto que no es menor en un país donde 
+históricamente no ha tenido usos e impactos trascendentales.
+Bibliografía
+Blee, Katheen M., y Taylor Verta. “Semi-Structured Interviewing in Social 
+Movement Research”, en Bert Klandermans y Suzanne Staggenborg 
+(eds.), Methods of social movement research , Minneapolis-
+Londres, University of Minnesota Press, 2002, pp. 92-117.
+Della Porta, Donatella. “Movimientos sociales y Estado: algunas ideas en 
+torno a la represión policial de la protesta”, en Doug McAdam, John D. 
+McCarthy y Mayer N. Zald (eds.), Movimientos sociales: perspectivas 
+comparadas. Oportunidades políticas, estructuras de movilización y 
+marcos interpretativos culturales , Madrid, Itsmo, 1999, pp. 100-142.
+Escobar, Arturo, Sonia Álvarez y Evelina Dagnino. “Introducción. Lo cultural 
+y lo político en los movimientos sociales latinoamericanos”, en Política 
+cultural y cultura política. Una nueva mirada sobre los movimientos 
+sociales latinoamericanos , Madrid, Taurus-Icanh, 2001, pp. 17-48.
+Eyerman, Ron. “La praxis cultural de los movimientos sociales”, en Pedro Ibarra 
+y Banjamín Tejerina (eds.), Los movimientos sociales. Transformaciones 
+políticas y cambio cultural , Madrid, Trotta, 1998, pp. 139-163.
+Gamson, William A. y David S., Meyer. “Marcos interpretativos de la 
+oportunidad política”, en Doug McAdam, John D. McCarthy y Mayer 
+N Zald. (eds.). Movimientos sociales: perspectivas comparadas. 
+Oportunidades políticas, estructuras de movilización y marcos 
+interpretativos culturales , Madrid, Itsmo, 1999, pp. 389-412.
+Johnston, Hank. “Veriﬁcation and Proof in Frame and Discourse 
+Analysis”, en Bert Klandermans y Suzanne Staggenborg (eds.). 
+
+=== PAGINA_PDF 52 ===
+191
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+Methods of social movement research , Minneapolis-Londres, 
+University of Minnesota Press, 2002, pp. 62-91.
+Laclau, Ernesto y Chantal Mouffe. Hegemonía y estrategia 
+socialista, Madrid, Siglo XXI , 1987.
+McAdam Doug. “Orígenes terminológicos, problemas actuales, futuras 
+líneas de investigación”, en Doug McAdam, John D. McCarthy y 
+Mayer N. Zald (eds.), Movimientos sociales: perspectivas comparadas. 
+Oportunidades políticas, estructuras de movilización y marcos 
+interpretativos culturales , Madrid, Itsmo, 1999, pp. 49-70.
+McAdam, Doug, John D. McCarthy y Mayer N. Zald. “Oportunidades, estructuras 
+de movilización y procesos enmarcadores: hacia una perspectiva sintética 
+y comparada de los movimientos sociales”, en Doug McAdam, John D. 
+McCarthy y Mayer N. Zald (eds.), Movimientos sociales: perspectivas 
+comparadas. Oportunidades políticas, estructuras de movilización y 
+marcos interpretativos culturales , Madrid, Itsmo, 1999, pp. 21-46.
+McCarthy, John D. “Adoptar, adaptar e inventar límites y oportunidades”, 
+en Doug McAdam, John D. McCarthy y Mayer N. Zald (eds.), 
+Movimientos sociales: perspectivas comparadas. Oportunidades 
+políticas, estructuras de movilización y marcos interpretativos 
+culturales, Madrid, Itsmo, 1999, pp. 205-220.
+Melucci, Alberto. Acción colectiva, vida cotidiana y 
+democracia, México, Colegio de México, 1999.
+Olson, Mancur. “La lógica de la acción colectiva”, en Albert Batlle (ed.), Diez 
+textos básicos de ciencia política , Barcelona, Ariel, 1992, pp. 203-220.
+Rivas, Antonio. “El análisis de los marcos: una metodología para el 
+estudio de los movimientos sociales”, en Pedro Ibarra y Banjamín 
+Tejerina (eds.), Los movimientos sociales. Transformaciones 
+políticas y cambio cultural , Madrid, Trotta, 1998, pp. 181-215.
+Smelser, Neil. Teoría del comportamiento colectivo , México, FCE , 1995.
+Snow, David A. y Robert D., Benfort. “Master frames and cycles of protest”, en 
+Aldon D. Morris y Mueller Carol McClury, Frontiers in social movement 
+theory, New Haven y Londres, Yale University Press, 1992, pp. 133-155.
+Tarrow, Sidney. El poder en movimiento. Los movimientos sociales, 
+la acción colectiva y la política , Madrid, Alianza, 1997.
+Tarrow, Sidney. “Estado y oportunidades: la estructuración política de los 
+movimientos sociales”, en Doug McAdam, John D. McCarthy y Mayer 
+N. Zald (eds.), Movimientos sociales: perspectivas comparadas. 
+Oportunidades políticas, estructuras de movilización y marcos 
+interpretativos culturales , Madrid, Itsmo, 1999, pp. 71-99.
+Touraine, Alain. El regreso del actor, Buenos Aires, Eudeba, 1987.
+Zald, Mayer N. “Cultura, ideología y creación de marcos estratégicos”, 
+en Doug McAdam, John D. McCarthy y Mayer N. Zald (eds.), 
+Movimientos sociales: perspectivas comparadas. Oportunidades 
+políticas, estructuras de movilización y marcos interpretativos 
+culturales, Madrid, Itsmo, 1999, pp. 369-388.
+
+=== PAGINA_PDF 53 ===
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+192
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+documentos mane
+“Carta abierta de los y las estudiantes colombianos a la Comisión 6 de 
+la Cámara de Representantes, al gobierno nacional y a la sociedad 
+colombiana”, en http://feucolombia.org/index.php?option=com_co
+ntent&view=article&id= 170:carta-abierta-de-los-y-las-estudiantes-
+colombianos-a-la-comision-6-de-la-camara-de-representantes-al-
+gobierno-nacional-y-a-la-sociedad-colombiana&catid=38:inicio 
+[noviembre 8 de 2011]. Consultado el 11 de noviembre de 2011.
+2º Comunicado a propósito de la radicación de la Ley de 
+Educación Superior”, en http://www.conapcolombia.
+org/?p=1454. Consultado el 7 de noviembre de 2011.
+“Comunicado de la Mesa Amplia Estudiantil de Universidades 
+Privadas-Bogotá”, en http://prensauniversidad.tk/ [octubre 
+4 de 2011]. Consultado el 22 de noviembre de 2011.
+“Comunicado MANE  Jornada Nacional de Movilización 12 de Octubre 
+de 2011” en http://manecolombia.blogspot.com/search?updated-
+min=2011-01-01T00%3A00%3A00-08%3A00&updated-
+max=2012-01-01T00%3A00%3A00-08%3A00&max-results=19 
+[octubre 12 de 2011]. Consultado el 6 de noviembre de 2011.
+“Conclusiones Comité Operativo, 5 de noviembre de 2011”, en http://
+funcomisionesmodep.org/index.php?option=com_content&
+view=article&id= 105:conclusiones-comite-operativo-05-de-
+noviembre-de-2011&catid=34:nacionales&Itemid=37 [noviembre 
+10 de 2011]. Consultado el 11 de noviembre de 2011.
+“Conclusiones de las mesas de trabajo de la Mesa Amplia Nacional de Estudiantes”, 
+en http://funcomisionesmodep.org/index.php?option=com_content& v
+iew=article&id= 85:conclusiones-de-las-mesas-de-trabajo-de-la-mesa-
+amplia-nacional-de-estudiantes-&catid= 34:nacionales&Itemid=37 
+[agosto 21 de 2011]. Consultado el 7 de noviembre de 2011.
+“Conclusiones del Comité operativo de la MANE  del 10 de septiembre de 2011”, en 
+http://www.ocecolombia.com/ 2011/09/conclusiones-del-comite-operativo-
+de-la.html [septiembre 14 de 2011]. Consultado el 7 de noviembre de 2011.
+“Conclusiones del Encuentro Nacional Estudiantil del 19 y 20 de marzo 
+de 2011 en Bogotá”, en http://www.moir.org.co/Conclusiones-del-
+Encuentro.html. Consultado el 7 de noviembre de 2011.
+“Convocatoria Encuentro Nacional Estudiantil, 19 y 20 de marzo 
+de 2011”, en http://prensauniversidad.tk/ [marzo 20 de 
+2011]. Consultado el 7 de noviembre de 2011.
+“Convocatoria IV  Sesión Ordinaria de la Mesa Amplia Nacional Estudiantil 
+MANE ”, en http://manecolombia.blogspot.com/2011/11/convocatoria-iv-
+sesion-ordinaria-de-la.html. Consultado el 29 de noviembre de 2011.
+“Declaración de la IV  Sesión Mesa Amplia Nacional EstudiantiL 
+(MANE ) 3 y 4 de diciembre de 2011, Universidad Sur Colombiana, 
+Neiva”, en http://manecolombia.blogspot.com/ [diciembre 
+10 de 2011]. Consultado el 10 de diciembre de 2011.
+
+=== PAGINA_PDF 54 ===
+193
+La MANE y el paro nacional universitario de 2011 en Colombia   · Edwin Cruz Rodríguez
+C I ENC IA POL ÍTI CA Nº 14    JUL IO- DI C I EMBRE   2012  
+I SSN  1909-230X/ PÁG S. 140-193
+“Declaración de la Mesa Amplia Nacional Estudiantil (MANE )”, en http://
+www.ocecolombia.com/2011/09/declaracion-de-la-mesa-amplia-nacional.
+html [agosto 21 de 2011]. Consultado el 7 de noviembre de 2011.
+“Declaración Política del Comité Operativo de la Mesa Amplia 
+Nacional Estudiantil del 7 de mayo de 2011 en Bogotá”, en http://
+prensauniversidad.tk/. Consultado el 5 de noviembre de 2011.
+“Declaración Política del Encuentro Nacional Estudiantil del 19 y 
+20 de marzo de 2011 en Bogotá”, en http://prensauniversidad.
+tk/. Consultado el 7 de noviembre de 2011.
+“Declaración Política Mesa Amplia Nacional Estudiantil (MANE )”, en http://
+manecolombia.blogspot.com/2011/11/declaracion-politica-mesa-amplia.
+html [noviembre 13 de 2011]. Consultado el 13 de noviembre de 2011.
+“MANE  y Consulta Nacional Universitaria” [sin fecha.]
+“Mesa Amplia Nacional Estudiantil ‘Jan Farid Cheng Lugo’ - Declaración 
+Final”, en http://funcomisionesmodep.org/index.php?option=com _
+content&view=article&id= 96:mesa-amplia-nacional-estudiantil-
+qjan-farid-cheng-lugoq&catid= 34:nacionales&Itemid=37 [octubre 
+21 de 2011]. Consultado el 7 de noviembre de 2011.
+“Nuestra palabra empeñada - Declaración MANE  16 de Noviembre”, en http://
+manecolombia.blogspot.com/. Consultado el 16 de noviembre de 2011.
+entrevistas
+1. Integrante (m) de la Coordinadora Estudiantil de Asuntos 
+Rurales (CEAR ), Bogotá, noviembre 11 de 2011.
+2. Integrante (m) del Proceso Nacional Identidad 
+Estudiantil, Bogotá, noviembre 16 de 2011.
+3. Integrante (f) de Conciencia Crítica, Bogotá, noviembre 16 de 2011.
+4. Integrante (m) de la Federación de Estudiantes Universitarios 
+(FEU ), Bogotá, noviembre 17 de 2011.
+5. Integrante (m) del Sindicato Estudiantil, Bogotá, noviembre 17 de 2011.
+6. Integrante (m) de la Organización Colombiana de Estudiantes 
+(OCE ), Bogotá, noviembre 21 de 2011.
+7. Integrante (m) de la Federación Universitaria Nacional (FUN -
+Comisiones), Bogotá, noviembre 22 de 2011.
+8. Integrante (f) de la Corriente Estudiantil Alternativa 
+Popular, Bogotá, noviembre 22 de 2011.
+9. Integrante (m) del Proceso Nacional Identidad 
+Estudiantil, Bogotá, noviembre 23 de 2011.
+10. Integrante (m) de la Asociación Colombiana de Estudiantes 
+Universitarios (ACEU ), Bogotá, Noviembre 23 de 2011.
+11. Integrante (m) de Rebeldía Estudiantil Organizada 
+(REO ), Bogotá, noviembre 23 de 2011.

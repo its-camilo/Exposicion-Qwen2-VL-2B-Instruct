@@ -1,0 +1,327 @@
+{
+  "proyecto": "Exposicion-Qwen2-VL-2B-Instruct",
+  "fecha_organizacion": "2026-10-03",
+  "origenes": {
+    "carpeta": "/Users/itscamilo/Downloads/Protestas_universitarias_Bogota/",
+    "informe_35MB": "/Users/itscamilo/Downloads/Reventando Silencios Memorias del 16 de mayo.pdf",
+    "guia_extra": "/Users/itscamilo/Downloads/Guia_y_catalogo_Bogota_1971_2025.pdf (difiere del incluido; conservado como extra)",
+    "zip": "Protestas_universitarias_Bogota_1971_2025.zip (NO descomprimido)"
+  },
+  "zip_duplicado": {
+    "veredicto": "duplicado exacto, no descomprimir",
+    "detalle": "unzip -l muestra 21 ficheros con tamanos identicos a la carpeta (Guia 71188, F01 19048851, F02 447028, F03 1759745, F07 327043, F08 504853, F11 8924816, jsonl 24214/3181, etc.)"
+  },
+  "conteos": {
+    "train_entrenamiento_piloto_30": 30,
+    "train_qwen_chat": 30,
+    "val_validacion_3": 3,
+    "test_evaluacion_10": 10
+  },
+  "splits": {
+    "criterio": "grupos de eventos 80/10/10 (no lineas aleatorias)",
+    "train": "T001-T030 (30)",
+    "val": "T011(1971/F07), T015(2011/F08), T023(2019/F12) — copias de train, sin 1984; para validacion estricta excluir estos T de train (quedarian 27)",
+    "test": "E001-E010 (F14/F15, 2024-2025) reservado, NO entrenar",
+    "leakage_E00x_en_train": false
+  },
+  "formato_qwen": {
+    "esquema": "{\"messages\":[{\"role\":\"system|user|assistant\",\"content\":str}],\"images\":null}",
+    "validacion_json": "python3 json.loads por linea OK en 4 jsonl",
+    "images": "null (solo texto); ver README sec.8 para anadir PNG de paginas PDF"
+  },
+  "imagenes_muestra": {
+    "generadas": false,
+    "motivo": "pymupdf (fitz) no instalado; solo documentado en README"
+  },
+  "fuentes_F01_F20": [
+    {
+      "id": "F01",
+      "titulo": "Una típica mañana bogotana, «pero todos los días morimos»: entre la historia y la memoria de la mañana del 16 de mayo de 1984",
+      "autor": "Sergio Hernando Hurtado Sáenz",
+      "fecha_publicacion": "2021-04-09",
+      "licencia_observada": "CC BY-NC-ND 4.0",
+      "archivo_pdf": "F01_Hurtado_1984_Goliardos.pdf"
+    },
+    {
+      "id": "F02",
+      "titulo": "16 de mayo de 1984: pasado y presente en disputa. Algunas reflexiones a propósito del aniversario 35 de los acontecimientos",
+      "autor": "Juan Sebastián Flórez Herrera",
+      "fecha_publicacion": "2019-12-27",
+      "licencia_observada": "CC BY-NC 4.0",
+      "archivo_pdf": "F02_Florez_1984_Controversia.pdf"
+    },
+    {
+      "id": "F03",
+      "titulo": "Violencia en la Universidad Nacional de Colombia, 1958-2018",
+      "autor": "Mauricio Archila Neira; Esteban Roncancio",
+      "fecha_publicacion": "2021-10-04",
+      "licencia_observada": "CC BY-NC 4.0",
+      "archivo_pdf": "F03_Archila_Roncancio_1958_2018.pdf"
+    },
+    {
+      "id": "F04",
+      "titulo": "16 de mayo de 1984: a 40 años de la masacre en la Universidad Nacional",
+      "autor": "Unidad para las Víctimas",
+      "fecha_publicacion": "2024 (conmemoración; sin fecha exacta visible)",
+      "licencia_observada": "No se identificó licencia específica en la página",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F05",
+      "titulo": "¿Qué pasó el 16 de mayo de 1984 en la Universidad Nacional?",
+      "autor": "Comisión de la Verdad",
+      "fecha_publicacion": "2021-02-23",
+      "licencia_observada": "No verificada",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F06",
+      "titulo": "16 de mayo de 1984, en la memoria de la Universidad Nacional",
+      "autor": "Pompilio Peña Montoya / Hacemos Memoria",
+      "fecha_publicacion": "2021-02-20",
+      "licencia_observada": "No se verificó licencia para reutilización integral",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F07",
+      "titulo": "Protesta estudiantil en la crisis universitaria de 1971 en Colombia: la Juventud Patriótica (JUPA) y la Nueva Izquierda",
+      "autor": "Álvaro Acevedo Tarazona; Emilio Lagos Cortés",
+      "fecha_publicacion": "2022-08-11",
+      "licencia_observada": "CC BY-NC-ND 2.5 Colombia",
+      "archivo_pdf": "F07_Crisis_universitaria_1971.pdf"
+    },
+    {
+      "id": "F08",
+      "titulo": "La MANE y el paro nacional universitario de 2011 en Colombia",
+      "autor": "Edwin Cruz Rodríguez",
+      "fecha_publicacion": "2012-07-01",
+      "licencia_observada": "CC BY-NC-ND 2.5 Colombia",
+      "archivo_pdf": "F08_MANE_2011.pdf"
+    },
+    {
+      "id": "F09",
+      "titulo": "Subjetividades políticas y organizaciones estudiantiles en la Universidad Pedagógica Nacional (2010-2014)",
+      "autor": "Leidy Marcela Chocontá Clavijo; Diana Carolina Hoyos Rubio; Liseth Lorena Rodríguez Velásquez",
+      "fecha_publicacion": "2020",
+      "licencia_observada": "CC BY-NC-ND 4.0 según ficha Redcol",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F10",
+      "titulo": "Participación en las marchas estudiantiles del 2018 de jóvenes de Bogotá",
+      "autor": "Laura Natalia Fonseca Osorio; Vanessa Martínez Arciniegas",
+      "fecha_publicacion": "2019",
+      "licencia_observada": "CC BY-NC-ND 4.0 según ficha Redcol",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F11",
+      "titulo": "Movimiento estudiantil 2018-2019 en el marco de la Colombia contemporánea",
+      "autor": "Sara Gabriela Torres Benítez",
+      "fecha_publicacion": "2021-04-09",
+      "licencia_observada": "CC BY-NC-ND 4.0",
+      "archivo_pdf": "F11_Movimiento_2018_2019.pdf"
+    },
+    {
+      "id": "F12",
+      "titulo": "Comunicado de estudiantes del DIE por la actual situación de la Universidad Distrital",
+      "autor": "Estudiantes del Doctorado Interinstitucional en Educación, UDFJC",
+      "fecha_publicacion": "2019-10-01",
+      "licencia_observada": "No se identificó licencia específica en la página",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F13",
+      "titulo": "Comunicado No. 01 del 11 de mayo de 2021",
+      "autor": "Consejo Superior de la Universidad Pedagógica Nacional",
+      "fecha_publicacion": "2021-05-11",
+      "licencia_observada": "No verificada",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F14",
+      "titulo": "El campus UNAL: un espacio para reconectar, revivir y reencontrarse",
+      "autor": "Bienestar Universitario, Universidad Nacional de Colombia",
+      "fecha_publicacion": "2024-07-31",
+      "licencia_observada": "No se verificó licencia específica",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F15",
+      "titulo": "Vías en Bogotá y rutas de TransMilenio hoy lunes 24 de noviembre",
+      "autor": "Ginna R. Sánchez / Bogotá.gov.co",
+      "fecha_publicacion": "2025-11-24",
+      "licencia_observada": "No se verificó licencia específica",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F16",
+      "titulo": "Estudiantes de universidades públicas en Bogotá protestan en contra de las decisiones del CSU",
+      "autor": "Caracol Radio",
+      "fecha_publicacion": "2025-11-24",
+      "licencia_observada": "Todos los derechos reservados; la página incluye reserva de reproducciones y usos mecánicos",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F17",
+      "titulo": "Base de Datos de Luchas Sociales: luchas sociales en Colombia 1975-2019",
+      "autor": "CINEP/Programa por la Paz",
+      "fecha_publicacion": "Sin fecha de publicación visible",
+      "licencia_observada": "El sitio permite utilización citando a CINEP/PPP; verificar condiciones del conjunto específico",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F18",
+      "titulo": "Las protestas estudiantiles",
+      "autor": "Juan Francisco Malagón Camargo / Archivo de Bogotá",
+      "fecha_publicacion": "2020-11",
+      "licencia_observada": "Copyright institucional; sin licencia específica verificada",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F19",
+      "titulo": "Explicando al movimiento estudiantil colombiano en el 2018: una aproximación contenciosa",
+      "autor": "Daniel Marún Burgos",
+      "fecha_publicacion": "2021-08-02",
+      "licencia_observada": "CC BY-NC-ND 4.0",
+      "archivo_pdf": null
+    },
+    {
+      "id": "F20",
+      "titulo": "Nuestra palabra empeñada - Declaración MANE 16 de Noviembre",
+      "autor": "Voceros MANE Bogotá / blog MANE Colombia",
+      "fecha_publicacion": "2011-11-16",
+      "licencia_observada": "No se verificó licencia de reutilización integral",
+      "archivo_pdf": null
+    }
+  ],
+  "advertencias_licencia": [
+    "CC BY-NC-ND (F01,F07,F08,F09,F10,F11,F19) y CC BY-NC (F02,F03): uso no comercial, sin derivadas donde aplique",
+    "F16 todos los derechos reservados: solo referencia, sin SFT",
+    "F04/F05/F06/F12-F15/F17/F18/F20 sin licencia verificada: revisar uso previsto",
+    "Los 30 ejemplos son redaccion sintetica cotejada, no revision experta; OCR F01/F11 pendiente de revision",
+    "Este manifest no otorga derechos; ver catalogo_fuentes.json y LEEME.md"
+  ],
+  "archivos": {
+    "README_DATASET.md": {
+      "sha256": "1b3a7829a64ed7e957e6b04fe1f3024b0b28459081a79057c00d19ebf24f1d0f",
+      "bytes": 8962
+    },
+    "raw/Guia_y_catalogo_Bogota_1971_2025.pdf": {
+      "sha256": "66c0a051cb0a8b6366727b481f5aaf748143a5f9cc8a8066a1fe1ef1739cd0c4",
+      "bytes": 71188
+    },
+    "raw/Guia_y_catalogo_Bogota_1971_2025_EXTRA_descargas.pdf": {
+      "sha256": "06ffba085df9be2364eeeb8df44d6a5ea8da138abc0d74aabaf9522c4d4bdc53",
+      "bytes": 96159
+    },
+    "raw/LEEME.md": {
+      "sha256": "3bd571de7866b867a8e77dc4de45dec2cc9ed67d487767341842a976a0538f5e",
+      "bytes": 8653
+    },
+    "raw/atribuciones_y_control.json": {
+      "sha256": "33c635ab8209e69f7ecc066fc9352f12fdd97cb3a19f97f79130e4b2f408f347",
+      "bytes": 4123
+    },
+    "raw/catalogo_fuentes.json": {
+      "sha256": "16e2a4b875e286c07e7418c67382dad7eb3fb8f2bf0bdd0c6f5555f51628510f",
+      "bytes": 25666
+    },
+    "raw/catalogo_fuentes.md": {
+      "sha256": "4fe42e0b2077ead30fc9438172b0a5a9f270787164bfceb0428c588615f60f26",
+      "bytes": 20092
+    },
+    "raw/contextos_evaluacion.json": {
+      "sha256": "2c0addc398f9c02c281dd12c5dc5fdafc19cef96e35675bddacaf960b258d259",
+      "bytes": 855
+    },
+    "raw/entrenamiento_piloto_30.jsonl": {
+      "sha256": "78ea8122f7ba89bd88ce22a25c8295b30bd15b5d8e69c112b63a4ef245dd75eb",
+      "bytes": 24214
+    },
+    "raw/evaluacion_con_evidencia_10.jsonl": {
+      "sha256": "df12cc1305950a0f7493ec4da57e738bba0ad87051cfaff5a6bd8364b8b5893c",
+      "bytes": 3181
+    },
+    "raw/informe_reventando_silencios/Reventando Silencios Memorias del 16 de mayo.pdf": {
+      "sha256": "c0164271a01afaf0ccdd808479d85e98ba0b489c5c1f7fb872735c0b29c61f70",
+      "bytes": 35261559
+    },
+    "raw/pdfs_originales/F01_Hurtado_1984_Goliardos.pdf": {
+      "sha256": "c180be0f84091c6e9263ef25b591d9091119b4aa201fab68a61283e24b950d46",
+      "bytes": 19048851
+    },
+    "raw/pdfs_originales/F02_Florez_1984_Controversia.pdf": {
+      "sha256": "aa9756acd59fbac984d31a9b619acbeb9f5c72055df399c055c6330c6cd86d5a",
+      "bytes": 447028
+    },
+    "raw/pdfs_originales/F03_Archila_Roncancio_1958_2018.pdf": {
+      "sha256": "57c4be9eee442cd1eedf08b0b398451b0bbaa7076170e0b65c5f7594383f3374",
+      "bytes": 1759745
+    },
+    "raw/pdfs_originales/F07_Crisis_universitaria_1971.pdf": {
+      "sha256": "b983336c0499ec9c77a961526a51d8ff97f0d3a6fbe41e4f3fff131322170279",
+      "bytes": 327043
+    },
+    "raw/pdfs_originales/F08_MANE_2011.pdf": {
+      "sha256": "4d5cf1ae446914993a4d625d4ff5987489f6052162dcdaa33455b528ad150076",
+      "bytes": 504853
+    },
+    "raw/pdfs_originales/F11_Movimiento_2018_2019.pdf": {
+      "sha256": "bfe6f8626de9157b60a0a74147e4a1a956104d6cfc2287ab6144c3fc6343ade6",
+      "bytes": 8924816
+    },
+    "raw/textos_para_preparacion/F01_texto_trabajo.txt": {
+      "sha256": "dbb76c3e60b9dcd6e2182657cd9a373bd7fa1ccd58811ff84be0db8011175bba",
+      "bytes": 38766
+    },
+    "raw/textos_para_preparacion/F02_texto_trabajo.txt": {
+      "sha256": "8bc7ba7752cd8af004dfb613590f25bf9a19915c17a60543afe9d175bdf13d33",
+      "bytes": 57203
+    },
+    "raw/textos_para_preparacion/F03_texto_trabajo.txt": {
+      "sha256": "d601973f5c33bab3b9f8f017a8911927d1a7b5267f40529664b51f4490e04cfb",
+      "bytes": 94031
+    },
+    "raw/textos_para_preparacion/F07_texto_trabajo.txt": {
+      "sha256": "20d344429e84fd3c9aa3d0e2ced65bcc5df77bb02ea4305dcd8a56e1c1c2434d",
+      "bytes": 90667
+    },
+    "raw/textos_para_preparacion/F08_texto_trabajo.txt": {
+      "sha256": "607c85ea2fe90ee773bd836afaea1e993fe490240036ad32cc2a68fea67b5fd4",
+      "bytes": 178676
+    },
+    "raw/textos_para_preparacion/F11_texto_trabajo.txt": {
+      "sha256": "5b4528f444a6ae8b331485a73f7b3206df8c5321a3ddc3568d13bff219cdfac9",
+      "bytes": 18673
+    },
+    "raw/trazabilidad_entrenamiento.json": {
+      "sha256": "0b6ff2d1f67ed719055e37fffbb01a9222bfe4d5d750d5666f489a38be398b25",
+      "bytes": 14524
+    },
+    "test_reservado/NO_ENTRENAR.txt": {
+      "sha256": "4c4cf6b2093881f2daf2ebce6fa7739be0035f6b808cda25c828f1cec3a9c63b",
+      "bytes": 973
+    },
+    "test_reservado/contextos_evaluacion.json": {
+      "sha256": "2c0addc398f9c02c281dd12c5dc5fdafc19cef96e35675bddacaf960b258d259",
+      "bytes": 855
+    },
+    "test_reservado/evaluacion_con_evidencia_10.jsonl": {
+      "sha256": "df12cc1305950a0f7493ec4da57e738bba0ad87051cfaff5a6bd8364b8b5893c",
+      "bytes": 3181
+    },
+    "train/entrenamiento_piloto_30.jsonl": {
+      "sha256": "78ea8122f7ba89bd88ce22a25c8295b30bd15b5d8e69c112b63a4ef245dd75eb",
+      "bytes": 24214
+    },
+    "train/train_qwen_chat.jsonl": {
+      "sha256": "930cf878b48d626c97473f0db503c0a9a505acb2414dd864cd26a07d1ebb325d",
+      "bytes": 24694
+    },
+    "val/validacion_3.jsonl": {
+      "sha256": "a08eb02c0f4accb07b445009eb754134fd2f37fa61ad31ef485d0fbc008cff56",
+      "bytes": 2479
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "C2024": {
+    "fuentes": [
+      "F14"
+    ],
+    "texto": "La nota de Bienestar UNAL del 31 de julio de 2024 informa que las actividades académicas y de bienestar se retomaron el 22 de julio. Vincula el retorno a diálogos entre estudiantes, docentes, egresados y personal administrativo. Describe espacios y actividades del campus de Bogotá.",
+    "localizador": "Párrafos iniciales de la nota F14"
+  },
+  "C2025": {
+    "fuentes": [
+      "F15"
+    ],
+    "texto": "El reporte de Bogotá.gov.co del 24 de noviembre de 2025 registra manifestaciones de estudiantes de la Nacional y la Distrital. A las 6:30 p. m. informa la habilitación de la calle 26 en ambos sentidos; a las 7:22 p. m. registra nuevamente un cierre preventivo en calle 26 con carrera 33.",
+    "localizador": "Apartado de manifestaciones; cortes 6:30 p. m. y 7:22 p. m."
+  }
+}
