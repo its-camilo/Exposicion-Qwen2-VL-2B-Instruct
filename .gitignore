@@ -22,3 +22,6 @@ Modelfile.ft
 !scripts/*.sh
 !Modelfile
 !README_MODELO.md
+
+# macOS
+.DS_Store
