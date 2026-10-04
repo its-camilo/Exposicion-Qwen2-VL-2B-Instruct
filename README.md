@@ -68,7 +68,7 @@ Requisito: `models/ft-model.gguf` + `models/ft-mmproj.gguf` (los deja `run_con_a
 ./scripts/run_llamacpp_ft.sh   # sirve en http://localhost:8080
 ```
 
-Abre esa URL, adjunta la imagen con el clip y pregunta. Notas honestas:
+Abre **http://localhost:8080/index.html** (página incluida en `webui/`), adjunta la imagen con el botón y pregunta. Notas honestas:
 
 - En M1 8GB corre en CPU (`-ngl 0`): más lento pero evita OOM de Metal (con GPU falla por memoria). Para probar GPU parcial: `NGL=20 ./scripts/run_llamacpp_ft.sh`.
 - `ollama run` interactivo **no acepta imágenes**, y `qwen2vl-expo-ft` quedó en Ollama sin capacidad `vision` (el GGUF local se registró sin mmproj). Para visión con el finetuneado usa llama.cpp.

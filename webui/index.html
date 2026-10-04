@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Qwen2-VL finetuneado — preguntas con imagen</title>
+<style>body{font-family:sans-serif;max-width:720px;margin:2em auto}textarea{width:100%}#resp{white-space:pre-wrap;border:1px solid #ccc;padding:1em;min-height:4em}img{max-width:100%}</style>
+</head>
+<body>
+<h1>Qwen2-VL finetuneado (protestas Bogotá) + imagen</h1>
+<p>1. Elige una imagen &nbsp;2. Escribe la pregunta &nbsp;3. Preguntar</p>
+<input type="file" id="img" accept="image/*"><br><br>
+<textarea id="q" rows="3">¿Qué fecha y qué actores aparecen en la imagen? Cita Fxx si aplica.</textarea><br><br>
+<button onclick="preguntar()">Preguntar</button>
+<h2>Respuesta</h2>
+<div id="resp">(aquí aparecerá la respuesta)</div>
+<script>
+async function preguntar(){
+  const f = document.getElementById('img').files[0];
+  const q = document.getElementById('q').value || 'Describe la imagen.';
+  if(!f){ alert('Elige primero una imagen'); return; }
+  document.getElementById('resp').textContent = '(pensando...)';
+  const b64 = await new Promise(res => { const r = new FileReader(); r.onload = () => res(r.result); r.readAsDataURL(f); });
+  const body = {messages:[{role:'user',content:[{type:'text',text:q},{type:'image_url',image_url:{url:b64}}]}], max_tokens:512, temperature:0.0};
+  try{
+    const r = await fetch('/v1/chat/completions',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const j = await r.json();
+    document.getElementById('resp').textContent = r.ok ? j.choices[0].message.content : 'Error '+r.status+': '+JSON.stringify(j);
+  }catch(e){ document.getElementById('resp').textContent = 'Error de red: '+e; }
+}
+</script>
+</body>
+</html>

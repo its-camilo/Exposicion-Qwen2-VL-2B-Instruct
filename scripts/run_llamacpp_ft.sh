@@ -16,9 +16,10 @@ else
   echo "AVISO: sin models/ft-mmproj.gguf funcionará el chat pero NO la visión."
 fi
 
-echo "Sirviendo finetuneado (ngl=$NGL) en http://localhost:8080 ..."
+echo "Sirviendo finetuneado (ngl=$NGL) en http://localhost:8080/index.html ..."
 exec llama-server \
   -m models/ft-model.gguf \
   ${MMPROJ:+--mmproj "$MMPROJ"} \
   -ngl "$NGL" \
+  --path "$PROJ/webui" \
   --host 127.0.0.1 --port 8080
