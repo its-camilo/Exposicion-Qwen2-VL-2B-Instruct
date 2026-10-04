@@ -82,6 +82,37 @@ Abre **http://localhost:8080/index.html** (página incluida en `webui/`), adjunt
 4. Guarda LoRA en Drive + push Hub + exporta GGUF Q4_K_M para el Mac.
 5. La celda 7 hace **antes vs después** con 5 preguntas fijas y guarda `resultados_antes_despues.json`.
 
+## Ejecutar el flujo en otro PC
+
+Requisitos: git, ~8 GB libres en disco, 8 GB+ RAM. Los pesos **no están en git**
+(`models/*.gguf` ignorado): cada PC los consigue una vez y los scripts hacen el resto.
+
+1. **Clonar** (repo privado: antes `gh auth login` o clona con token/SSH):
+   ```bash
+   git clone https://github.com/its-camilo/Exposicion-Qwen2-VL-2B-Instruct.git
+   cd Exposicion-Qwen2-VL-2B-Instruct
+   ```
+2. **Chat con la base** (solo texto, ~1 GB de descarga):
+   instala Ollama (Mac: `brew install ollama` + `brew services start ollama`;
+   Linux: script de ollama.com; Windows: instalador) y corre:
+   ```bash
+   ./scripts/run_sin_adaptador.sh
+   ```
+3. **Chat con el finetuneado**: consigue el GGUF fusionado + mmproj (copia de
+   respaldo en Drive de la celda 6b, reexportando 6b en Colab, o copiando `models/`
+   por USB) y déjalos en `~/Descargas`. Luego:
+   ```bash
+   ./scripts/run_con_adaptador.sh   # los detecta y crea qwen2vl-expo-ft
+   ```
+4. **Visión con el finetuneado**: instala llama.cpp (`brew install llama.cpp` o
+   binarios de github.com/ggml-org/llama.cpp) y corre:
+   ```bash
+   ./scripts/run_llamacpp_ft.sh     # abre http://localhost:8080/index.html
+   ```
+   En PCs con poca VRAM/RAM usa CPU: `NGL=0 ./scripts/run_llamacpp_ft.sh` (lento pero seguro).
+5. **Reentrenar desde cero**: todo lo necesario ya está en el repo (`dataset/` +
+   `notebooks/`): repite la sección "Finetune en Colab" y trae el GGUF nuevo a este paso 3.
+
 ## Licencias
 
 Fuentes CC BY-NC-ND (varias) + testimonios. Uso académico/no comercial. Ver `dataset/README_DATASET.md` § licencias. No afirma memoria factual perfecta con 30 ejemplos: es piloto.
