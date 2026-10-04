@@ -2,7 +2,8 @@
 # Lanza Ollama con el modelo FINETUNEADO (qwen2vl-expo-ft).
 # Detecta solo en ~/Downloads (o models/):
 #   1) GGUF fusionado de Colab (celda 6b): *protestas*.gguf, *merged*.gguf,
-#      *finetune*.gguf, *ft*.gguf, *lora*.gguf -> crea qwen2vl-expo-ft FROM ese GGUF.
+#      *finetune*.gguf, *Qwen2-VL*.gguf (excluye *mmproj*) + su mmproj
+#      -> copia ambos a models/ y crea qwen2vl-expo-ft FROM la copia local.
 #   2) Solo LoRA crudo (qwen2vl-2b-protestas-bogota-lora.zip/dir): Ollama actual
 #      ya no acepta adaptadores sueltos (instrucción ADAPTER eliminada); se indica
 #      cómo generar el GGUF fusionado en Colab.
@@ -11,13 +12,24 @@ set -euo pipefail
 PROJ="$(cd "$(dirname "$0")/.." && pwd)"
 DL="$HOME/Downloads"
 
-GGUF="$(ls -t "$DL"/*[Pp]rotestas*.gguf "$DL"/*merged*.gguf "$DL"/*finetune*.gguf "$DL"/*[Ff]t*.gguf "$DL"/*[Ll]ora*.gguf "$PROJ"/models/*[Pp]rotestas*.gguf 2>/dev/null | head -n 1 || true)"
+MODEL="$(ls -t "$DL"/*[Pp]rotestas*.gguf "$DL"/*merged*.gguf "$DL"/*finetune*.gguf "$DL"/*Qwen2-VL*.gguf "$PROJ"/models/*[Pp]rotestas*.gguf 2>/dev/null | grep -vi 'mmproj' | head -n 1 || true)"
+MMPROJ="$(ls -t "$DL"/*mmproj*.gguf "$PROJ"/models/*mmproj*.gguf 2>/dev/null | head -n 1 || true)"
 
-if [[ -n "${GGUF:-}" ]]; then
-  echo "GGUF finetuneado detectado: $GGUF"
-  { echo "FROM $GGUF"; grep -v '^FROM ' "$PROJ/Modelfile"; } > "$PROJ/Modelfile.ft"
+if [[ -n "${MODEL:-}" ]]; then
+  echo "GGUF finetuneado detectado: $MODEL"
+  cp -n "$MODEL" "$PROJ/models/ft-model.gguf" 2>/dev/null || true
+  if [[ -n "${MMPROJ:-}" ]]; then
+    echo "Mmproj detectado: $MMPROJ"
+    cp -n "$MMPROJ" "$PROJ/models/ft-mmproj.gguf" 2>/dev/null || true
+  else
+    echo "AVISO: sin mmproj en Descargas -> funcionara el chat pero NO la vision."
+    echo "Descarga tambien el *-mmproj.gguf con la celda 6c y reejecuta."
+  fi
+  { echo "FROM $PROJ/models/ft-model.gguf"; grep -v '^FROM ' "$PROJ/Modelfile"; } > "$PROJ/Modelfile.ft"
   ollama create qwen2vl-expo-ft -f "$PROJ/Modelfile.ft"
-  echo "Corriendo FINETUNEADO (qwen2vl-expo-ft). Para imágenes usa ./scripts/run_llamacpp.sh con este GGUF."
+  echo "Corriendo FINETUNEADO (qwen2vl-expo-ft)."
+  echo "Si las imagenes no responden en Ollama, usa llama.cpp con mmproj:"
+  echo "  llama serve -m $PROJ/models/ft-model.gguf --mmproj $PROJ/models/ft-mmproj.gguf"
   exec ollama run qwen2vl-expo-ft
 fi
 
@@ -30,6 +42,6 @@ if ls "$DL"/qwen2vl-2b-protestas-bogota-lora* >/dev/null 2>&1; then
 fi
 
 echo "No encontré ni GGUF fusionado ni LoRA en $DL."
-echo "En Colab ejecuta la celda 6c (descargar adaptador) y/o 6b (exportar GGUF Q4_K_M),"
+echo "En Colab ejecuta la celda 6b (exportar GGUF Q4_K_M + mmproj) y 6c (descargar),"
 echo "luego reejecuta este script."
 exit 1
